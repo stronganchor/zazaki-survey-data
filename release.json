@@ -1,0 +1,40 @@
+{
+  "release_date": "2026-10-10",
+  "license": "CC0-1.0",
+  "speakers": 7,
+  "current_survey_concepts": 50,
+  "historical_concept_registry": 57,
+  "unique_recording_clips": 276,
+  "audio_duration_seconds": 306.291,
+  "audio_bytes": 9813456,
+  "curated_form_rows": 281,
+  "annotation_rows": 282,
+  "speaker_concept_slots": 399,
+  "additional_approved_utterances": 6,
+  "additional_historical_recoveries": 2,
+  "explicit_withheld_slots": 3,
+  "current_parse_list_overlap": 38,
+  "counts_by_speaker": {
+    "spk01": 43,
+    "spk02": 38,
+    "spk03": 40,
+    "spk04": 37,
+    "spk05": 41,
+    "spk06": 28,
+    "spk07": 49
+  },
+  "raw_questionnaires_included": false,
+  "full_session_recordings_included": false,
+  "prompt_images_included": false,
+  "fresh_listening_claimed": false,
+  "native_parse_project_compatibility_verified": false,
+  "current_visible_transcription_counts": [
+    35,
+    34,
+    35,
+    35,
+    34,
+    26,
+    49
+  ]
+}

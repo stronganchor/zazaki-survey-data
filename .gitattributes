@@ -1,0 +1,3 @@
+* text=auto eol=lf
+*.wav binary
+*.tsv whitespace=-blank-at-eol

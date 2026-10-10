@@ -1,0 +1,400 @@
+id	speaker_id	concept_id	current_survey	response_status	recording_available	transcription_orthography	transcription_research_ipa	comparison_eligibility	user_reviewed
+spk01:ear	spk01	ear	True	available	True	gweş	gʷɛʃ	core	True
+spk01:eye	spk01	eye	True	available	True	çım	t̪͡ʃɪm	core	True
+spk01:nose	spk01	nose	True	available	True	pırnık	pʰɨɾnɪkʰ	core	True
+spk01:mouth	spk01	mouth	True	available	True	fâk	fækʰ	core	True
+spk01:tooth	spk01	tooth	True	available	True	dınûn	d̪ɨnun	core	True
+spk01:tongue	spk01	tongue	True	available	True	zûn	zun	core	True
+spk01:knee	spk01	knee	False	available	True	qapwêt lingû	qʰapʷʰet̪ʰ lɪŋgu	core	True
+spk01:belly	spk01	belly	True	available	True	pizı	pʰizɪ	core	True
+spk01:neck	spk01	neck	True	available	True	mıl	mɪl	core	True
+spk01:foot	spk01	foot	True	available	True	lıng	lɪŋg	core	True
+spk01:sun	spk01	sun	True	available	True	tic	t̪ʰid̪͡ʒ	core	True
+spk01:moon	spk01	moon	True	available	True	aşm	aʃm̥	core	True
+spk01:cloud	spk01	cloud	True	available	True	hewır	hɛwɨɾ	core	True
+spk01:fire	spk01	fire	True	available	True	adır	ad̪ɨɾ̥	core	True
+spk01:mountain	spk01	mountain	True	available	True	kwı	kʷʰɪ	core	True
+spk01:tree	spk01	tree	True	available	True	dar	d̪aɾ	core	True
+spk01:leaf	spk01	leaf	True	available	True	pel	pʰɛl	core	True
+spk01:bone	spk01	bone	True	available	True	estı	ʔɛst̪ʰɪ	core	True
+spk01:egg	spk01	egg	True	available	True	hak	hakʰ	core	True
+spk01:feather	spk01	feather	False	available	True	pêl miçkû	pʰel mit̪ʃkʰu	core	True
+spk01:dog	spk01	dog	True	available	True	kwıtık	kʷʰɨt̪ʰɪkʰ	core	True
+spk01:bird	spk01	bird	True	available	True	mirçık	miɹt̪͡ʃɪkʰ	core	True
+spk01:snake	spk01	snake	True	available	True	mar	maɾ̥	core	True
+spk01:fish	spk01	fish	True	available	True	ması	masɪ	core	True
+spk01:worm	spk01	worm	False	available	True	karm	kʰaɹm	core	True
+spk01:red	spk01	red	True	available	True	swır	sʷɨɾ	core	True
+spk01:green	spk01	green	True	available	True	kwıhe	kʷʰɨhɛ	core	True
+spk01:yellow	spk01	yellow	True	available	True	zerd	zɛɹd̪	core	True
+spk01:white	spk01	white	True	available	True	sıpyê	sɨpʰje	core	True
+spk01:black	spk01	black	True	available	True	sya	sja	core	True
+spk01:to-drink	spk01	to-drink	False	available	True	ho howk şımen	ho howk ʃɪmɛn	excluded	True
+spk01:to-eat	spk01	to-eat	True	available	True	ho nûn wen	ho nun wɛn	core	True
+spk01:to-hear	spk01	to-hear	False	available	True	heşnıwıt	hɛʃnɨwɨt̪ʰ	core	True
+spk01:to-sleep	spk01	to-sleep	True	available	True	ho kwen	ho kʷɛn	core	True
+spk01:to-swim	spk01	to-swim	True	available	True	ho asnow ken	ho asnow kʰɛn	core	True
+spk01:to-fly	spk01	to-fly	True	available	True	ha perrena	ha pʰɛrɛna	core	True
+spk01:to-walk	spk01	to-walk	True	available	True	ho rahar ra şın	ho rahaɾ ɾa ʃɪn	core	True
+spk01:to-lie-down	spk01	to-lie-down	True	available	True	ho qeldayı	ho qʰæld̪ajɪ	core	True
+spk01:to-sit	spk01	to-sit	True	available	True	ho rınıştayı	ho rɨnɪʃt̪ʰajɪ	excluded	True
+spk01:to-say-talk	spk01	to-say-talk	True	available	True	xâbêr dûn	χæbeɾ dun	core	True
+spk01:bread-from-eating	spk01	bread-from-eating	False	available	True	ho nûn wen	ho nun wɛn	core	True
+spk01:to-listen	spk01	to-listen	False	available	True	ho gweştâri ken	ho gʷɛʃt̪ʰæɾi kʰɛn	core	True
+spk01:hand	spk01	hand	True	not_elicited	False			missing	False
+spk01:hair	spk01	hair	True	not_elicited	False			missing	False
+spk01:fly-insect	spk01	fly-insect	True	not_elicited	False			missing	False
+spk01:to-write	spk01	to-write	True	not_elicited	False			missing	False
+spk01:to-read	spk01	to-read	True	not_elicited	False			missing	False
+spk01:stone	spk01	stone	True	not_elicited	False			missing	False
+spk01:head	spk01	head	True	not_elicited	False			missing	False
+spk01:water	spk01	water	True	not_elicited	False			missing	False
+spk01:snow	spk01	snow	True	not_elicited	False			missing	False
+spk01:walnut	spk01	walnut	True	not_elicited	False			missing	False
+spk01:one	spk01	one	True	not_elicited	False			missing	False
+spk01:two	spk01	two	True	not_elicited	False			missing	False
+spk01:three	spk01	three	True	not_elicited	False			missing	False
+spk01:four	spk01	four	True	not_elicited	False			missing	False
+spk01:five	spk01	five	True	not_elicited	False			missing	False
+spk02:ear	spk02	ear	True	available	True	gweş	gʷɛʃ	core	True
+spk02:eye	spk02	eye	True	available	True	çım	t̪͡ʃɪm	core	True
+spk02:nose	spk02	nose	True	available	True	vıni	vɪni	core	True
+spk02:mouth	spk02	mouth	True	available	True	fek	fɛkʰ	core	True
+spk02:tooth	spk02	tooth	True	available	True	dûndû	d̪und̪u	core	True
+spk02:tongue	spk02	tongue	True	available	True	zû	zu	core	True
+spk02:knee	spk02	knee	False	available	True	çaqê	t̪͡ʃaqʰe	core	True
+spk02:belly	spk02	belly	True	available	True	meşk	mɛʃkʰ	core	True
+spk02:neck	spk02	neck	True	available	True	mıl	mɪl	core	True
+spk02:foot	spk02	foot	True	available	True	lıng	lɪŋg	core	True
+spk02:sun	spk02	sun	True	not_elicited	False			excluded	True
+spk02:moon	spk02	moon	True	available	True	aşm	aʃm̥	core	True
+spk02:cloud	spk02	cloud	True	available	True	howr	howɾ	core	True
+spk02:fire	spk02	fire	True	available	True	adır	ad̪ɨɾ	core	True
+spk02:mountain	spk02	mountain	True	available	True	kwe	kʷʰɪ	core	True
+spk02:tree	spk02	tree	True	available	True	dar	d̪aɾᵊ	core	True
+spk02:leaf	spk02	leaf	True	available	True	pel	pʰɛl	core	True
+spk02:bone	spk02	bone	True	available	True	kate	kʰat̪ʰɛ	core	True
+spk02:egg	spk02	egg	True	available	True	hak	hakʰ	core	True
+spk02:feather	spk02	feather	False	available	True	pel mılçık	pʰɛl mɨlt̪͡ʃɪkʰ	core	True
+spk02:dog	spk02	dog	True	available	True	kwıtık	kʷʰɨt̪ʰɪkʰ	core	True
+spk02:bird	spk02	bird	True	available	True	mılçık	mɪlt̪͡ʃɪkʰ	core	True
+spk02:snake	spk02	snake	True	available	True	mar	maɾ	core	True
+spk02:fish	spk02	fish	True	available	True	mase	masɛ	core	True
+spk02:worm	spk02	worm	False	not_elicited	False			missing	False
+spk02:red	spk02	red	True	available	True	swır	sʷɨɾ	core	True
+spk02:green	spk02	green	True	available	True	kwıhe	kʷʰɨhɛ	core	True
+spk02:yellow	spk02	yellow	True	available	True	zerd	zɛɹd̪	core	True
+spk02:white	spk02	white	True	available	True	sıpi	sɨpʰi	core	True
+spk02:black	spk02	black	True	available	True	siya	sija	core	True
+spk02:to-drink	spk02	to-drink	False	available	True	awk wön	awkʰ wøn	excluded	True
+spk02:to-eat	spk02	to-eat	True	available	True	no wön	no wøn	core	True
+spk02:to-hear	spk02	to-hear	False	unresolved_or_different_meaning	False	gweştari kön	gʷɛʃt̪ʰaɾi kʰøn	missing	True
+spk02:to-sleep	spk02	to-sleep	True	available	True	raw kwön	raw kʷʰøn	core	True
+spk02:to-swim	spk02	to-swim	True	available	True	asnaw kön	asnaw kʰøn	core	True
+spk02:to-fly	spk02	to-fly	True	available	True	mılçık ha fırena	mɪlt̪͡ʃɪkʰ ha fɨrɛna	core	True
+spk02:to-walk	spk02	to-walk	True	available	True	mêrdım ha rar ra şön	meɹd̪ɨm ha ɾaːɾ ɾa ʃøn	core	True
+spk02:to-lie-down	spk02	to-lie-down	True	available	True	mêrdım xwe kyow derg	meɾd̪ɨm χʷɨ kʰʲow d̪ɛɾg	core	True
+spk02:to-sit	spk02	to-sit	True	available	True	mêrdım ha rışön	meɹd̪ɪm ha rɨʃøn	excluded	True
+spk02:to-say-talk	spk02	to-say-talk	True	available	True	mêrdım ha qal kön	meɹd̪ɨm ha qʰal kʰøn	core	True
+spk02:bread-from-eating	spk02	bread-from-eating	False	available	True	no wön	no wøn	core	True
+spk02:to-listen	spk02	to-listen	False	available	True	gweştari kön	gʷɛʃt̪ʰaɾi kʰøn	core	True
+spk02:hand	spk02	hand	True	not_elicited	False			missing	False
+spk02:hair	spk02	hair	True	not_elicited	False			missing	False
+spk02:fly-insect	spk02	fly-insect	True	not_elicited	False			missing	False
+spk02:to-write	spk02	to-write	True	not_elicited	False			missing	False
+spk02:to-read	spk02	to-read	True	not_elicited	False			missing	False
+spk02:stone	spk02	stone	True	not_elicited	False			missing	False
+spk02:head	spk02	head	True	not_elicited	False			missing	False
+spk02:water	spk02	water	True	not_elicited	False			missing	False
+spk02:snow	spk02	snow	True	not_elicited	False			missing	False
+spk02:walnut	spk02	walnut	True	not_elicited	False			missing	False
+spk02:one	spk02	one	True	not_elicited	False			missing	False
+spk02:two	spk02	two	True	not_elicited	False			missing	False
+spk02:three	spk02	three	True	not_elicited	False			missing	False
+spk02:four	spk02	four	True	not_elicited	False			missing	False
+spk02:five	spk02	five	True	not_elicited	False			missing	False
+spk03:ear	spk03	ear	True	available	True	gwış	gʷɨʃ	core	True
+spk03:eye	spk03	eye	True	available	True	çım	t̪͡ʃɪm	core	True
+spk03:nose	spk03	nose	True	available	True	zınc pırnık vêni	zɨnd̪͡ʒᵊ pʰɨrnɨkʰ veni	core	True
+spk03:mouth	spk03	mouth	True	available	True	fek	fɛkʰ	core	True
+spk03:tooth	spk03	tooth	True	available	True	dındûn	d̪ɨnd̪un	core	True
+spk03:tongue	spk03	tongue	True	available	True	zûwn	zuwn	core	True
+spk03:knee	spk03	knee	False	available	True	çaqe	t̪ʃaqʰɛ	core	True
+spk03:belly	spk03	belly	True	available	True	meşk	mɛʃkʰ	core	True
+spk03:neck	spk03	neck	True	available	True	mıl	mɨl	core	True
+spk03:foot	spk03	foot	True	available	True	lıng	lɨŋgᵊ	core	True
+spk03:sun	spk03	sun	True	available	True	tinc	t̪ʰind̪͡ʒɪ̆	core	True
+spk03:moon	spk03	moon	True	available	True	aşm	aʃm	core	True
+spk03:cloud	spk03	cloud	True	available	True	howr	howɾɪ̆	core	True
+spk03:fire	spk03	fire	True	available	True	adır	ad̪ɨɾ	core	True
+spk03:mountain	spk03	mountain	True	available	True	kwe	kʷʰɨ	core	True
+spk03:tree	spk03	tree	True	available	True	dar	d̪aɾ	core	True
+spk03:leaf	spk03	leaf	True	available	True	pel	pʰɛl	core	True
+spk03:bone	spk03	bone	True	available	True	aste	ast̪ʰɛ	core	True
+spk03:egg	spk03	egg	True	available	True	hak	hakʰ	core	True
+spk03:feather	spk03	feather	False	available	True	pırt	pʰɨɾt̪ʰ	core	True
+spk03:dog	spk03	dog	True	available	True	kwıtık	kʷʰɪt̪ʰɪkʰ	core	True
+spk03:bird	spk03	bird	True	available	True	mılçıkê rıf	mɨlt̪ʃɪkʰe rɪf	core	True
+spk03:snake	spk03	snake	True	available	True	mar	mar	core	True
+spk03:fish	spk03	fish	True	available	True	mase	masɛ	core	True
+spk03:worm	spk03	worm	False	available	True	kılê bın 'ard	kʰɨle bɨn ʔaɹd̪ɪ̆	core	True
+spk03:red	spk03	red	True	available	True	sür	sʉɾ	core	True
+spk03:green	spk03	green	True	available	True	kwıhe	kʷʰɪhɛ	core	True
+spk03:yellow	spk03	yellow	True	available	True	zerd	zɛɹd̪ᵊ	core	True
+spk03:white	spk03	white	True	available	True	sıpwi	sɨpʷʰi	core	True
+spk03:black	spk03	black	True	available	True	siya	sija	core	True
+spk03:to-drink	spk03	to-drink	False	available	True	awk fır kena	awkʰ fɨɾ kʰɛna	excluded	True
+spk03:to-eat	spk03	to-eat	True	available	True	non wena	non wɛna	core	True
+spk03:to-hear	spk03	to-hear	False	unresolved_or_different_meaning	False	gwıştarê kena gwıştarê	gʷɨʃt̪ʰaɾe kʰɛna gʷɨʃt̪ʰaɾe	missing	True
+spk03:to-sleep	spk03	to-sleep	True	available	True	ra kwena	ra kʷʰɛna	core	True
+spk03:to-swim	spk03	to-swim	True	available	True	asnaw kena	asnaw kʰɛna	core	True
+spk03:to-fly	spk03	to-fly	True	available	True	fırrena	fɨrɛna	core	True
+spk03:to-walk	spk03	to-walk	True	available	True	rayer ra şıno	rajɛɾa ʃɨno	core	True
+spk03:to-lie-down	spk03	to-lie-down	True	available	True	qâlebyeno	qʰælɛbjɛno	core	True
+spk03:to-sit	spk03	to-sit	True	available	True	rûnışeno	runɪʃɛno	excluded	True
+spk03:to-say-talk	spk03	to-say-talk	True	available	True	qal keno	qʰal kʰɛno	core	True
+spk03:bread-from-eating	spk03	bread-from-eating	False	available	True	non wena	non wɛna	core	True
+spk03:to-listen	spk03	to-listen	False	available	True	gwıştarê kena gwıştarê	gʷɨʃt̪ʰaɾe kʰɛna gʷɨʃt̪ʰaɾe	core	True
+spk03:hand	spk03	hand	True	not_elicited	False			missing	False
+spk03:hair	spk03	hair	True	not_elicited	False			missing	False
+spk03:fly-insect	spk03	fly-insect	True	not_elicited	False			missing	False
+spk03:to-write	spk03	to-write	True	not_elicited	False			missing	False
+spk03:to-read	spk03	to-read	True	not_elicited	False			missing	False
+spk03:stone	spk03	stone	True	not_elicited	False			missing	False
+spk03:head	spk03	head	True	not_elicited	False			missing	False
+spk03:water	spk03	water	True	not_elicited	False			missing	False
+spk03:snow	spk03	snow	True	not_elicited	False			missing	False
+spk03:walnut	spk03	walnut	True	not_elicited	False			missing	False
+spk03:one	spk03	one	True	not_elicited	False			missing	False
+spk03:two	spk03	two	True	not_elicited	False			missing	False
+spk03:three	spk03	three	True	not_elicited	False			missing	False
+spk03:four	spk03	four	True	not_elicited	False			missing	False
+spk03:five	spk03	five	True	not_elicited	False			missing	False
+spk04:ear	spk04	ear	True	available	True	gwış	gʷɨʃ	core	True
+spk04:eye	spk04	eye	True	unresolved_or_different_meaning	False			missing	False
+spk04:nose	spk04	nose	True	available	True	zıngê	zɪŋge	core	True
+spk04:mouth	spk04	mouth	True	available	True	fek	fɛkʰ	core	True
+spk04:tooth	spk04	tooth	True	available	True	dodong	d̪od̪õŋ	core	True
+spk04:tongue	spk04	tongue	True	available	True	zûng	zũŋ	core	True
+spk04:knee	spk04	knee	False	unresolved_or_different_meaning	False			missing	False
+spk04:belly	spk04	belly	True	available	True	pizı	pʰizɪ	core	True
+spk04:neck	spk04	neck	True	available	True	mıl	mɨl	core	True
+spk04:foot	spk04	foot	True	available	True	nıngı	nɨŋgɪ	core	True
+spk04:sun	spk04	sun	True	available	True	çicı	t̪͡ʃid̪͡ʒɪ	core	True
+spk04:moon	spk04	moon	True	available	True	aşmı	aʃmɨ	core	True
+spk04:cloud	spk04	cloud	True	available	True	hor	hoɾ	core	True
+spk04:fire	spk04	fire	True	available	True	adır	ad̪ɨɾ̥	core	True
+spk04:mountain	spk04	mountain	True	available	True	kûwı	kʰuwɪ	core	True
+spk04:tree	spk04	tree	True	available	True	darı	d̪aɾɪ	core	True
+spk04:leaf	spk04	leaf	True	available	True	pel pele pel pelû	pʰɛl pʰɛlɛ pʰɛl pʰɛlu	core	True
+spk04:bone	spk04	bone	True	available	True	heste	hɛ̈st̪ʰɛ̈	core	True
+spk04:egg	spk04	egg	True	available	True	hak	hɑ̆kʰ	core	True
+spk04:feather	spk04	feather	False	unresolved_or_different_meaning	False			missing	False
+spk04:dog	spk04	dog	True	available	True	kwıtık	kʷʰɨt̪ʰɪkʰ	core	True
+spk04:bird	spk04	bird	True	available	True	milçık	milt̪ʃɪkʰ	core	True
+spk04:snake	spk04	snake	True	available	True	mâr	mæ̃ɾ	core	True
+spk04:fish	spk04	fish	True	unresolved_or_different_meaning	False			missing	False
+spk04:worm	spk04	worm	False	unresolved_or_different_meaning	False			missing	False
+spk04:red	spk04	red	True	available	True	sûr	suɾ	core	True
+spk04:green	spk04	green	True	available	True	kûwı	kʰuwɪ	core	True
+spk04:yellow	spk04	yellow	True	available	True	tûtık	t̪ʰut̪ʰɪkʰ	core	True
+spk04:white	spk04	white	True	available	True	sıpi	sɨpʰi	core	True
+spk04:black	spk04	black	True	available	True	siyo	sijɔ	core	True
+spk04:to-drink	spk04	to-drink	False	available	True	oko ho wenû	okʰo ho wɛnu	excluded	True
+spk04:to-eat	spk04	to-eat	True	available	True	nong ho wınü	nõŋ ho wɪnʏ	core	True
+spk04:to-hear	spk04	to-hear	False	unresolved_or_different_meaning	False	ho gwış nownû ra ser	ho gʷɨʃ nownu ɾa sɛɾ	missing	True
+spk04:to-sleep	spk04	to-sleep	True	available	True	ho rakûtyo	ho rakʰut̪ʰjo	excluded	True
+spk04:to-swim	spk04	to-swim	True	available	True	o howkıd ho cûm kenû	o howkʰɨt̪ ho d̪͡ʒum kʰɛnu	core	True
+spk04:to-fly	spk04	to-fly	True	available	True	ha fır dona	ha fɨɾ d̪ona	core	True
+spk04:to-walk	spk04	to-walk	True	available	True	ho girenû	ho giɾɛnu	provisional	True
+spk04:to-lie-down	spk04	to-lie-down	True	available	True	ho derkerdaye	ho d̪ɛɾkʰɛɹd̪ajɛ	core	True
+spk04:to-sit	spk04	to-sit	True	available	True	ho rınıştaye	ho rɨnɨʃt̪ʰajɛ	excluded	True
+spk04:to-say-talk	spk04	to-say-talk	True	available	True	ho qali kenû	ho qʰali kʰɛnu	core	True
+spk04:bread-from-eating	spk04	bread-from-eating	False	available	True	nong ho wınü	nõŋ ho wɪnʏ	core	True
+spk04:to-listen	spk04	to-listen	False	available	True	ho gwış nownû ra ser	ho gʷɨʃ nownu ɾa sɛɾ	core	True
+spk04:hand	spk04	hand	True	not_elicited	False			missing	False
+spk04:hair	spk04	hair	True	not_elicited	False			missing	False
+spk04:fly-insect	spk04	fly-insect	True	not_elicited	False			missing	False
+spk04:to-write	spk04	to-write	True	not_elicited	False			missing	False
+spk04:to-read	spk04	to-read	True	not_elicited	False			missing	False
+spk04:stone	spk04	stone	True	available	True	kwûçı	kʷʰut̪͡ʃɪ	core	True
+spk04:head	spk04	head	True	not_elicited	False			missing	False
+spk04:water	spk04	water	True	not_elicited	False			missing	False
+spk04:snow	spk04	snow	True	available	True	vorı	voɾɪ	core	True
+spk04:walnut	spk04	walnut	True	not_elicited	False			missing	False
+spk04:one	spk04	one	True	not_elicited	False			missing	False
+spk04:two	spk04	two	True	not_elicited	False			missing	False
+spk04:three	spk04	three	True	not_elicited	False			missing	False
+spk04:four	spk04	four	True	not_elicited	False			missing	False
+spk04:five	spk04	five	True	not_elicited	False			missing	False
+spk05:ear	spk05	ear	True	available	True	gweş	gʷɛʃ	core	True
+spk05:eye	spk05	eye	True	available	True	çım	t̪͡ʃɪm	core	True
+spk05:nose	spk05	nose	True	available	True	zınc	zɨnd̪͡ʒ	core	True
+spk05:mouth	spk05	mouth	True	available	True	fek	fɛkʰ	core	True
+spk05:tooth	spk05	tooth	True	available	True	dınûn	d̪ɨnũn	core	True
+spk05:tongue	spk05	tongue	True	available	True	zûn	zun	core	True
+spk05:knee	spk05	knee	False	unresolved_or_different_meaning	True	tımon	t̪ʰɪmon	excluded	True
+spk05:belly	spk05	belly	True	unresolved_or_different_meaning	True	fınali	fɨnɑli	pending	True
+spk05:neck	spk05	neck	True	available	True	mel	mɛl	core	True
+spk05:foot	spk05	foot	True	available	True	lıng	lɨŋg	core	True
+spk05:sun	spk05	sun	True	available	True	tic	t̪ʰid̪͡ʒ	core	True
+spk05:moon	spk05	moon	True	available	True	aşm	ɑʃm̥͉	core	True
+spk05:cloud	spk05	cloud	True	available	True	hora	hoɾɑ	core	True
+spk05:fire	spk05	fire	True	available	True	adır	ɑːd̪ɨɾ	core	True
+spk05:mountain	spk05	mountain	True	available	True	kwe	kʷʰɨ	core	True
+spk05:tree	spk05	tree	True	available	True	dar	d̪ɑɾ̥	core	True
+spk05:leaf	spk05	leaf	True	available	True	pel	pʰɛl	core	True
+spk05:bone	spk05	bone	True	available	True	estı	ʔɛst̪ʰɪ	core	True
+spk05:egg	spk05	egg	True	available	True	hak	hɑkʰ	core	True
+spk05:feather	spk05	feather	False	unresolved_or_different_meaning	False			missing	False
+spk05:dog	spk05	dog	True	available	True	kwıtık	kʷʰɨt̪ʰɪkʰ	core	True
+spk05:bird	spk05	bird	True	available	True	mirçık	miɾt̪͡ʃɪkʰ	core	True
+spk05:snake	spk05	snake	True	available	True	mar	mɑɾ̥	core	True
+spk05:fish	spk05	fish	True	available	True	mase	mɑsɨ	core	True
+spk05:worm	spk05	worm	False	available	True	lwelık	lʷɛlɪkʰ	core	True
+spk05:red	spk05	red	True	available	True	swır	sʷɪɾ	core	True
+spk05:green	spk05	green	True	available	True	aşıl	ɑʃɨl	core	True
+spk05:yellow	spk05	yellow	True	available	True	zer	zɛɾ	core	True
+spk05:white	spk05	white	True	available	True	sıpyı	sɨpʲʰɪ	core	True
+spk05:black	spk05	black	True	available	True	sya	sjɑ	core	True
+spk05:to-drink	spk05	to-drink	False	available	True	ın merdım ho owk wen	ɨn mɛɹd̪ɨm ho owk wɛn	excluded	True
+spk05:to-eat	spk05	to-eat	True	available	True	ın merdım ho no wen	ɨn mɛɹd̪ɪm ho no wɛn	core	True
+spk05:to-hear	spk05	to-hear	False	unresolved_or_different_meaning	False	ın merdım ho gweşteri ken	ɨn mɛɹd̪ɪm ho gʷɛʃt̪ʰɛɾi c͡çɛn	missing	True
+spk05:to-sleep	spk05	to-sleep	True	available	True	ın merdım ho kwen ra	ɨn mɛɹd̪ɨm ho kʷɛn ɾɑ	core	True
+spk05:to-swim	spk05	to-swim	True	available	True	ın merdım ho asnıy ken	ɨn mɛɹd̪ɨm ho ɑsnɨj c͡çɛn	core	True
+spk05:to-fly	spk05	to-fly	True	available	True	ına mirçık ha perena	ɨnɑ miɾt̪͡ʃɪkʰ hɑ pʰɛrɛnɑ	core	True
+spk05:to-walk	spk05	to-walk	True	available	True	ın merdım ho ling şın	ɨn mɛɹd̪ɨm ho liŋg ʃɪn	core	True
+spk05:to-lie-down	spk05	to-lie-down	True	available	True	ın merdım qılyo ara	ɨn mɛɹd̪ɨm qʰɨljo ɑɾɑ	core	True
+spk05:to-sit	spk05	to-sit	True	available	True	ın merdım ho rwenıştı	ɨn mɛɹd̪ɪm ho rwɛnɪʃt̪ʰɪ	excluded	True
+spk05:to-say-talk	spk05	to-say-talk	True	available	True	ın merdım ho xâbêr dûn	ɨn mɛɹd̪ɨm ho χæbeɾ d̪un	core	True
+spk05:bread-from-eating	spk05	bread-from-eating	False	available	True	ın merdım ho no wen	ɨn mɛɹd̪ɪm ho no wɛn	core	True
+spk05:to-listen	spk05	to-listen	False	available	True	ın merdım ho gweşteri ken	ɨn mɛɹd̪ɪm ho gʷɛʃt̪ʰɛɾi c͡çɛn	core	True
+spk05:hand	spk05	hand	True	not_elicited	False			missing	False
+spk05:hair	spk05	hair	True	not_elicited	False			missing	False
+spk05:fly-insect	spk05	fly-insect	True	not_elicited	False			missing	False
+spk05:to-write	spk05	to-write	True	not_elicited	False			missing	False
+spk05:to-read	spk05	to-read	True	not_elicited	False			missing	False
+spk05:stone	spk05	stone	True	not_elicited	False			missing	False
+spk05:head	spk05	head	True	not_elicited	False			missing	False
+spk05:water	spk05	water	True	not_elicited	False			missing	False
+spk05:snow	spk05	snow	True	not_elicited	False			missing	False
+spk05:walnut	spk05	walnut	True	not_elicited	False			missing	False
+spk05:one	spk05	one	True	not_elicited	False			missing	False
+spk05:two	spk05	two	True	not_elicited	False			missing	False
+spk05:three	spk05	three	True	not_elicited	False			missing	False
+spk05:four	spk05	four	True	not_elicited	False			missing	False
+spk05:five	spk05	five	True	not_elicited	False			missing	False
+spk06:ear	spk06	ear	True	withheld	False			excluded	True
+spk06:eye	spk06	eye	True	available	True	çım	t̪͡ʃɪm	core	True
+spk06:nose	spk06	nose	True	available	True	fıni	fɪni	core	True
+spk06:mouth	spk06	mouth	True	unresolved_or_different_meaning	True			excluded	True
+spk06:tooth	spk06	tooth	True	available	True	dındû	d̪ɪnd̪u	core	True
+spk06:tongue	spk06	tongue	True	available	True	zû	zũ	core	True
+spk06:knee	spk06	knee	False	unresolved_or_different_meaning	False			excluded	True
+spk06:belly	spk06	belly	True	unresolved_or_different_meaning	False			excluded	True
+spk06:neck	spk06	neck	True	unresolved_or_different_meaning	False			excluded	True
+spk06:foot	spk06	foot	True	available	True	lıng	lɨŋg̥ʰ	core	True
+spk06:sun	spk06	sun	True	available	True	tinc	t̪ʰind͡ʒ	core	True
+spk06:moon	spk06	moon	True	unresolved_or_different_meaning	False			missing	False
+spk06:cloud	spk06	cloud	True	available	True	howr	howɾ	core	True
+spk06:fire	spk06	fire	True	available	True	adır	ɑd̪ɨɾ	core	True
+spk06:mountain	spk06	mountain	True	withheld	False			excluded	True
+spk06:tree	spk06	tree	True	available	True	dar	d̪ɑɾ̥	core	True
+spk06:leaf	spk06	leaf	True	available	True	pel	pʰɛl	core	True
+spk06:bone	spk06	bone	True	available	True	kate	kʰɑt̪ɛ	core	True
+spk06:egg	spk06	egg	True	available	True	hak	hɑkʰ	core	True
+spk06:feather	spk06	feather	False	unresolved_or_different_meaning	False			missing	False
+spk06:dog	spk06	dog	True	available	True	kwıtık	kʷʰɨt̪ʰɪkʰ	core	True
+spk06:bird	spk06	bird	True	available	True	mılçık	mɨlt̪͡ʃɪkʰ	core	True
+spk06:snake	spk06	snake	True	available	True	mar	mɑɾ̥	core	True
+spk06:fish	spk06	fish	True	available	True	mase	mɑsɛ	core	True
+spk06:worm	spk06	worm	False	unresolved_or_different_meaning	False			missing	False
+spk06:red	spk06	red	True	available	True	swır	sʷɨɾ	core	True
+spk06:green	spk06	green	True	unresolved_or_different_meaning	False			missing	False
+spk06:yellow	spk06	yellow	True	available	True	zerd	zɛɾd̪̥	core	True
+spk06:white	spk06	white	True	available	True	sıpi	sɨpʰi	core	True
+spk06:black	spk06	black	True	available	True	siya	sijɑ	core	True
+spk06:to-drink	spk06	to-drink	False	available	True	awk won	ɑwkʰ won	excluded	True
+spk06:to-eat	spk06	to-eat	True	available	True	no wön çi wön	no wøn t̪͡ʃi wøn	core	True
+spk06:to-hear	spk06	to-hear	False	unresolved_or_different_meaning	False			excluded	True
+spk06:to-sleep	spk06	to-sleep	True	available	True	ra kwön	rɑ kʷʰøn	core	True
+spk06:to-swim	spk06	to-swim	True	available	True	asnaw kon	ɑsnɑw kʰon	core	True
+spk06:to-fly	spk06	to-fly	True	available	True	mılçık ınka fırena	mɪlt̪͡ʃɪkʰ ɨŋkʰa fɨrɛna	core	True
+spk06:to-walk	spk06	to-walk	True	unresolved_or_different_meaning	False			excluded	True
+spk06:to-lie-down	spk06	to-lie-down	True	unresolved_or_different_meaning	False			excluded	True
+spk06:to-sit	spk06	to-sit	True	available	True	rûnışt	runɪʃt̪ʰ	excluded	True
+spk06:to-say-talk	spk06	to-say-talk	True	available	True	ha qal kön	hɑ qʰɑl kʰøn	core	True
+spk06:bread-from-eating	spk06	bread-from-eating	False	available	True	no wön çi wön	no wøn t̪͡ʃi wøn	core	True
+spk06:to-listen	spk06	to-listen	False	unresolved_or_different_meaning	False			excluded	True
+spk06:hand	spk06	hand	True	not_elicited	False			missing	False
+spk06:hair	spk06	hair	True	not_elicited	False			missing	False
+spk06:fly-insect	spk06	fly-insect	True	not_elicited	False			missing	False
+spk06:to-write	spk06	to-write	True	not_elicited	False			missing	False
+spk06:to-read	spk06	to-read	True	not_elicited	False			missing	False
+spk06:stone	spk06	stone	True	not_elicited	False			missing	False
+spk06:head	spk06	head	True	not_elicited	False			missing	False
+spk06:water	spk06	water	True	not_elicited	False			missing	False
+spk06:snow	spk06	snow	True	not_elicited	False			missing	False
+spk06:walnut	spk06	walnut	True	not_elicited	False			missing	False
+spk06:one	spk06	one	True	not_elicited	False			missing	False
+spk06:two	spk06	two	True	not_elicited	False			missing	False
+spk06:three	spk06	three	True	not_elicited	False			missing	False
+spk06:four	spk06	four	True	not_elicited	False			missing	False
+spk06:five	spk06	five	True	not_elicited	False			missing	False
+spk07:ear	spk07	ear	True	available	True	gweş	gʷɛʃ	core	True
+spk07:eye	spk07	eye	True	available	True	çım	t̪͡ʃɪm	core	True
+spk07:nose	spk07	nose	True	available	True	zınc	zɨnd̪͡ʒ	core	True
+spk07:mouth	spk07	mouth	True	available	True	fek	fɛkʰ	core	True
+spk07:tooth	spk07	tooth	True	available	True	dındû	d̪ɨnd̪u	core	True
+spk07:tongue	spk07	tongue	True	available	True	zû	zu	core	True
+spk07:knee	spk07	knee	False	not_elicited	False			missing	False
+spk07:belly	spk07	belly	True	available	True	meşk	mɛʃkʰ	core	True
+spk07:neck	spk07	neck	True	available	True	mıl	mɨlᵊ	core	True
+spk07:foot	spk07	foot	True	available	True	nıng	nɪŋg	core	True
+spk07:sun	spk07	sun	True	available	True	tinc	t̪ʰind̪͡ʒ	core	True
+spk07:moon	spk07	moon	True	available	True	aşm	ɑʃm̥	core	True
+spk07:cloud	spk07	cloud	True	available	True	howr	howɾ	core	True
+spk07:fire	spk07	fire	True	available	True	adır	ɑd̪ɨɾ͉	core	True
+spk07:mountain	spk07	mountain	True	available	True	kûwe	kʰuwɛ	core	True
+spk07:tree	spk07	tree	True	available	True	dar	d̪ɑɾ	core	True
+spk07:leaf	spk07	leaf	True	available	True	pel	pʰɛl	core	True
+spk07:bone	spk07	bone	True	available	True	kate	kʰɑt̪ʰɛ	core	True
+spk07:egg	spk07	egg	True	available	True	hak	hɑkʰ	core	True
+spk07:feather	spk07	feather	False	not_elicited	False			missing	False
+spk07:dog	spk07	dog	True	available	True	kwıtık	kʷʰɨt̪ʰɪkʰ	core	True
+spk07:bird	spk07	bird	True	available	True	mılçık	mɨlt̪͡ʃɪkʰ	core	True
+spk07:snake	spk07	snake	True	available	True	mar	mɑɾ	core	True
+spk07:fish	spk07	fish	True	available	True	mase	mɑsɛ	core	True
+spk07:worm	spk07	worm	False	not_elicited	False			missing	False
+spk07:red	spk07	red	True	available	True	sür	sʉɾ	core	True
+spk07:green	spk07	green	True	withheld	False			excluded	True
+spk07:yellow	spk07	yellow	True	available	True	zerd	zɛɹd̪͉	core	True
+spk07:white	spk07	white	True	available	True	sıpye	sɨpʰjɛ	core	True
+spk07:black	spk07	black	True	available	True	siya	sijɑ	core	True
+spk07:to-drink	spk07	to-drink	False	not_elicited	False			missing	False
+spk07:to-eat	spk07	to-eat	True	available	True	wen	wɛn	core	True
+spk07:to-hear	spk07	to-hear	False	not_elicited	False			missing	False
+spk07:to-sleep	spk07	to-sleep	True	available	True	rakot	rɑkʰot̪ʰ	provisional	True
+spk07:to-swim	spk07	to-swim	True	available	True	asnaw kön	ɑsnɔw kʰøn	core	True
+spk07:to-fly	spk07	to-fly	True	available	True	mılçık ha pırrına	mɨlt̪͡ʃɨkʰ hɑ pʰɨrɨnɑ	core	True
+spk07:to-walk	spk07	to-walk	True	available	True	şwön	ʃwønᵊ	provisional	True
+spk07:to-lie-down	spk07	to-lie-down	True	available	True	rakot	rɑkʰot̪ʰ	core	True
+spk07:to-sit	spk07	to-sit	True	available	True	rwınişt	rʷɨniʃt̪ʰ	excluded	True
+spk07:to-say-talk	spk07	to-say-talk	True	available	True	qal kön	qʰɑl kʰøn	core	True
+spk07:bread-from-eating	spk07	bread-from-eating	False	not_elicited	False			missing	False
+spk07:to-listen	spk07	to-listen	False	not_elicited	False			missing	False
+spk07:hand	spk07	hand	True	available	True	dest	d̪ɛst̪ʰ	core	True
+spk07:hair	spk07	hair	True	available	True	gıjık	gɨ̆ʒɪkʰ	core	True
+spk07:fly-insect	spk07	fly-insect	True	available	True	hing	hiŋg	core	True
+spk07:to-write	spk07	to-write	True	available	True	Ders nûsn	d̪ɛɹs nusᵊn	core	True
+spk07:to-read	spk07	to-read	True	available	True	kıtab wanen	kʰɨt̪ʰɑb wanɛn	core	True
+spk07:stone	spk07	stone	True	available	True	kerra	kʰɛrɑ	core	True
+spk07:head	spk07	head	True	available	True	sara	saɾa	core	True
+spk07:water	spk07	water	True	available	True	awk	awkʰ	core	True
+spk07:snow	spk07	snow	True	available	True	vowr	vowɾ	core	True
+spk07:walnut	spk07	walnut	True	available	True	gwoz	gʷoz	core	True
+spk07:one	spk07	one	True	available	True	yow	jow	core	True
+spk07:two	spk07	two	True	available	True	dı	d̪ɨ	core	True
+spk07:three	spk07	three	True	available	True	hirye	hiɾjɛ	core	True
+spk07:four	spk07	four	True	available	True	çeer	t̪͡ʃɛːɾ	core	True
+spk07:five	spk07	five	True	available	True	panc	pʰɑnd̪͡ʒ	core	True

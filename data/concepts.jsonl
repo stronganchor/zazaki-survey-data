@@ -1,0 +1,57 @@
+{"id": "ear", "label_en": "ear", "label_tr": "kulak", "category": "body", "source_concept": "ear", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "ear"}
+{"id": "eye", "label_en": "eye", "label_tr": "göz", "category": "body", "source_concept": "eye", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "eye"}
+{"id": "nose", "label_en": "nose", "label_tr": "burun", "category": "body", "source_concept": "nose", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "nose"}
+{"id": "mouth", "label_en": "mouth", "label_tr": "ağız", "category": "body", "source_concept": "mouth", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "mouth"}
+{"id": "tooth", "label_en": "tooth", "label_tr": "diş", "category": "body", "source_concept": "tooth", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "tooth"}
+{"id": "tongue", "label_en": "tongue", "label_tr": "dil", "category": "body", "source_concept": "tongue", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "tongue"}
+{"id": "knee", "label_en": "knee", "label_tr": "diz", "category": "body", "source_concept": "knee", "current_survey": false, "derived_comparison_unit": false, "parse_list_label": "knee"}
+{"id": "belly", "label_en": "belly", "label_tr": "karın", "category": "body", "source_concept": "belly", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "neck", "label_en": "neck", "label_tr": "boyun", "category": "body", "source_concept": "neck", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "neck"}
+{"id": "foot", "label_en": "foot", "label_tr": "ayak", "category": "body", "source_concept": "foot", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "foot"}
+{"id": "sun", "label_en": "sun", "label_tr": "güneş", "category": "nature", "source_concept": "sun", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "sun"}
+{"id": "moon", "label_en": "moon", "label_tr": "ay", "category": "nature", "source_concept": "moon", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "moon"}
+{"id": "cloud", "label_en": "cloud", "label_tr": "bulut", "category": "nature", "source_concept": "cloud", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "cloud"}
+{"id": "fire", "label_en": "fire", "label_tr": "ateş", "category": "nature", "source_concept": "fire", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "fire"}
+{"id": "mountain", "label_en": "mountain", "label_tr": "dağ", "category": "nature", "source_concept": "mountain", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "mountain"}
+{"id": "tree", "label_en": "tree", "label_tr": "ağaç", "category": "nature", "source_concept": "tree", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "tree"}
+{"id": "leaf", "label_en": "leaf", "label_tr": "yaprak", "category": "nature", "source_concept": "leaf", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "leaf"}
+{"id": "bone", "label_en": "bone", "label_tr": "kemik", "category": "body", "source_concept": "bone", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "bone"}
+{"id": "egg", "label_en": "egg", "label_tr": "yumurta", "category": "nature", "source_concept": "egg", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "egg"}
+{"id": "feather", "label_en": "feather", "label_tr": "tüy", "category": "animals", "source_concept": "feather", "current_survey": false, "derived_comparison_unit": false, "parse_list_label": "feather"}
+{"id": "dog", "label_en": "dog", "label_tr": "köpek", "category": "animals", "source_concept": "dog", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "dog"}
+{"id": "bird", "label_en": "bird", "label_tr": "kuş", "category": "animals", "source_concept": "bird", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "bird"}
+{"id": "snake", "label_en": "snake", "label_tr": "yılan", "category": "animals", "source_concept": "snake", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "fish", "label_en": "fish", "label_tr": "balık", "category": "animals", "source_concept": "fish", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "fish"}
+{"id": "worm", "label_en": "worm", "label_tr": "solucan", "category": "animals", "source_concept": "worm", "current_survey": false, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "red", "label_en": "red", "label_tr": "kırmızı", "category": "colors", "source_concept": "red", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "red"}
+{"id": "green", "label_en": "green", "label_tr": "yeşil", "category": "colors", "source_concept": "green", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "green"}
+{"id": "yellow", "label_en": "yellow", "label_tr": "sarı", "category": "colors", "source_concept": "yellow", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "yellow"}
+{"id": "white", "label_en": "white", "label_tr": "beyaz", "category": "colors", "source_concept": "white", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "white"}
+{"id": "black", "label_en": "black", "label_tr": "siyah", "category": "colors", "source_concept": "black", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "black"}
+{"id": "to-drink", "label_en": "drink", "label_tr": "içiyor", "category": "actions", "source_concept": "to-drink", "current_survey": false, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "to-eat", "label_en": "eat", "label_tr": "yemek yiyor", "category": "actions", "source_concept": "to-eat", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "to-hear", "label_en": "hear (past: heard)", "label_tr": "duyuyor", "category": "actions", "source_concept": "to-hear", "current_survey": false, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "to-sleep", "label_en": "sleep", "label_tr": "uyuyor", "category": "actions", "source_concept": "to-sleep", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "to-swim", "label_en": "swim", "label_tr": "yüzüyor", "category": "actions", "source_concept": "to-swim", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "to-fly", "label_en": "fly", "label_tr": "uçuyor", "category": "actions", "source_concept": "to-fly", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "to-walk", "label_en": "walk", "label_tr": "yürüyor", "category": "actions", "source_concept": "to-walk", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "to-lie-down", "label_en": "lie down", "label_tr": "uzanıyor", "category": "actions", "source_concept": "to-lie-down", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "to-sit", "label_en": "sit", "label_tr": "oturuyor", "category": "actions", "source_concept": "to-sit", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "to-say-talk", "label_en": "say talk", "label_tr": "konuşuyor", "category": "actions", "source_concept": "to-say-talk", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "bread-from-eating", "label_en": "bread (eating phrase)", "label_tr": "ekmek (yeme cümlesi)", "category": "actions", "source_concept": "to-eat", "current_survey": false, "derived_comparison_unit": true, "parse_list_label": null}
+{"id": "to-listen", "label_en": "listen", "label_tr": "dinliyor", "category": "actions", "source_concept": "to-hear", "current_survey": false, "derived_comparison_unit": true, "parse_list_label": null}
+{"id": "hand", "label_en": "hand", "label_tr": "el", "category": "body", "source_concept": "hand", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "hand"}
+{"id": "hair", "label_en": "hair", "label_tr": "saç", "category": "body", "source_concept": "hair", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "hair"}
+{"id": "fly-insect", "label_en": "fly insect", "label_tr": "sinek", "category": "animals", "source_concept": "fly-insect", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "fly"}
+{"id": "to-write", "label_en": "write", "label_tr": "yazıyor", "category": "actions", "source_concept": "to-write", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "to-read", "label_en": "read", "label_tr": "okuyor", "category": "actions", "source_concept": "to-read", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": null}
+{"id": "stone", "label_en": "stone", "label_tr": "taş", "category": "nature", "source_concept": "stone", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "stone"}
+{"id": "head", "label_en": "head", "label_tr": "baş", "category": "body", "source_concept": "head", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "head"}
+{"id": "water", "label_en": "water", "label_tr": "su", "category": "nature", "source_concept": "water", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "water"}
+{"id": "snow", "label_en": "snow", "label_tr": "kar", "category": "nature", "source_concept": "snow", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "snow"}
+{"id": "walnut", "label_en": "walnut", "label_tr": "ceviz", "category": "nature", "source_concept": "walnut", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "walnut"}
+{"id": "one", "label_en": "one", "label_tr": "bir", "category": "numbers", "source_concept": "one", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "one"}
+{"id": "two", "label_en": "two", "label_tr": "iki", "category": "numbers", "source_concept": "two", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "two"}
+{"id": "three", "label_en": "three", "label_tr": "üç", "category": "numbers", "source_concept": "three", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "three"}
+{"id": "four", "label_en": "four", "label_tr": "dört", "category": "numbers", "source_concept": "four", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "four"}
+{"id": "five", "label_en": "five", "label_tr": "beş", "category": "numbers", "source_concept": "five", "current_survey": true, "derived_comparison_unit": false, "parse_list_label": "five"}
