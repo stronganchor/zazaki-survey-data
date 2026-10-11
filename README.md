@@ -1,8 +1,8 @@
 # Zazaki survey recordings and transcriptions
 
-Public-domain audio and working transcriptions from a picture-based Zazaki lexical survey. The 2026-10-10 release contains **276 utterance clips from seven speakers**, totaling approximately **5 minutes**, with orthographic transcriptions, research IPA, selected comparison forms, and speaker location metadata.
+Public-domain audio and working transcriptions from a picture-based Zazaki lexical survey. The current release contains **283 clips from seven speakers**, including superseded/historical evidence, totaling approximately **5 minutes**, with orthographic transcriptions, research IPA, selected comparison forms, and speaker location metadata.
 
-This is a snapshot of the reviewed material available at release time. It combines responses to the earlier 40-item survey, the expanded 50-item survey, and selected supplementary elicitation. It preserves additional responses and lexical variants rather than forcing one recording per concept. It is incomplete: a missing response does not establish that a speaker lacks a word.
+Current published transcriptions follow the live Atlas, synchronized on 2026-10-11. This is a versioned snapshot, with earlier evidence explicitly preserved. It combines responses to the earlier 40-item survey, the expanded 50-item survey, and selected supplementary elicitation. It preserves additional responses and lexical variants rather than forcing one recording per concept. It is incomplete: a missing response does not establish that a speaker lacks a word.
 
 ## Start here
 
@@ -18,6 +18,7 @@ This is a snapshot of the reviewed material available at release time. It combin
 | [data/responses.jsonl](data/responses.jsonl) | Selected and supplemental recording links for each concept |
 | [data/speakers.jsonl](data/speakers.jsonl) | Speaker codes and public regional metadata |
 | [data/concepts.jsonl](data/concepts.jsonl) | English/Turkish labels, historical/current status, and PARSE-list overlap |
+| [data/atlas-current.json](data/atlas-current.json) | Current anonymous website curation and version/hash provenance |
 | [data/rosters.json](data/rosters.json) | The three survey versions with their original item orders |
 
 Audio lives in `audio/spk01/`, ..., `audio/spk07/`. All clips are **16 kHz mono PCM16 WAV**. The export preserves the selected PCM exactly, without another codec conversion or loudness adjustment. Original survey captures were compressed WebM/Opus; the supplementary session used AAC/M4A. Three Speaker 04 archival isolation backfills (cloud, stone, snow) preserve pre-existing PCM caches decoded from original MP3 files. WAV does not make those original captures lossless.
@@ -69,3 +70,7 @@ The audio and original transcription/metadata contributions in this repository a
 Public speaker codes replace names and contact information. Raw questionnaires, full session recordings, private review notes, and prompt images are excluded. Regional descriptors reproduce the public research metadata and may be approximate.
 
 Attribution is appreciated although CC0 does not require it. Suggested acknowledgement: *Zazaki survey recordings and transcriptions, stronganchor, release 2026-10-10*, with this repository's URL and the commit used. Future corrections can be tracked through Git history.
+
+## Website synchronization
+
+Current transcriptions follow the live Atlas. Every survey processing session must pull website edits into the local records and push the verified anonymous export. See [the required synchronization workflow](docs/SYNC_WORKFLOW.md). The 2026-10-11 synchronization includes current spelling/IPA corrections and seven repaired recording boundaries. Prior clips remain explicitly linked as superseded; original training annotations are preserved. Counts in `release.json` include historical clips and must not be interpreted as current training volume.

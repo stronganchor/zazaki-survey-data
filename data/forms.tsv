@@ -1,282 +1,282 @@
 id	speaker_id	concept_id	orthography	research_ipa	role	certainty	audio_scope
-spk01:ear:1	spk01	ear	gweş	gʷɛʃ	primary	reviewed	response
-spk01:eye:1	spk01	eye	çım	t̪͡ʃɪm	primary	reviewed	response
-spk01:nose:1	spk01	nose	pırnık	pʰɨɾnɪkʰ	primary	reviewed	response
-spk01:mouth:1	spk01	mouth	fâk	fækʰ	primary	reviewed	response
-spk01:tooth:1	spk01	tooth	dınûn	d̪ɨnun	primary	reviewed	response
-spk01:tongue:1	spk01	tongue	zûn	zun	primary	reviewed	response
-spk01:knee:1	spk01	knee	qapwêt lingû	qʰapʷʰet̪ʰ lɪŋgu	primary	reviewed	response
 spk01:belly:1	spk01	belly	pizı	pʰizɪ	primary	reviewed	response
-spk01:neck:1	spk01	neck	mıl	mɪl	primary	reviewed	response
-spk01:foot:1	spk01	foot	lıng	lɪŋg	primary	reviewed	response
-spk01:sun:1	spk01	sun	tic	t̪ʰid̪͡ʒ	primary	reviewed	response
-spk01:moon:1	spk01	moon	aşm	aʃm̥	primary	reviewed	response
-spk01:cloud:1	spk01	cloud	hewır	hɛwɨɾ	primary	reviewed	response
-spk01:fire:1	spk01	fire	adır	ad̪ɨɾ̥	primary	reviewed	response
-spk01:mountain:1	spk01	mountain	kwı	kʷʰɪ	primary	reviewed	response
-spk01:tree:1	spk01	tree	dar	d̪aɾ	primary	reviewed	response
-spk01:leaf:1	spk01	leaf	pel	pʰɛl	primary	reviewed	response
-spk01:bone:1	spk01	bone	estı	ʔɛst̪ʰɪ	primary	reviewed	response
-spk01:egg:1	spk01	egg	hak	hakʰ	primary	reviewed	response
-spk01:feather:1	spk01	feather	pêl miçkû	pʰel mit̪ʃkʰu	primary	reviewed	response
-spk01:dog:1	spk01	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
 spk01:bird:1	spk01	bird	mirçık	miɹt̪͡ʃɪkʰ	primary	reviewed	response
-spk01:snake:1	spk01	snake	mar	maɾ̥	primary	reviewed	response
-spk01:fish:1	spk01	fish	ması	masɪ	primary	reviewed	response
-spk01:worm:1	spk01	worm	karm	kʰaɹm	primary	reviewed	response
-spk01:red:1	spk01	red	swır	sʷɨɾ	primary	reviewed	response
-spk01:green:1	spk01	green	kwıhe	kʷʰɨhɛ	primary	reviewed	response
-spk01:yellow:1	spk01	yellow	zerd	zɛɹd̪	primary	reviewed	response
-spk01:white:1	spk01	white	sıpyê	sɨpʰje	primary	reviewed	response
 spk01:black:1	spk01	black	sya	sja	primary	reviewed	response
+spk01:bone:1	spk01	bone	estı	ʔɛst̪ʰɪ	primary	reviewed	response
+spk01:bread-from-eating:1	spk01	bread-from-eating	nûn	nun	primary	reviewed	response
+spk01:cloud:1	spk01	cloud	hewır	hɛwɨɾ	primary	reviewed	response
+spk01:dog:1	spk01	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
+spk01:ear:1	spk01	ear	gweş	gʷɛʃ	primary	reviewed	response
+spk01:egg:1	spk01	egg	hak	hakʰ	primary	reviewed	response
+spk01:eye:1	spk01	eye	çım	t̪͡ʃɪm	primary	reviewed	response
+spk01:feather:1	spk01	feather	pêl miçkû	pʰel mit̪ʃkʰu	primary	reviewed	response
+spk01:fire:1	spk01	fire	adır	ad̪ɨɾ̥	primary	reviewed	response
+spk01:fish:1	spk01	fish	ması	masɪ	primary	reviewed	response
+spk01:foot:1	spk01	foot	lıng	lɪŋg	primary	reviewed	response
+spk01:green:1	spk01	green	kwıhe	kʷʰɨhɛ	primary	reviewed	response
+spk01:knee:1	spk01	knee	qapwêt lingû	qʰapʷʰet̪ʰ lɪŋgu	primary	reviewed	response
+spk01:leaf:1	spk01	leaf	pel	pʰɛl	primary	reviewed	response
+spk01:moon:1	spk01	moon	aşm	aʃm̥	primary	reviewed	response
+spk01:mountain:1	spk01	mountain	kwı	kʷʰɪ	primary	reviewed	response
+spk01:mouth:1	spk01	mouth	fâk	fækʰ	primary	reviewed	response
+spk01:neck:1	spk01	neck	mıl	mɪl	primary	reviewed	response
+spk01:nose:1	spk01	nose	pırnık	pʰɨɾnɪkʰ	primary	reviewed	response
+spk01:red:1	spk01	red	swır	sʷɨɾ	primary	reviewed	response
+spk01:snake:1	spk01	snake	mar	maɾ̥	primary	reviewed	response
+spk01:sun:1	spk01	sun	tic	t̪ʰid̪͡ʒ	primary	reviewed	response
 spk01:to-drink:1	spk01	to-drink	şımen	ʃɪmɛn	primary	reviewed	response
 spk01:to-eat:1	spk01	to-eat	wen	wɛn	primary	reviewed	response
+spk01:to-fly:1	spk01	to-fly	perrena	pʰɛrɛna	primary	reviewed	response
 spk01:to-hear:1	spk01	to-hear	heşnıwıt	hɛʃnɨwɨt̪ʰ	primary	reviewed	response
+spk01:to-lie-down:1	spk01	to-lie-down	qeldayı	qʰæld̪ajɪ	primary	provisional	response
+spk01:to-listen:1	spk01	to-listen	gweştâri ken	gʷɛʃt̪ʰæɾi kʰɛn	primary	reviewed	response
+spk01:to-say-talk:1	spk01	to-say-talk	xâbêr dun	χæbeɾ dun	primary	reviewed	response
+spk01:to-say-talk:2	spk01	to-say-talk	qal ken		alternate	reviewed	none
+spk01:to-sit:1	spk01	to-sit	rınıştayı	rɨnɪʃt̪ʰajɪ	primary	reviewed	response
 spk01:to-sleep:1	spk01	to-sleep	kwen	kʷɛn	primary	reviewed	response
 spk01:to-swim:1	spk01	to-swim	asnow ken	asnow kʰɛn	primary	reviewed	response
-spk01:to-fly:1	spk01	to-fly	perrena	pʰɛrɛna	primary	reviewed	response
-spk01:to-walk:1	spk01	to-walk	rahar ra şın	rahaɾ ɾa ʃɪn	primary	reviewed	response
-spk01:to-lie-down:1	spk01	to-lie-down	qeldayı	qʰæld̪ajɪ	primary	provisional	response
-spk01:to-sit:1	spk01	to-sit	rınıştayı	rɨnɪʃt̪ʰajɪ	primary	reviewed	response
-spk01:to-say-talk:1	spk01	to-say-talk	xâbêr dûn	χæbeɾ dun	primary	reviewed	response
-spk01:to-say-talk:2	spk01	to-say-talk	qal ken		alternate	reviewed	none
-spk01:bread-from-eating:1	spk01	bread-from-eating	nûn	nun	primary	reviewed	response
-spk01:to-listen:1	spk01	to-listen	gweştâri ken	gʷɛʃt̪ʰæɾi kʰɛn	primary	reviewed	response
-spk02:ear:1	spk02	ear	gweş	gʷɛʃ	primary	reviewed	response
-spk02:eye:1	spk02	eye	çım	t̪͡ʃɪm	primary	reviewed	response
-spk02:nose:1	spk02	nose	vıni	vɪni	primary	reviewed	response
-spk02:mouth:1	spk02	mouth	fek	fɛkʰ	primary	reviewed	response
-spk02:tooth:1	spk02	tooth	dûndû	d̪und̪u	primary	provisional	response
-spk02:tongue:1	spk02	tongue	zû	zu	primary	reviewed	response
-spk02:knee:1	spk02	knee	çaqê	t̪͡ʃaqʰe	primary	reviewed	response
+spk01:to-walk:1	spk01	to-walk	rahar ra şın	rahara ʃɪn	primary	reviewed	response
+spk01:tongue:1	spk01	tongue	zun	zun	primary	reviewed	response
+spk01:tooth:1	spk01	tooth	dınun	d̪ɨnun	primary	reviewed	response
+spk01:tree:1	spk01	tree	dar	d̪aɾ	primary	reviewed	response
+spk01:white:1	spk01	white	sıpyê	sɨpʰje	primary	reviewed	response
+spk01:worm:1	spk01	worm	karm	kʰaɹm	primary	reviewed	response
+spk01:yellow:1	spk01	yellow	zerd	zɛɹd̪	primary	reviewed	response
 spk02:belly:1	spk02	belly	meşk	mɛʃkʰ	primary	reviewed	response
-spk02:neck:1	spk02	neck	mıl	mɪl	primary	reviewed	response
-spk02:foot:1	spk02	foot	lıng	lɪŋg	primary	reviewed	response
-spk02:moon:1	spk02	moon	aşm	aʃm̥	primary	reviewed	response
-spk02:cloud:1	spk02	cloud	howr	howɾ	primary	reviewed	response
-spk02:fire:1	spk02	fire	adır	ad̪ɨɾ	primary	reviewed	response
-spk02:mountain:1	spk02	mountain	kwe	kʷʰɪ	primary	reviewed	response
-spk02:tree:1	spk02	tree	dar	d̪aɾᵊ	primary	reviewed	response
-spk02:leaf:1	spk02	leaf	pel	pʰɛl	primary	reviewed	response
-spk02:bone:1	spk02	bone	kate	kʰat̪ʰɛ	primary	reviewed	response
-spk02:egg:1	spk02	egg	hak	hakʰ	primary	reviewed	response
-spk02:feather:1	spk02	feather	pel mılçık	pʰɛl mɨlt̪͡ʃɪkʰ	primary	reviewed	response
-spk02:dog:1	spk02	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
 spk02:bird:1	spk02	bird	mılçık	mɪlt̪͡ʃɪkʰ	primary	reviewed	response
-spk02:snake:1	spk02	snake	mar	maɾ	primary	reviewed	response
-spk02:fish:1	spk02	fish	mase	masɛ	primary	reviewed	response
-spk02:red:1	spk02	red	swır	sʷɨɾ	primary	reviewed	response
-spk02:green:1	spk02	green	kwıhe	kʷʰɨhɛ	primary	reviewed	response
-spk02:yellow:1	spk02	yellow	zerd	zɛɹd̪	primary	reviewed	response
-spk02:white:1	spk02	white	sıpi	sɨpʰi	primary	reviewed	response
 spk02:black:1	spk02	black	siya	sija	primary	reviewed	response
+spk02:bone:1	spk02	bone	kate	kʰat̪ʰɛ	primary	reviewed	response
+spk02:bread-from-eating:1	spk02	bread-from-eating	no	no	primary	reviewed	response
+spk02:cloud:1	spk02	cloud	howr	howɾ	primary	reviewed	response
+spk02:dog:1	spk02	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
+spk02:ear:1	spk02	ear	gweş	gʷɛʃ	primary	reviewed	response
+spk02:egg:1	spk02	egg	hak	hakʰ	primary	reviewed	response
+spk02:eye:1	spk02	eye	çım	t̪͡ʃɪm	primary	reviewed	response
+spk02:feather:1	spk02	feather	pel mılçık	pʰɛl mɨlt̪͡ʃɪkʰ	primary	reviewed	response
+spk02:fire:1	spk02	fire	adır	ad̪ɨɾ	primary	reviewed	response
+spk02:fish:1	spk02	fish	mase	masɛ	primary	reviewed	response
+spk02:foot:1	spk02	foot	lıng	lɪŋg	primary	reviewed	response
+spk02:green:1	spk02	green	kwıhe	kʷʰɨhɛ	primary	reviewed	response
+spk02:knee:1	spk02	knee	çaqê	t̪͡ʃaqʰe	primary	reviewed	response
+spk02:leaf:1	spk02	leaf	pel	pʰɛl	primary	reviewed	response
+spk02:moon:1	spk02	moon	aşm	aʃm̥	primary	reviewed	response
+spk02:mountain:1	spk02	mountain	kwı	kʷʰɪ	primary	reviewed	response
+spk02:mouth:1	spk02	mouth	fek	fɛkʰ	primary	reviewed	response
+spk02:neck:1	spk02	neck	mıl	mɪl	primary	reviewed	response
+spk02:nose:1	spk02	nose	vıni	vɪni	primary	reviewed	response
+spk02:red:1	spk02	red	swır	sʷɨɾ	primary	reviewed	response
+spk02:snake:1	spk02	snake	mar	maɾ	primary	reviewed	response
 spk02:to-drink:1	spk02	to-drink	wön	wøn	primary	reviewed	response
 spk02:to-eat:1	spk02	to-eat	wön	wøn	primary	reviewed	response
+spk02:to-fly:1	spk02	to-fly	fırena	fɨrɛna	primary	provisional	response
+spk02:to-lie-down:1	spk02	to-lie-down	xwe kyow derg	χʷɨ kʰʲow d̪ɛɾg	primary	provisional	response
+spk02:to-listen:1	spk02	to-listen	gweştari kön	gʷɛʃt̪ʰaɾi kʰøn	primary	reviewed	response
+spk02:to-say-talk:1	spk02	to-say-talk	qal kön	qʰal kʰøn	primary	reviewed	response
+spk02:to-say-talk:2	spk02	to-say-talk	xâbêr dun		alternate	provisional	none
+spk02:to-sit:1	spk02	to-sit	rışön	rɨʃøn	primary	reviewed	response
 spk02:to-sleep:1	spk02	to-sleep	raw kwön	raw kʷʰøn	primary	reviewed	response
 spk02:to-swim:1	spk02	to-swim	asnaw kön	asnaw kʰøn	primary	reviewed	response
-spk02:to-fly:1	spk02	to-fly	fırena	fɨrɛna	primary	provisional	response
 spk02:to-walk:1	spk02	to-walk	rar ra şön	ɾaːɾ ɾa ʃøn	primary	reviewed	response
-spk02:to-lie-down:1	spk02	to-lie-down	xwe kyow derg	χʷɨ kʰʲow d̪ɛɾg	primary	provisional	response
-spk02:to-sit:1	spk02	to-sit	rışön	rɨʃøn	primary	reviewed	response
-spk02:to-say-talk:1	spk02	to-say-talk	qal kön	qʰal kʰøn	primary	reviewed	response
-spk02:to-say-talk:2	spk02	to-say-talk	xâbêr dûn		alternate	provisional	none
-spk02:bread-from-eating:1	spk02	bread-from-eating	no	no	primary	reviewed	response
-spk02:to-listen:1	spk02	to-listen	gweştari kön	gʷɛʃt̪ʰaɾi kʰøn	primary	reviewed	response
+spk02:tongue:1	spk02	tongue	zu	zu	primary	reviewed	response
+spk02:tooth:1	spk02	tooth	dundu	d̪und̪u	primary	provisional	response
+spk02:tree:1	spk02	tree	dar	d̪aɾᵊ	primary	reviewed	response
+spk02:white:1	spk02	white	sıpi	sɨpʰi	primary	reviewed	response
+spk02:yellow:1	spk02	yellow	zerd	zɛɹd̪	primary	reviewed	response
+spk03:belly:1	spk03	belly	meşk	mɛʃkʰ	primary	reviewed	response
+spk03:bird:1	spk03	bird	mılçık	mɨlt̪ʃɪkʰ	primary	reviewed	response
+spk03:black:1	spk03	black	siya	sija	primary	reviewed	response
+spk03:bone:1	spk03	bone	aste	ast̪ʰɛ	primary	reviewed	response
+spk03:bread-from-eating:1	spk03	bread-from-eating	non	non	primary	reviewed	response
+spk03:cloud:1	spk03	cloud	howr	howɾɪ̆	primary	reviewed	response
+spk03:dog:1	spk03	dog	kwıtık	kʷʰɪt̪ʰɪkʰ	primary	reviewed	response
 spk03:ear:1	spk03	ear	gwış	gʷɨʃ	primary	reviewed	response
+spk03:egg:1	spk03	egg	hak	hakʰ	primary	reviewed	response
 spk03:eye:1	spk03	eye	çım	t̪͡ʃɪm	primary	reviewed	response
+spk03:feather:1	spk03	feather	pırt	pʰɨɾt̪ʰ	primary	provisional	response
+spk03:fire:1	spk03	fire	adır	ad̪ɨɾ	primary	reviewed	response
+spk03:fish:1	spk03	fish	mase	masɛ	primary	reviewed	response
+spk03:foot:1	spk03	foot	lıng	lɨŋgᵊ	primary	reviewed	response
+spk03:green:1	spk03	green	kwıhe	kʷʰɪhɛ	primary	reviewed	response
+spk03:knee:1	spk03	knee	çaqe	t̪ʃaqʰɛ	primary	reviewed	response
+spk03:leaf:1	spk03	leaf	pel	pʰɛl	primary	reviewed	response
+spk03:moon:1	spk03	moon	aşm	aʃm	primary	reviewed	response
+spk03:mountain:1	spk03	mountain	kwı	kʷʰɨ	primary	reviewed	response
+spk03:mouth:1	spk03	mouth	fek	fɛkʰ	primary	reviewed	response
+spk03:neck:1	spk03	neck	mıl	mɨl	primary	reviewed	response
 spk03:nose:1	spk03	nose	zınc	zɨnd̪͡ʒᵊ	primary	reviewed	response
 spk03:nose:2	spk03	nose	pırnık	pʰɨrnɨkʰ	alternate	reviewed	response
 spk03:nose:3	spk03	nose	vêni	veni	alternate	reviewed	response
-spk03:mouth:1	spk03	mouth	fek	fɛkʰ	primary	reviewed	response
-spk03:tooth:1	spk03	tooth	dındûn	d̪ɨnd̪un	primary	reviewed	response
-spk03:tongue:1	spk03	tongue	zûwn	zuwn	primary	provisional	response
-spk03:knee:1	spk03	knee	çaqe	t̪ʃaqʰɛ	primary	reviewed	response
-spk03:belly:1	spk03	belly	meşk	mɛʃkʰ	primary	reviewed	response
-spk03:neck:1	spk03	neck	mıl	mɨl	primary	reviewed	response
-spk03:foot:1	spk03	foot	lıng	lɨŋgᵊ	primary	reviewed	response
-spk03:sun:1	spk03	sun	tinc	t̪ʰind̪͡ʒɪ̆	primary	reviewed	response
-spk03:moon:1	spk03	moon	aşm	aʃm	primary	reviewed	response
-spk03:cloud:1	spk03	cloud	howr	howɾɪ̆	primary	reviewed	response
-spk03:fire:1	spk03	fire	adır	ad̪ɨɾ	primary	reviewed	response
-spk03:mountain:1	spk03	mountain	kwe	kʷʰɨ	primary	reviewed	response
-spk03:tree:1	spk03	tree	dar	d̪aɾ	primary	reviewed	response
-spk03:leaf:1	spk03	leaf	pel	pʰɛl	primary	reviewed	response
-spk03:bone:1	spk03	bone	aste	ast̪ʰɛ	primary	reviewed	response
-spk03:egg:1	spk03	egg	hak	hakʰ	primary	reviewed	response
-spk03:feather:1	spk03	feather	pırt	pʰɨɾt̪ʰ	primary	provisional	response
-spk03:dog:1	spk03	dog	kwıtık	kʷʰɪt̪ʰɪkʰ	primary	reviewed	response
-spk03:bird:1	spk03	bird	mılçık	mɨlt̪ʃɪkʰ	primary	reviewed	response
-spk03:snake:1	spk03	snake	mar	mar	primary	reviewed	response
-spk03:fish:1	spk03	fish	mase	masɛ	primary	reviewed	response
-spk03:worm:1	spk03	worm	kılê bın 'ard	kʰɨle bɨn ʔaɹd̪ɪ̆	primary	provisional	response
 spk03:red:1	spk03	red	sür	sʉɾ	primary	provisional	response
-spk03:green:1	spk03	green	kwıhe	kʷʰɪhɛ	primary	reviewed	response
-spk03:yellow:1	spk03	yellow	zerd	zɛɹd̪ᵊ	primary	reviewed	response
-spk03:white:1	spk03	white	sıpwi	sɨpʷʰi	primary	reviewed	response
-spk03:black:1	spk03	black	siya	sija	primary	reviewed	response
+spk03:snake:1	spk03	snake	mar	mar	primary	reviewed	response
+spk03:sun:1	spk03	sun	tinc	t̪ʰind̪͡ʒɪ̆	primary	reviewed	response
 spk03:to-drink:1	spk03	to-drink	fır kena	fɨɾ kʰɛna	primary	reviewed	response
 spk03:to-eat:1	spk03	to-eat	wena	wɛna	primary	provisional	response
+spk03:to-fly:1	spk03	to-fly	fırrena	fɨrɛna	primary	reviewed	response
+spk03:to-lie-down:1	spk03	to-lie-down	qâlebyeno	qʰælɛbjɛno	primary	provisional	response
+spk03:to-listen:1	spk03	to-listen	gwıştarê kena	gʷɨʃt̪ʰaɾe kʰɛna	primary	provisional	response
+spk03:to-say-talk:1	spk03	to-say-talk	qal keno	qʰal kʰɛno	primary	reviewed	response
+spk03:to-sit:1	spk03	to-sit	runışeno	runɪʃɛno	primary	reviewed	response
 spk03:to-sleep:1	spk03	to-sleep	ra kwena	ra kʷʰɛna	primary	reviewed	response
 spk03:to-swim:1	spk03	to-swim	asnaw kena	asnaw kʰɛna	primary	reviewed	response
-spk03:to-fly:1	spk03	to-fly	fırrena	fɨrɛna	primary	reviewed	response
 spk03:to-walk:1	spk03	to-walk	rayer ra şıno	rajɛɾa ʃɨno	primary	reviewed	response
-spk03:to-lie-down:1	spk03	to-lie-down	qâlebyeno	qʰælɛbjɛno	primary	provisional	response
-spk03:to-sit:1	spk03	to-sit	rûnışeno	runɪʃɛno	primary	reviewed	response
-spk03:to-say-talk:1	spk03	to-say-talk	qal keno	qʰal kʰɛno	primary	reviewed	response
-spk03:bread-from-eating:1	spk03	bread-from-eating	non	non	primary	reviewed	response
-spk03:to-listen:1	spk03	to-listen	gwıştarê kena	gʷɨʃt̪ʰaɾe kʰɛna	primary	provisional	response
-spk04:ear:1	spk04	ear	gwış	gʷɨʃ	primary	reviewed	response
-spk04:nose:1	spk04	nose	zıngê	zɪŋge	primary	provisional	response
-spk04:mouth:1	spk04	mouth	fek	fɛkʰ	primary	reviewed	response
-spk04:tooth:1	spk04	tooth	dodong	d̪od̪õŋ	primary	reviewed	response
-spk04:tongue:1	spk04	tongue	zûng	zũŋ	primary	reviewed	response
+spk03:tongue:1	spk03	tongue	zuwn	zuwn	primary	provisional	response
+spk03:tooth:1	spk03	tooth	dındun	d̪ɨnd̪un	primary	reviewed	response
+spk03:tree:1	spk03	tree	dar	d̪aɾ	primary	reviewed	response
+spk03:white:1	spk03	white	sıpwi	sɨpʷʰi	primary	reviewed	response
+spk03:worm:1	spk03	worm	kılê bın 'ard	kʰɨle bɨn ʔaɹd̪ɪ̆	primary	provisional	response
+spk03:yellow:1	spk03	yellow	zerd	zɛɹd̪ᵊ	primary	reviewed	response
 spk04:belly:1	spk04	belly	pizı	pʰizɪ	primary	reviewed	response
-spk04:neck:1	spk04	neck	mıl	mɨl	primary	reviewed	response
-spk04:foot:1	spk04	foot	nıngı	nɨŋgɪ	primary	provisional	response
-spk04:sun:1	spk04	sun	çicı	t̪͡ʃid̪͡ʒɪ	primary	provisional	response
-spk04:moon:1	spk04	moon	aşmı	aʃmɨ	primary	provisional	response
+spk04:bird:1	spk04	bird	milçık	milt̪ʃɪkʰ	primary	reviewed	response
+spk04:black:1	spk04	black	siyo	sijɔ	primary	reviewed	response
+spk04:bone:1	spk04	bone	heste	hɛ̈st̪ʰɛ̈	primary	reviewed	response
+spk04:bread-from-eating:1	spk04	bread-from-eating	nong	nõŋ	primary	reviewed	response
+spk04:cloud:1	spk04	cloud	hor	hoɾ	primary	reviewed	response
+spk04:dog:1	spk04	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
+spk04:ear:1	spk04	ear	gwış	gʷɨʃ	primary	reviewed	response
+spk04:egg:1	spk04	egg	hak	hɑ̆kʰ	primary	provisional	response
 spk04:fire:1	spk04	fire	adır	ad̪ɨɾ̥	primary	reviewed	response
-spk04:mountain:1	spk04	mountain	kûwı	kʰuwɪ	primary	provisional	response
-spk04:tree:1	spk04	tree	darı	d̪aɾɪ	primary	provisional	response
+spk04:foot:1	spk04	foot	nıngı	nɨŋgɪ	primary	provisional	response
+spk04:green:1	spk04	green	kuwı	kʰuwɪ	primary	reviewed	response
 spk04:leaf:1	spk04	leaf	pel	pʰɛl	primary	reviewed	response
 spk04:leaf:2	spk04	leaf	pele	pʰɛlɛ	alternate	provisional	response
-spk04:bone:1	spk04	bone	heste	hɛ̈st̪ʰɛ̈	primary	reviewed	response
-spk04:egg:1	spk04	egg	hak	hɑ̆kʰ	primary	provisional	response
-spk04:dog:1	spk04	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
-spk04:bird:1	spk04	bird	milçık	milt̪ʃɪkʰ	primary	reviewed	response
+spk04:moon:1	spk04	moon	aşmı	aʃmɨ	primary	provisional	response
+spk04:mountain:1	spk04	mountain	kuwı	kʰuwɪ	primary	provisional	response
+spk04:mouth:1	spk04	mouth	fek	fɛkʰ	primary	reviewed	response
+spk04:neck:1	spk04	neck	mıl	mɨl	primary	reviewed	response
+spk04:nose:1	spk04	nose	zıngê	zɪŋge	primary	provisional	response
+spk04:red:1	spk04	red	sur	suɾ	primary	reviewed	response
 spk04:snake:1	spk04	snake	mâr	mæ̃ɾ	primary	provisional	response
-spk04:red:1	spk04	red	sûr	suɾ	primary	reviewed	response
-spk04:green:1	spk04	green	kûwı	kʰuwɪ	primary	reviewed	response
-spk04:yellow:1	spk04	yellow	tûtık	t̪ʰut̪ʰɪkʰ	primary	provisional	response
-spk04:white:1	spk04	white	sıpi	sɨpʰi	primary	reviewed	response
-spk04:black:1	spk04	black	siyo	sijɔ	primary	reviewed	response
+spk04:snow:1	spk04	snow	vorı	voɾɪ	primary	reviewed	response
+spk04:stone:1	spk04	stone	kwuçı	kʷʰut̪͡ʃɪ	primary	reviewed	response
+spk04:sun:1	spk04	sun	çicı	t̪͡ʃid̪͡ʒɪ	primary	provisional	response
 spk04:to-drink:1	spk04	to-drink	wenû	wɛnu	primary	provisional	response
 spk04:to-eat:1	spk04	to-eat	wınü	wɪnʏ	primary	provisional	response
-spk04:to-sleep:1	spk04	to-sleep	rakûtyo	rakʰut̪ʰjo	primary	provisional	response
-spk04:to-swim:1	spk04	to-swim	cûm kenû	d̪͡ʒum kʰɛnu	primary	provisional	response
 spk04:to-fly:1	spk04	to-fly	fır dona	fɨɾ d̪ona	primary	provisional	response
-spk04:to-walk:1	spk04	to-walk	girenû	giɾɛnu	primary	provisional	response
 spk04:to-lie-down:1	spk04	to-lie-down	derkerdaye	d̪ɛɾkʰɛɹd̪ajɛ	primary	provisional	response
-spk04:to-sit:1	spk04	to-sit	rınıştaye	rɨnɨʃt̪ʰajɛ	primary	reviewed	response
-spk04:to-say-talk:1	spk04	to-say-talk	qali kenû	qʰali kʰɛnu	primary	provisional	response
-spk04:bread-from-eating:1	spk04	bread-from-eating	nong	nõŋ	primary	reviewed	response
 spk04:to-listen:1	spk04	to-listen	gwış nownû ra ser	gʷɨʃ nownu ɾa sɛɾ	primary	provisional	response
-spk05:ear:1	spk05	ear	gweş	gʷɛʃ	primary	reviewed	response
-spk05:eye:1	spk05	eye	çım	t̪͡ʃɪm	primary	reviewed	response
-spk05:nose:1	spk05	nose	zınc	zɨnd̪͡ʒ	primary	reviewed	response
-spk05:mouth:1	spk05	mouth	fek	fɛkʰ	primary	reviewed	response
-spk05:tooth:1	spk05	tooth	dınûn	d̪ɨnũn	primary	reviewed	response
-spk05:tongue:1	spk05	tongue	zûn	zun	primary	reviewed	response
-spk05:neck:1	spk05	neck	mel	mɛl	primary	reviewed	response
-spk05:foot:1	spk05	foot	lıng	lɨŋg	primary	reviewed	response
-spk05:sun:1	spk05	sun	tic	t̪ʰid̪͡ʒ	primary	reviewed	response
-spk05:moon:1	spk05	moon	aşm	ɑʃm̥͉	primary	reviewed	response
-spk05:cloud:1	spk05	cloud	hora	hoɾɑ	primary	reviewed	response
-spk05:fire:1	spk05	fire	adır	ɑːd̪ɨɾ	primary	reviewed	response
-spk05:mountain:1	spk05	mountain	kwe	kʷʰɨ	primary	reviewed	response
-spk05:tree:1	spk05	tree	dar	d̪ɑɾ̥	primary	reviewed	response
-spk05:leaf:1	spk05	leaf	pel	pʰɛl	primary	reviewed	response
-spk05:bone:1	spk05	bone	estı	ʔɛst̪ʰɪ	primary	reviewed	response
-spk05:egg:1	spk05	egg	hak	hɑkʰ	primary	reviewed	response
-spk05:dog:1	spk05	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
+spk04:to-say-talk:1	spk04	to-say-talk	qali kenu	qʰali kʰɛnu	primary	provisional	response
+spk04:to-sit:1	spk04	to-sit	rınıştaye	rɨnɨʃt̪ʰajɛ	primary	reviewed	response
+spk04:to-sleep:1	spk04	to-sleep	rakutyo	rakʰut̪ʰjo	primary	provisional	response
+spk04:to-swim:1	spk04	to-swim	cum kenu	d̪͡ʒum kʰɛnu	primary	provisional	response
+spk04:to-walk:1	spk04	to-walk	girenu	giɾɛnu	primary	provisional	response
+spk04:tongue:1	spk04	tongue	zung	zũŋ	primary	reviewed	response
+spk04:tooth:1	spk04	tooth	dodong	d̪od̪õŋ	primary	reviewed	response
+spk04:tree:1	spk04	tree	darı	d̪aɾɪ	primary	provisional	response
+spk04:white:1	spk04	white	sıpi	sɨpʰi	primary	reviewed	response
+spk04:yellow:1	spk04	yellow	tutık	t̪ʰut̪ʰɪkʰ	primary	provisional	response
 spk05:bird:1	spk05	bird	mirçık	miɾt̪͡ʃɪkʰ	primary	reviewed	response
-spk05:snake:1	spk05	snake	mar	mɑɾ̥	primary	reviewed	response
-spk05:fish:1	spk05	fish	mase	mɑsɨ	primary	reviewed	response
-spk05:worm:1	spk05	worm	lwelık	lʷɛlɪkʰ	primary	reviewed	response
-spk05:red:1	spk05	red	swır	sʷɪɾ	primary	reviewed	response
-spk05:green:1	spk05	green	aşıl	ɑʃɨl	primary	reviewed	response
-spk05:yellow:1	spk05	yellow	zer	zɛɾ	primary	reviewed	response
-spk05:white:1	spk05	white	sıpyı	sɨpʲʰɪ	primary	reviewed	response
 spk05:black:1	spk05	black	sya	sjɑ	primary	reviewed	response
+spk05:bone:1	spk05	bone	estı	ʔɛst̪ʰɪ	primary	reviewed	response
+spk05:bread-from-eating:1	spk05	bread-from-eating	no	no	primary	reviewed	response
+spk05:cloud:1	spk05	cloud	hora	hoɾɑ	primary	reviewed	response
+spk05:dog:1	spk05	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
+spk05:ear:1	spk05	ear	gweş	gʷɛʃ	primary	reviewed	response
+spk05:egg:1	spk05	egg	hak	hɑkʰ	primary	reviewed	response
+spk05:eye:1	spk05	eye	çım	t̪͡ʃɪm	primary	reviewed	response
+spk05:fire:1	spk05	fire	adır	ɑːd̪ɨɾ	primary	reviewed	response
+spk05:fish:1	spk05	fish	ması	mɑsɨ	primary	reviewed	response
+spk05:foot:1	spk05	foot	lıng	lɨŋg	primary	reviewed	response
+spk05:green:1	spk05	green	aşıl	ɑʃɨl	primary	reviewed	response
+spk05:leaf:1	spk05	leaf	pel	pʰɛl	primary	reviewed	response
+spk05:moon:1	spk05	moon	aşm	ɑʃm̥͉	primary	reviewed	response
+spk05:mountain:1	spk05	mountain	kwı	kʷʰɨ	primary	reviewed	response
+spk05:mouth:1	spk05	mouth	fek	fɛkʰ	primary	reviewed	response
+spk05:neck:1	spk05	neck	mel	mɛl	primary	reviewed	response
+spk05:nose:1	spk05	nose	zınc	zɨnd̪͡ʒ	primary	reviewed	response
+spk05:red:1	spk05	red	swır	sʷɪɾ	primary	reviewed	response
+spk05:snake:1	spk05	snake	mar	mɑɾ̥	primary	reviewed	response
+spk05:sun:1	spk05	sun	tic	t̪ʰid̪͡ʒ	primary	reviewed	response
 spk05:to-drink:1	spk05	to-drink	owk wen	owk wɛn	primary	reviewed	response
 spk05:to-eat:1	spk05	to-eat	wen	wɛn	primary	reviewed	response
+spk05:to-fly:1	spk05	to-fly	perrena	pʰɛrɛnɑ	primary	reviewed	response
+spk05:to-lie-down:1	spk05	to-lie-down	qılyo ara	qʰɨljo ɑɾɑ	primary	reviewed	response
+spk05:to-listen:1	spk05	to-listen	gweşteri ken	gʷɛʃt̪ʰɛɾi c͡çɛn	primary	reviewed	response
+spk05:to-say-talk:1	spk05	to-say-talk	xâbêr dun	χæbeɾ d̪un	primary	reviewed	response
+spk05:to-sit:1	spk05	to-sit	rwenıştı	rwɛnɪʃt̪ʰɪ	primary	reviewed	response
 spk05:to-sleep:1	spk05	to-sleep	kwen ra	kʷɛn ɾɑ	primary	reviewed	response
 spk05:to-swim:1	spk05	to-swim	asnıy ken	ɑsnɨj c͡çɛn	primary	reviewed	response
-spk05:to-fly:1	spk05	to-fly	perrena	pʰɛrɛnɑ	primary	reviewed	response
 spk05:to-walk:1	spk05	to-walk	ling şın	liŋg ʃɪn	primary	reviewed	response
-spk05:to-lie-down:1	spk05	to-lie-down	qılyo ara	qʰɨljo ɑɾɑ	primary	reviewed	response
-spk05:to-sit:1	spk05	to-sit	rwenıştı	rwɛnɪʃt̪ʰɪ	primary	reviewed	response
-spk05:to-say-talk:1	spk05	to-say-talk	xâbêr dûn	χæbeɾ d̪un	primary	reviewed	response
-spk05:bread-from-eating:1	spk05	bread-from-eating	no	no	primary	reviewed	response
-spk05:to-listen:1	spk05	to-listen	gweşteri ken	gʷɛʃt̪ʰɛɾi c͡çɛn	primary	reviewed	response
-spk06:eye:1	spk06	eye	çım	t̪͡ʃɪm	primary	reviewed	response
-spk06:nose:1	spk06	nose	fıni	fɪni	primary	reviewed	response
-spk06:tooth:1	spk06	tooth	dındû	d̪ɪnd̪u	primary	reviewed	response
-spk06:tongue:1	spk06	tongue	zû	zũ	primary	reviewed	response
-spk06:foot:1	spk06	foot	lıng	lɨŋg̥ʰ	primary	reviewed	response
-spk06:sun:1	spk06	sun	tinc	t̪ʰind͡ʒ	primary	reviewed	response
-spk06:cloud:1	spk06	cloud	howr	howɾ	primary	reviewed	response
-spk06:fire:1	spk06	fire	adır	ɑd̪ɨɾ	primary	reviewed	response
-spk06:tree:1	spk06	tree	dar	d̪ɑɾ̥	primary	reviewed	response
-spk06:leaf:1	spk06	leaf	pel	pʰɛl	primary	reviewed	response
-spk06:bone:1	spk06	bone	kate	kʰɑt̪ɛ	primary	reviewed	response
-spk06:egg:1	spk06	egg	hak	hɑkʰ	primary	reviewed	response
-spk06:dog:1	spk06	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
+spk05:tongue:1	spk05	tongue	zun	zun	primary	reviewed	response
+spk05:tooth:1	spk05	tooth	dınun	d̪ɨnũn	primary	reviewed	response
+spk05:tree:1	spk05	tree	dar	d̪ɑɾ̥	primary	reviewed	response
+spk05:white:1	spk05	white	sıpyı	sɨpʲʰɪ	primary	reviewed	response
+spk05:worm:1	spk05	worm	lwelık	lʷɛlɪkʰ	primary	reviewed	response
+spk05:yellow:1	spk05	yellow	zer	zɛɾ	primary	reviewed	response
 spk06:bird:1	spk06	bird	mılçık	mɨlt̪͡ʃɪkʰ	primary	reviewed	response
-spk06:snake:1	spk06	snake	mar	mɑɾ̥	primary	reviewed	response
-spk06:fish:1	spk06	fish	mase	mɑsɛ	primary	reviewed	response
-spk06:red:1	spk06	red	swır	sʷɨɾ	primary	reviewed	response
-spk06:yellow:1	spk06	yellow	zerd	zɛɾd̪̥	primary	reviewed	response
-spk06:white:1	spk06	white	sıpi	sɨpʰi	primary	reviewed	response
 spk06:black:1	spk06	black	siya	sijɑ	primary	reviewed	response
+spk06:bone:1	spk06	bone	kate	kʰɑt̪ʰɛ	primary	reviewed	response
+spk06:bread-from-eating:1	spk06	bread-from-eating	no	no	primary	reviewed	response
+spk06:cloud:1	spk06	cloud	howr	howɾ	primary	reviewed	response
+spk06:dog:1	spk06	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
+spk06:egg:1	spk06	egg	hak	hɑkʰ	primary	reviewed	response
+spk06:eye:1	spk06	eye	çım	t̪͡ʃɪm	primary	reviewed	response
+spk06:fire:1	spk06	fire	adır	ɑd̪ɨɾ	primary	reviewed	response
+spk06:fish:1	spk06	fish	mase	mɑsɛ	primary	reviewed	response
+spk06:foot:1	spk06	foot	lıng	lɨŋg̥ʰ	primary	reviewed	response
+spk06:leaf:1	spk06	leaf	pel	pʰɛl	primary	reviewed	response
+spk06:nose:1	spk06	nose	fıni	fɪni	primary	reviewed	response
+spk06:red:1	spk06	red	swır	sʷɨɾ	primary	reviewed	response
+spk06:snake:1	spk06	snake	mar	mɑɾ̥	primary	reviewed	response
+spk06:sun:1	spk06	sun	tinc	t̪ʰind͡ʒ	primary	reviewed	response
 spk06:to-drink:1	spk06	to-drink	awk won	ɑwkʰ won	primary	reviewed	response
 spk06:to-eat:1	spk06	to-eat	wön	wøn	primary	reviewed	response
 spk06:to-eat:2	spk06	to-eat	çi wön	t̪͡ʃi wøn	alternate	reviewed	response
+spk06:to-fly:1	spk06	to-fly	fırena	fɨrɛna	primary	reviewed	response
+spk06:to-say-talk:1	spk06	to-say-talk	qal kön	qʰɑl kʰøn	primary	reviewed	response
+spk06:to-sit:1	spk06	to-sit	runışt	runɪʃt̪ʰ	primary	reviewed	response
 spk06:to-sleep:1	spk06	to-sleep	ra kwön	rɑ kʷʰøn	primary	reviewed	response
 spk06:to-swim:1	spk06	to-swim	asnaw kon	ɑsnɑw kʰon	primary	reviewed	response
-spk06:to-fly:1	spk06	to-fly	fırena	fɨrɛna	primary	reviewed	response
-spk06:to-sit:1	spk06	to-sit	rûnışt	runɪʃt̪ʰ	primary	reviewed	response
-spk06:to-say-talk:1	spk06	to-say-talk	qal kön	qʰɑl kʰøn	primary	reviewed	response
-spk06:bread-from-eating:1	spk06	bread-from-eating	no	no	primary	reviewed	response
-spk07:ear:1	spk07	ear	gweş	gʷɛʃ	primary	reviewed	response
-spk07:eye:1	spk07	eye	çım	t̪͡ʃɪm	primary	reviewed	response
-spk07:nose:1	spk07	nose	zınc	zɨnd̪͡ʒ	primary	reviewed	response
-spk07:mouth:1	spk07	mouth	fek	fɛkʰ	primary	reviewed	response
-spk07:tooth:1	spk07	tooth	dındû	d̪ɨnd̪u	primary	reviewed	response
-spk07:tongue:1	spk07	tongue	zû	zu	primary	reviewed	response
+spk06:tongue:1	spk06	tongue	zu	zũ	primary	reviewed	response
+spk06:tooth:1	spk06	tooth	dındu	d̪ɪnd̪u	primary	reviewed	response
+spk06:tree:1	spk06	tree	dar	d̪ɑɾ̥	primary	reviewed	response
+spk06:white:1	spk06	white	sıpi	sɨpʰi	primary	reviewed	response
+spk06:yellow:1	spk06	yellow	zerd	zɛɾd̪̥	primary	reviewed	response
 spk07:belly:1	spk07	belly	meşk	mɛʃkʰ	primary	reviewed	response
-spk07:neck:1	spk07	neck	mıl	mɨlᵊ	primary	reviewed	response
-spk07:foot:1	spk07	foot	nıng	nɪŋg	primary	reviewed	response
-spk07:sun:1	spk07	sun	tinc	t̪ʰind̪͡ʒ	primary	provisional	response
-spk07:moon:1	spk07	moon	aşm	ɑʃm̥	primary	reviewed	response
-spk07:cloud:1	spk07	cloud	howr	howɾ	primary	reviewed	response
-spk07:fire:1	spk07	fire	adır	ɑd̪ɨɾ͉	primary	reviewed	response
-spk07:mountain:1	spk07	mountain	kûwe	kʰuwɛ	primary	reviewed	response
-spk07:tree:1	spk07	tree	dar	d̪ɑɾ	primary	reviewed	response
-spk07:leaf:1	spk07	leaf	pel	pʰɛl	primary	reviewed	response
-spk07:bone:1	spk07	bone	kate	kʰɑt̪ʰɛ	primary	reviewed	response
-spk07:egg:1	spk07	egg	hak	hɑkʰ	primary	reviewed	response
-spk07:dog:1	spk07	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
 spk07:bird:1	spk07	bird	mılçık	mɨlt̪͡ʃɪkʰ	primary	reviewed	response
-spk07:snake:1	spk07	snake	mar	mɑɾ	primary	reviewed	response
-spk07:fish:1	spk07	fish	mase	mɑsɛ	primary	reviewed	response
-spk07:red:1	spk07	red	sür	sʉɾ	primary	provisional	response
-spk07:yellow:1	spk07	yellow	zerd	zɛɹd̪͉	primary	reviewed	response
-spk07:white:1	spk07	white	sıpye	sɨpʰjɛ	primary	reviewed	response
 spk07:black:1	spk07	black	siya	sijɑ	primary	reviewed	response
+spk07:bone:1	spk07	bone	kate	kʰɑt̪ʰɛ	primary	reviewed	response
+spk07:cloud:1	spk07	cloud	howr	howɾ	primary	reviewed	response
+spk07:dog:1	spk07	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
+spk07:ear:1	spk07	ear	gweş	gʷɛʃ	primary	reviewed	response
+spk07:egg:1	spk07	egg	hak	hɑkʰ	primary	reviewed	response
+spk07:eye:1	spk07	eye	çım	t̪͡ʃɪm	primary	reviewed	response
+spk07:fire:1	spk07	fire	adır	ɑd̪ɨɾ͉	primary	reviewed	response
+spk07:fish:1	spk07	fish	mase	mɑsɛ	primary	reviewed	response
+spk07:five:1	spk07	five	panc	pʰɑnd̪͡ʒ	primary	reviewed	response
+spk07:fly-insect:1	spk07	fly-insect	hing	hiŋg	primary	reviewed	response
+spk07:foot:1	spk07	foot	nıng	nɪŋg	primary	reviewed	response
+spk07:four:1	spk07	four	çeer	t̪͡ʃɛːɾ	primary	reviewed	response
+spk07:hair:1	spk07	hair	gıjık	gɨ̆ʒɪkʰ	primary	reviewed	response
+spk07:hand:1	spk07	hand	dest	d̪ɛst̪ʰ	primary	reviewed	response
+spk07:head:1	spk07	head	sere	sɛɾɛ	primary	reviewed	response
+spk07:leaf:1	spk07	leaf	pel	pʰɛl	primary	reviewed	response
+spk07:moon:1	spk07	moon	aşm	ɑʃm̥	primary	reviewed	response
+spk07:mountain:1	spk07	mountain	kuwe	kʰuwɛ	primary	reviewed	response
+spk07:mouth:1	spk07	mouth	fek	fɛkʰ	primary	reviewed	response
+spk07:neck:1	spk07	neck	mıl	mɨlᵊ	primary	reviewed	response
+spk07:nose:1	spk07	nose	zınc	zɨnd̪͡ʒ	primary	reviewed	response
+spk07:one:1	spk07	one	yow	jow	primary	reviewed	response
+spk07:red:1	spk07	red	sür	sʉɾ	primary	provisional	response
+spk07:snake:1	spk07	snake	mar	mɑɾ	primary	reviewed	response
+spk07:snow:1	spk07	snow	vowr	vowɾ	primary	reviewed	response
+spk07:stone:1	spk07	stone	kerra	kʰɛrɑ	primary	reviewed	response
+spk07:sun:1	spk07	sun	tinc	t̪ʰind̪͡ʒ	primary	provisional	response
+spk07:three:1	spk07	three	hirye	hiɾjɛ	primary	reviewed	response
 spk07:to-eat:1	spk07	to-eat	wen	wɛn	primary	reviewed	response
+spk07:to-fly:1	spk07	to-fly	mılçık ha pırrına	mɨlt̪͡ʃɨkʰ hɑ pʰɨrɨnɑ	primary	reviewed	response
+spk07:to-lie-down:1	spk07	to-lie-down	rakot	rɑkʰot̪ʰ	primary	reviewed	response
+spk07:to-read:1	spk07	to-read	kıtab wanen	kʰɨt̪ʰɑb wanɛn	primary	reviewed	response
+spk07:to-say-talk:1	spk07	to-say-talk	qal kön	qʰɑl kʰøn	primary	reviewed	response
+spk07:to-sit:1	spk07	to-sit	rwınişt	rʷɨniʃt̪ʰ	primary	reviewed	response
 spk07:to-sleep:1	spk07	to-sleep	rakot	rɑkʰot̪ʰ	primary	reviewed	response
 spk07:to-swim:1	spk07	to-swim	asnaw kön	ɑsnɔw kʰøn	primary	reviewed	response
-spk07:to-fly:1	spk07	to-fly	mılçık ha pırrına	mɨlt̪͡ʃɨkʰ hɑ pʰɨrɨnɑ	primary	reviewed	response
 spk07:to-walk:1	spk07	to-walk	şwön	ʃwønᵊ	primary	reviewed	response
-spk07:to-lie-down:1	spk07	to-lie-down	rakot	rɑkʰot̪ʰ	primary	reviewed	response
-spk07:to-sit:1	spk07	to-sit	rwınişt	rʷɨniʃt̪ʰ	primary	reviewed	response
-spk07:to-say-talk:1	spk07	to-say-talk	qal kön	qʰɑl kʰøn	primary	reviewed	response
-spk07:hand:1	spk07	hand	dest	d̪ɛst̪ʰ	primary	reviewed	response
-spk07:hair:1	spk07	hair	gıjık	gɨ̆ʒɪkʰ	primary	reviewed	response
-spk07:fly-insect:1	spk07	fly-insect	hing	hiŋg	primary	reviewed	response
-spk07:to-write:1	spk07	to-write	Ders nûsn	d̪ɛɹs nusᵊn	primary	reviewed	response
-spk07:to-read:1	spk07	to-read	kıtab wanen	kʰɨt̪ʰɑb wanɛn	primary	reviewed	response
-spk07:stone:1	spk07	stone	kerra	kʰɛrɑ	primary	reviewed	response
-spk07:head:1	spk07	head	sara	saɾa	primary	reviewed	response
-spk07:water:1	spk07	water	awk	awkʰ	primary	reviewed	response
-spk07:snow:1	spk07	snow	vowr	vowɾ	primary	reviewed	response
-spk07:walnut:1	spk07	walnut	gwoz	gʷoz	primary	reviewed	response
-spk07:one:1	spk07	one	yow	jow	primary	reviewed	response
+spk07:to-write:1	spk07	to-write	Ders nusn	d̪ɛɹs nusᵊn	primary	reviewed	response
+spk07:tongue:1	spk07	tongue	zu	zu	primary	reviewed	response
+spk07:tooth:1	spk07	tooth	dındu	d̪ɨnd̪u	primary	reviewed	response
+spk07:tree:1	spk07	tree	dar	d̪ɑɾ	primary	reviewed	response
 spk07:two:1	spk07	two	dı	d̪ɨ	primary	reviewed	response
-spk07:three:1	spk07	three	hirye	hiɾjɛ	primary	reviewed	response
-spk07:four:1	spk07	four	çeer	t̪͡ʃɛːɾ	primary	reviewed	response
-spk07:five:1	spk07	five	panc	pʰɑnd̪͡ʒ	primary	reviewed	response
-spk04:cloud:1	spk04	cloud	hor	hoɾ	primary	reviewed	response
-spk04:stone:1	spk04	stone	kwûçı	kʷʰut̪͡ʃɪ	primary	reviewed	response
-spk04:snow:1	spk04	snow	vorı	voɾɪ	primary	reviewed	response
+spk07:walnut:1	spk07	walnut	gwoz	gʷoz	primary	reviewed	response
+spk07:water:1	spk07	water	awk	awkʰ	primary	reviewed	response
+spk07:white:1	spk07	white	sıpye	sɨpʰjɛ	primary	reviewed	response
+spk07:yellow:1	spk07	yellow	zerd	zɛɹd̪͉	primary	reviewed	response

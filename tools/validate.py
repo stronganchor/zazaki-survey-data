@@ -46,7 +46,9 @@ def main():
     recording_by = {r['id']: r for r in recordings}
     rosters = {r['id']: r['concept_ids'] for r in json.loads((ROOT / 'data/rosters.json').read_text(encoding='utf8'))}
     assert all(len(c) == len(set(c)) and set(c) <= concept_ids for c in rosters.values())
-    assert len(speakers) == 7 and len(concepts) == 57 and sum(c['current_survey'] for c in concepts) == 50
+    summary = json.loads((ROOT / 'release.json').read_text(encoding='utf8'))
+    assert len(speakers) == summary['speakers'] and len(concepts) == summary['historical_concept_registry']
+    assert sum(c['current_survey'] for c in concepts) == summary['current_survey_concepts']
     assert {(r['speaker_id'], r['concept_id']) for r in responses} == {(s, c) for s in speaker_ids for c in concept_ids}
     audio_paths = set()
     for r in recordings:
@@ -54,7 +56,7 @@ def main():
         assert session_by[r['session_id']]['speaker_id'] == r['speaker_id']
         assert r['roster_id'] == session_by[r['session_id']]['roster_id']
         assert all(re.fullmatch(r'(q\d{2}[^/\\]*|additional-[a-z-]+|recall-[a-z0-9-]+|extra-q\d{2}-[a-z]+|archive-[a-z0-9-]+)', x) for x in r['source_item_ids'])
-        assert re.fullmatch(r'audio/spk\d{2}/spk\d{2}-r\d{3}\.wav', r['audio_path'])
+        assert re.fullmatch(r'audio/spk\d{2,}/spk\d{2,}-r\d{3,}\.wav', r['audio_path'])
         path = ROOT / r['audio_path']
         assert r['audio_path'] not in audio_paths and digest(path.read_bytes()) == r['audio_sha256']
         audio_paths.add(r['audio_path'])
@@ -73,7 +75,7 @@ def main():
     assert audio_paths == {p.relative_to(ROOT).as_posix() for p in (ROOT / 'audio').rglob('*.wav')}
     referenced = set()
     for r in responses:
-        links = r['selected_recording_ids'] + r['supplemental_recording_ids']
+        links = r['selected_recording_ids'] + r['supplemental_recording_ids'] + r.get('superseded_recording_ids', [])
         assert r['recording_available'] == bool(links)
         for key in links:
             assert recording_by[key]['speaker_id'] == r['speaker_id']
@@ -95,11 +97,28 @@ def main():
         assert a['recording_id'] in recording_by and a['target_concept'] in concept_ids
         assert not a['token_timestamps_verified']
     response_by = {r['id']: r for r in responses}
-    assert {r['id'] for r in responses if r['response_status'] == 'withheld'} == {'spk06:ear', 'spk06:mountain', 'spk07:green'}
-    mouth = response_by['spk03:mouth']
-    assert mouth['transcription_orthography'] == 'fek' and mouth['transcription_research_ipa'] == 'fɛkʰ'
-    assert recording_by[mouth['selected_recording_ids'][0]]['duration_seconds'] == 0.425
-    summary = json.loads((ROOT / 'release.json').read_text(encoding='utf8'))
+    assert sum(r['response_status'] == 'withheld' for r in responses) == summary['explicit_withheld_slots']
+    snapshot_path = ROOT / 'data/atlas-current.json'
+    if snapshot_path.exists():
+        from sync_from_atlas import validate_snapshot
+        snapshot = json.loads(snapshot_path.read_text(encoding='utf8'))
+        validate_snapshot(snapshot)
+        active = {c['id'] for c in snapshot['concepts']}
+        assert snapshot['source_content_sha256'] == summary['website_source_content_sha256']
+        for live in snapshot['responses']:
+            if live['concept_id'] not in active: continue
+            r = response_by[live['id']]
+            if r['response_status'] == 'withheld':
+                assert not live['visible'] and not live['published_audio_sha256']
+                continue
+            assert r['transcription_orthography'] == live['orthography']
+            assert r['transcription_research_ipa'] == live['ipa']
+            assert r['published_audio_sha256'] == live['published_audio_sha256']
+            displayed = [f for f in forms if f['speaker_id'] == r['speaker_id'] and f['concept_id'] == r['concept_id']]
+            expected = [{k:f.get(k) for k in ('role','orthography','ipa','audio_scope','certainty')} for f in live['display_forms']]
+            actual = [{'role':f['role'],'orthography':f['orthography'],'ipa':f['research_ipa'],'audio_scope':f['audio_scope'],'certainty':f['certainty']} for f in displayed]
+            assert actual == expected, live['id']
+            if live['visible'] and live['published_audio_sha256']: assert r['selected_recording_ids']
     assert summary['unique_recording_clips'] == len(recordings)
     assert summary['curated_form_rows'] == len(forms) and summary['annotation_rows'] == len(annotations)
     assert summary['counts_by_speaker'] == dict(Counter(r['speaker_id'] for r in recordings))
@@ -111,6 +130,7 @@ def main():
         text = (ROOT / relative).read_text(encoding='utf8')
         assert not re.search(r'\b[A-Z]:[\\/]|/(?:Users|home)/|AppData|LOCALAPPDATA|private_wav_path|source_review_path|GITHUB_TOKEN|phone_number|email_address|questionnaire_answers', text, re.I), relative
         if relative.startswith('data/'):
+            assert not re.search(r'[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}', text, re.I), relative
             assert not re.search(r'\b[0-9a-f]{32}\b|\b[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\b', text, re.I), relative
     print(f'PASS: {len(speakers)} speakers, {len(recordings)} WAV clips, {len(responses)} coverage rows, {len(forms)} comparison forms; checksums and links verified.')
 

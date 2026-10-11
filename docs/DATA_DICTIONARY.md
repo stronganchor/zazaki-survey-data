@@ -63,3 +63,12 @@ Source intervals do not expose the original session recordings. A boundary cavea
 ## Checksums
 
 `SHA256SUMS` lists all release files except itself. `release.json` supplies exact snapshot counts. To verify the downloaded package, run `python tools/validate.py` from any working directory. The script resolves its own repository root.
+
+## Website synchronization fields
+
+- `atlas-current.json`: anonymous authoritative website curation snapshot, including full text, ordered display forms, comparison forms, source versions, publication status and audio hashes. Retired entries in this snapshot reflect current website state; historical research tables intentionally preserve their earlier released evidence.
+- Response `atlas_version` and `published_audio_sha256`: captured current website provenance.
+- Response `superseded_recording_ids`: previously published clips replaced by the current selected recording. These are historical evidence, not extra current answers.
+- Recording kind `superseded_publication_clip`: no longer selected by any response; retained with its original annotations. A shared old clip can still be selected by a historical response.
+- New clip `updated_clip_requires_separate_training_alignment`: the current publication clip has not inherited training approval for a previous boundary.
+- Release `website_source_content_sha256`: private live-capture fingerprint; `current_selected_unique_clips` counts current selected PCM, while `unique_recording_clips` includes retained historical evidence.
