@@ -202,35 +202,57 @@ spk05:tree:1	spk05	tree	dar	d̪ɑɾ̥	primary	reviewed	response
 spk05:white:1	spk05	white	sıpyı	sɨpʲʰɪ	primary	reviewed	response
 spk05:worm:1	spk05	worm	lwelık	lʷɛlɪkʰ	primary	reviewed	response
 spk05:yellow:1	spk05	yellow	zer	zɛɾ	primary	reviewed	response
-spk06:bird:1	spk06	bird	mılçık	mɨlt̪͡ʃɪkʰ	primary	reviewed	response
+spk06:belly:1	spk06	belly	meşk	mɛʃkʰ	primary	reviewed	response
+spk06:bird:1	spk06	bird	mılçık	mɪlt̪͡ʃɪkʰ	primary	reviewed	response
 spk06:black:1	spk06	black	siya	sijɑ	primary	reviewed	response
 spk06:bone:1	spk06	bone	kate	kʰɑt̪ʰɛ	primary	reviewed	response
 spk06:bread-from-eating:1	spk06	bread-from-eating	no	no	primary	reviewed	response
 spk06:cloud:1	spk06	cloud	howr	howɾ	primary	reviewed	response
 spk06:dog:1	spk06	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
+spk06:ear:1	spk06	ear	gwış	gʷɨʃ	primary	reviewed	response
 spk06:egg:1	spk06	egg	hak	hɑkʰ	primary	reviewed	response
 spk06:eye:1	spk06	eye	çım	t̪͡ʃɪm	primary	reviewed	response
-spk06:fire:1	spk06	fire	adır	ɑd̪ɨɾ	primary	reviewed	response
-spk06:fish:1	spk06	fish	mase	mɑsɛ	primary	reviewed	response
+spk06:fire:1	spk06	fire	adır	ɑd̪ɨɾ̥	primary	reviewed	response
+spk06:fish:1	spk06	fish	ması	mɑsɨ	primary	reviewed	response
+spk06:fish:2	spk06	fish	mase	mɑsɛ	alternate	reviewed	none
+spk06:five:1	spk06	five	punc	pʰũnd̪͡ʒ	primary	reviewed	response
+spk06:fly-insect:1	spk06	fly-insect	miyız	mijɪz	primary	reviewed	response
 spk06:foot:1	spk06	foot	lıng	lɨŋg̥ʰ	primary	reviewed	response
-spk06:leaf:1	spk06	leaf	pel	pʰɛl	primary	reviewed	response
-spk06:nose:1	spk06	nose	fıni	fɪni	primary	reviewed	response
+spk06:four:1	spk06	four	çiyer	t̪͡ʃijɛɾ	primary	reviewed	response
+spk06:hair:1	spk06	hair	gıcık	gɨd̪͡ʒɪkʰ	primary	reviewed	response
+spk06:hand:1	spk06	hand	dest	d̪ɛst̪	primary	reviewed	response
+spk06:leaf:1	spk06	leaf	pel	pʰɛʎ	primary	reviewed	response
+spk06:mountain:1	spk06	mountain	kwı	kʷʰɪ̞	primary	reviewed	response
+spk06:neck:1	spk06	neck	mıl	mɪl	primary	reviewed	response
+spk06:nose:1	spk06	nose	vıni	vɪni	primary	reviewed	response
+spk06:nose:2	spk06	nose	fıni	fɪni	alternate	reviewed	none
+spk06:one:1	spk06	one	yıw	jɪ̞w	primary	reviewed	response
 spk06:red:1	spk06	red	swır	sʷɨɾ	primary	reviewed	response
-spk06:snake:1	spk06	snake	mar	mɑɾ̥	primary	reviewed	response
+spk06:snake:1	spk06	snake	mar	mɑɾ	primary	reviewed	response
+spk06:snow:1	spk06	snow	vor	voːɾ	primary	reviewed	response
+spk06:stone:1	spk06	stone	kera	kʰɛrɑ	primary	reviewed	response
 spk06:sun:1	spk06	sun	tinc	t̪ʰind͡ʒ	primary	reviewed	response
+spk06:three:1	spk06	three	hirı	hiɾɪ	primary	reviewed	response
 spk06:to-drink:1	spk06	to-drink	awk won	ɑwkʰ won	primary	reviewed	response
-spk06:to-eat:1	spk06	to-eat	wön	wøn	primary	reviewed	response
-spk06:to-eat:2	spk06	to-eat	çi wön	t̪͡ʃi wøn	alternate	reviewed	response
-spk06:to-fly:1	spk06	to-fly	fırena	fɨrɛna	primary	reviewed	response
+spk06:to-eat:1	spk06	to-eat	çi wön	t̪͡ʃi wøn	primary	reviewed	response
+spk06:to-eat:2	spk06	to-eat	wön	wøn	alternate	reviewed	response
+spk06:to-fly:1	spk06	to-fly	frena	frɛnɑ	primary	reviewed	response
+spk06:to-fly:2	spk06	to-fly	fırena	fɨrɛna	alternate	reviewed	none
+spk06:to-read:1	spk06	to-read	kıtab unön	kʰɪ̆t̪ɑb unøn	primary	reviewed	response
 spk06:to-say-talk:1	spk06	to-say-talk	qal kön	qʰɑl kʰøn	primary	reviewed	response
 spk06:to-sit:1	spk06	to-sit	runışt	runɪʃt̪ʰ	primary	reviewed	response
 spk06:to-sleep:1	spk06	to-sleep	ra kwön	rɑ kʷʰøn	primary	reviewed	response
-spk06:to-swim:1	spk06	to-swim	asnaw kon	ɑsnɑw kʰon	primary	reviewed	response
+spk06:to-swim:1	spk06	to-swim	asnaw kön	ɑsnɑw kʰøn	primary	reviewed	response
+spk06:to-swim:2	spk06	to-swim	asnaw kon	ɑsnɑw kʰon	alternate	reviewed	none
+spk06:to-walk:1	spk06	to-walk	ho şön	ho ʃøn	primary	reviewed	response
+spk06:to-write:1	spk06	to-write	yazı nısön	jɑzɨ nɪsøn	primary	reviewed	response
 spk06:tongue:1	spk06	tongue	zu	zũ	primary	reviewed	response
 spk06:tooth:1	spk06	tooth	dındu	d̪ɪnd̪u	primary	reviewed	response
-spk06:tree:1	spk06	tree	dar	d̪ɑɾ̥	primary	reviewed	response
+spk06:tree:1	spk06	tree	dar	d̪aɾ	primary	reviewed	response
+spk06:two:1	spk06	two	dı	d̪ɪ	primary	reviewed	response
+spk06:walnut:1	spk06	walnut	gwız	gwɨz	primary	reviewed	response
 spk06:white:1	spk06	white	sıpi	sɨpʰi	primary	reviewed	response
-spk06:yellow:1	spk06	yellow	zerd	zɛɾd̪̥	primary	reviewed	response
+spk06:yellow:1	spk06	yellow	zerd	zɛɹd̪	primary	reviewed	response
 spk07:belly:1	spk07	belly	meşk	mɛʃkʰ	primary	reviewed	response
 spk07:bird:1	spk07	bird	mılçık	mɨlt̪͡ʃɪkʰ	primary	reviewed	response
 spk07:black:1	spk07	black	siya	sijɑ	primary	reviewed	response

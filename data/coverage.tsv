@@ -284,63 +284,63 @@ spk05:water	spk05	water	True	not_elicited	False			missing	False
 spk05:white	spk05	white	True	available	True	sıpyı	sɨpʲʰɪ	core	True
 spk05:worm	spk05	worm	False	available	True	lwelık	lʷɛlɪkʰ	core	True
 spk05:yellow	spk05	yellow	True	available	True	zer	zɛɾ	core	True
-spk06:belly	spk06	belly	True	unresolved_or_different_meaning	False			excluded	True
-spk06:bird	spk06	bird	True	available	True	mılçık	mɨlt̪͡ʃɪkʰ	core	True
+spk06:belly	spk06	belly	True	available	True	meşk	mɛʃkʰ	core	True
+spk06:bird	spk06	bird	True	available	True	mılçık	mɪlt̪͡ʃɪkʰ	core	True
 spk06:black	spk06	black	True	available	True	siya	sijɑ	core	True
 spk06:bone	spk06	bone	True	available	True	kate	kʰɑt̪ʰɛ	core	True
 spk06:bread-from-eating	spk06	bread-from-eating	False	available	True	no wön çi wön	no wøn t̪͡ʃi wøn	core	True
 spk06:cloud	spk06	cloud	True	available	True	howr	howɾ	core	True
 spk06:dog	spk06	dog	True	available	True	kwıtık	kʷʰɨt̪ʰɪkʰ	core	True
-spk06:ear	spk06	ear	True	withheld	False			excluded	True
+spk06:ear	spk06	ear	True	available	True	gwış	gʷɨʃ	core	True
 spk06:egg	spk06	egg	True	available	True	hak	hɑkʰ	core	True
 spk06:eye	spk06	eye	True	available	True	çım	t̪͡ʃɪm	core	True
 spk06:feather	spk06	feather	False	unresolved_or_different_meaning	False			missing	False
-spk06:fire	spk06	fire	True	available	True	adır	ɑd̪ɨɾ	core	True
-spk06:fish	spk06	fish	True	available	True	mase	mɑsɛ	core	True
-spk06:five	spk06	five	True	not_elicited	False			missing	False
-spk06:fly-insect	spk06	fly-insect	True	not_elicited	False			missing	False
+spk06:fire	spk06	fire	True	available	True	adır	ɑd̪ɨɾ̥	core	True
+spk06:fish	spk06	fish	True	available	True	ması	mɑsɨ	core	True
+spk06:five	spk06	five	True	available	True	punc	pʰũnd̪͡ʒ	core	True
+spk06:fly-insect	spk06	fly-insect	True	available	True	miyız	mijɪz	core	True
 spk06:foot	spk06	foot	True	available	True	lıng	lɨŋg̥ʰ	core	True
-spk06:four	spk06	four	True	not_elicited	False			missing	False
+spk06:four	spk06	four	True	available	True	çiyer	t̪͡ʃijɛɾ	core	True
 spk06:green	spk06	green	True	unresolved_or_different_meaning	False			missing	False
-spk06:hair	spk06	hair	True	not_elicited	False			missing	False
-spk06:hand	spk06	hand	True	not_elicited	False			missing	False
+spk06:hair	spk06	hair	True	available	True	gıcık	gɨd̪͡ʒɪkʰ	core	True
+spk06:hand	spk06	hand	True	available	True	dest	d̪ɛst̪	core	True
 spk06:head	spk06	head	True	not_elicited	False			missing	False
 spk06:knee	spk06	knee	False	unresolved_or_different_meaning	False			excluded	True
-spk06:leaf	spk06	leaf	True	available	True	pel	pʰɛl	core	True
+spk06:leaf	spk06	leaf	True	available	True	pel	pʰɛʎ	core	True
 spk06:moon	spk06	moon	True	unresolved_or_different_meaning	False			missing	False
-spk06:mountain	spk06	mountain	True	withheld	False			excluded	True
+spk06:mountain	spk06	mountain	True	available	True	kwı	kʷʰɪ̞	core	True
 spk06:mouth	spk06	mouth	True	unresolved_or_different_meaning	True			excluded	True
-spk06:neck	spk06	neck	True	unresolved_or_different_meaning	False			excluded	True
-spk06:nose	spk06	nose	True	available	True	fıni	fɪni	core	True
-spk06:one	spk06	one	True	not_elicited	False			missing	False
+spk06:neck	spk06	neck	True	available	True	mıl	mɪl	core	True
+spk06:nose	spk06	nose	True	available	True	vıni	vɪni	core	True
+spk06:one	spk06	one	True	available	True	yıw	jɪ̞w	core	True
 spk06:red	spk06	red	True	available	True	swır	sʷɨɾ	core	True
-spk06:snake	spk06	snake	True	available	True	mar	mɑɾ̥	core	True
-spk06:snow	spk06	snow	True	not_elicited	False			missing	False
-spk06:stone	spk06	stone	True	not_elicited	False			missing	False
+spk06:snake	spk06	snake	True	available	True	mar	mɑɾ	core	True
+spk06:snow	spk06	snow	True	available	True	vor	voːɾ	core	True
+spk06:stone	spk06	stone	True	available	True	kera	kʰɛrɑ	core	True
 spk06:sun	spk06	sun	True	available	True	tinc	t̪ʰind͡ʒ	core	True
-spk06:three	spk06	three	True	not_elicited	False			missing	False
+spk06:three	spk06	three	True	available	True	hirı	hiɾɪ	core	True
 spk06:to-drink	spk06	to-drink	False	available	True	awk won	ɑwkʰ won	excluded	True
-spk06:to-eat	spk06	to-eat	True	available	True	no wön çi wön	no wøn t̪͡ʃi wøn	core	True
-spk06:to-fly	spk06	to-fly	True	available	True	mılçık ınka fırena	mɪlt̪͡ʃɪkʰ ɨŋkʰa fɨrɛna	core	True
+spk06:to-eat	spk06	to-eat	True	available	True	çi wön	t̪͡ʃi wøn	core	True
+spk06:to-fly	spk06	to-fly	True	available	True	frena	frɛnɑ	core	True
 spk06:to-hear	spk06	to-hear	False	unresolved_or_different_meaning	False			excluded	True
 spk06:to-lie-down	spk06	to-lie-down	True	unresolved_or_different_meaning	False			excluded	True
 spk06:to-listen	spk06	to-listen	False	unresolved_or_different_meaning	False			excluded	True
-spk06:to-read	spk06	to-read	True	not_elicited	False			missing	False
+spk06:to-read	spk06	to-read	True	available	True	kıtab unön	kʰɪ̆t̪ɑb unøn	core	True
 spk06:to-say-talk	spk06	to-say-talk	True	available	True	ha qal kön	hɑ qʰɑl kʰøn	core	True
 spk06:to-sit	spk06	to-sit	True	available	True	runışt	runɪʃt̪ʰ	excluded	True
 spk06:to-sleep	spk06	to-sleep	True	available	True	ra kwön	rɑ kʷʰøn	core	True
-spk06:to-swim	spk06	to-swim	True	available	True	asnaw kon	ɑsnɑw kʰon	core	True
-spk06:to-walk	spk06	to-walk	True	unresolved_or_different_meaning	False			excluded	True
-spk06:to-write	spk06	to-write	True	not_elicited	False			missing	False
+spk06:to-swim	spk06	to-swim	True	available	True	asnaw kön	ɑsnɑw kʰøn	core	True
+spk06:to-walk	spk06	to-walk	True	available	True	ho şön	ho ʃøn	core	True
+spk06:to-write	spk06	to-write	True	available	True	yazı nısön	jɑzɨ nɪsøn	core	True
 spk06:tongue	spk06	tongue	True	available	True	zu	zũ	core	True
 spk06:tooth	spk06	tooth	True	available	True	dındu	d̪ɪnd̪u	core	True
-spk06:tree	spk06	tree	True	available	True	dar	d̪ɑɾ̥	core	True
-spk06:two	spk06	two	True	not_elicited	False			missing	False
-spk06:walnut	spk06	walnut	True	not_elicited	False			missing	False
+spk06:tree	spk06	tree	True	available	True	dar	d̪aɾ	core	True
+spk06:two	spk06	two	True	available	True	dı	d̪ɪ	core	True
+spk06:walnut	spk06	walnut	True	available	True	gwız	gwɨz	core	True
 spk06:water	spk06	water	True	not_elicited	False			missing	False
 spk06:white	spk06	white	True	available	True	sıpi	sɨpʰi	core	True
 spk06:worm	spk06	worm	False	unresolved_or_different_meaning	False			missing	False
-spk06:yellow	spk06	yellow	True	available	True	zerd	zɛɾd̪̥	core	True
+spk06:yellow	spk06	yellow	True	available	True	zerd	zɛɹd̪	core	True
 spk07:belly	spk07	belly	True	available	True	meşk	mɛʃkʰ	core	True
 spk07:bird	spk07	bird	True	available	True	mılçık	mɨlt̪͡ʃɪkʰ	core	True
 spk07:black	spk07	black	True	available	True	siya	sijɑ	core	True

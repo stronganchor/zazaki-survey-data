@@ -1,6 +1,6 @@
 # Zazaki survey recordings and transcriptions
 
-Public-domain audio and working transcriptions from a picture-based Zazaki lexical survey. The current release contains **283 clips from seven speakers**, including superseded/historical evidence, totaling approximately **5 minutes**, with orthographic transcriptions, research IPA, selected comparison forms, and speaker location metadata.
+Public-domain audio and working transcriptions from a picture-based Zazaki lexical survey. The current release contains **321 clips from seven speakers**, including superseded/historical evidence, totaling approximately **6 minutes**, with orthographic transcriptions, research IPA, selected comparison forms, and speaker location metadata.
 
 Current published transcriptions follow the live Atlas, synchronized on 2026-10-11. This is a versioned snapshot, with earlier evidence explicitly preserved. It combines responses to the earlier 40-item survey, the expanded 50-item survey, and selected supplementary elicitation. It preserves additional responses and lexical variants rather than forcing one recording per concept. It is incomplete: a missing response does not establish that a speaker lacks a word.
 
@@ -47,9 +47,9 @@ The eight supplementary/historical recordings include repeated or alternative an
 
 The current survey has **50 concepts**. The release registry retains **57 concepts/comparison units**, including retired items and the derived `bread-from-eating` and `to-listen` units. Derived units can reference the same clip as another concept. One physical clip is stored once per speaker, with multiple references where appropriate.
 
-Speakers 01–06 originally answered the 40-item roster. Speaker 01 has a separately preserved review mapping: q11 is sun and q13 is cloud, opposite the shared legacy roster. Speaker 07 answered the 2026-10-08 50-item roster. The 2026-10-10 roster reordered the 50 prompts. Interpret `qNN` using its session's roster, never the latest order. Supplementary sessions have no fixed picture-survey roster.
+Speakers 01–06 originally answered the 40-item roster. Speaker 01 has a separately preserved review mapping: q11 is sun and q13 is cloud, opposite the shared legacy roster. Speaker 07 answered the 2026-10-08 50-item roster. The 2026-10-10 roster reordered the 50 prompts. Interpret `qNN` using its session's roster, never the latest order. Speaker 06 also completed the reordered 50-item roster in a follow-up session on 2026-10-11. Other supplementary sessions have no fixed picture-survey roster.
 
-Publication holds are retained as empty coverage slots: Speaker 06's ear and mountain, and Speaker 07's green. Speaker 03's mouth clip contains only the approved `fek` reading; the held lip reading is excluded. Skips, unresolved meanings, and unelicited newer prompts remain visible in coverage.
+Publication holds are retained as empty coverage slots, currently Speaker 07's green. Speaker 06's ear and mountain now use newly reviewed singular follow-up recordings; the earlier held recordings remain unreleased. Speaker 03's mouth clip contains only the approved `fek` reading; the held lip reading is excluded. Skips, unresolved meanings, and unelicited newer prompts remain visible in coverage.
 
 Speaker 01's historically recovered clips retain saved intervals whose final fine trims are not guaranteed. Speaker 03's mountain has an unresolved acoustic-boundary concern; the release includes its whole 0.730-second publication master, not the held 49-millisecond training interval. Speaker 07's sun includes following context that is not fully transcribed. Consult the per-recording `quality_flags` and transcription-completeness fields before acoustic analysis. This publication release is **not an approved STT training manifest**, and no new listening review is claimed.
 
@@ -74,3 +74,5 @@ Attribution is appreciated although CC0 does not require it. Suggested acknowled
 ## Website synchronization
 
 Current transcriptions follow the live Atlas. Every survey processing session must pull website edits into the local records and push the verified anonymous export. See [the required synchronization workflow](docs/SYNC_WORKFLOW.md). The 2026-10-11 synchronization includes current spelling/IPA corrections and seven repaired recording boundaries. Prior clips remain explicitly linked as superseded; original training annotations are preserved. Counts in `release.json` include historical clips and must not be interpreted as current training volume.
+
+The Speaker 06 follow-up adds 38 selected recordings: 20 replace previous primary clips and 18 fill coverage gaps, bringing this speaker to 44 current words. Six older clips remain selected where preferable or where the new response names a different referent. Accepted earlier variants and superseded recordings remain linked. New clips require separate acoustic-training alignment; narrow research IPA is preserved without granting training eligibility.

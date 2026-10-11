@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "https://zazacaogren.com/atlas/",
-  "source_content_sha256": "998a161d850b2a7ee02efff9a8eaa040251e70bc585bf54d2f3dbd754bfc1d85",
+  "source_content_sha256": "eb218cb8c577cdec8be4c1ba90ed932738ee4b69b8ba6f464391ffe48b4ac74d",
   "concepts": [
     {
       "id": "ear",
@@ -6733,26 +6733,40 @@
       "id": "spk06:belly",
       "speaker_id": "spk06",
       "concept_id": "belly",
-      "version": 1,
-      "orthography": "",
-      "ipa": null,
-      "eligibility": "excluded",
+      "version": 2,
+      "orthography": "meşk",
+      "ipa": "mɛʃkʰ",
+      "eligibility": "core",
       "user_reviewed": true,
-      "visible": false,
-      "display_forms": [],
-      "forms": [],
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "meşk",
+          "ipa": "mɛʃkʰ",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "meşk",
+          "full_form": "meşk",
+          "lexeme_id": "lex-5e90f6cc7ac8ea50c20a"
+        }
+      ],
       "alternate_forms": [],
-      "segment_distance_eligible": false,
-      "lexical_family_comparison_allowed": false,
-      "published_audio_sha256": null
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "65b2d112315dece67e4a447ad00834485d4d95a2ca5d6df692ce01d993baa923"
     },
     {
       "id": "spk06:bird",
       "speaker_id": "spk06",
       "concept_id": "bird",
-      "version": 1,
+      "version": 2,
       "orthography": "mılçık",
-      "ipa": "mɨlt̪͡ʃɪkʰ",
+      "ipa": "mɪlt̪͡ʃɪkʰ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -6760,7 +6774,7 @@
         {
           "role": "primary",
           "orthography": "mılçık",
-          "ipa": "mɨlt̪͡ʃɪkʰ",
+          "ipa": "mɪlt̪͡ʃɪkʰ",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
@@ -6775,13 +6789,13 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "820bcec9030e7c6d08a12faedbccf44673fa373448a7614d4a8f1ec9e8c5ccb4"
+      "published_audio_sha256": "7f5b069d44d8315472da4ef53cf49e07e6ccb1a5425c743086be9291b95f20aa"
     },
     {
       "id": "spk06:black",
       "speaker_id": "spk06",
       "concept_id": "black",
-      "version": 1,
+      "version": 2,
       "orthography": "siya",
       "ipa": "sijɑ",
       "eligibility": "core",
@@ -6806,13 +6820,13 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "e0ca61f0ac2c91b5818f6e699026d468bb5aa7ea55b11b53357273cb76bf626f"
+      "published_audio_sha256": "46e4a2f1f25c962cc922b36e4025eb2dfe96e268b8785b17ec15803dd3c62653"
     },
     {
       "id": "spk06:bone",
       "speaker_id": "spk06",
       "concept_id": "bone",
-      "version": 2,
+      "version": 3,
       "orthography": "kate",
       "ipa": "kʰɑt̪ʰɛ",
       "eligibility": "core",
@@ -6837,7 +6851,7 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "244b773ced1f54ede4e97d3c3bfc2671967dcba7bf20a41c9910e81182c135ed"
+      "published_audio_sha256": "1d82bb49c1d0eae083f2954574ad035db0103cf49354e3bfeb35788de6577e82"
     },
     {
       "id": "spk06:bread-from-eating",
@@ -6928,24 +6942,38 @@
       "id": "spk06:ear",
       "speaker_id": "spk06",
       "concept_id": "ear",
-      "version": 2,
-      "orthography": "",
-      "ipa": null,
-      "eligibility": "excluded",
+      "version": 3,
+      "orthography": "gwış",
+      "ipa": "gʷɨʃ",
+      "eligibility": "core",
       "user_reviewed": true,
-      "visible": false,
-      "display_forms": [],
-      "forms": [],
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "gwış",
+          "ipa": "gʷɨʃ",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "gwış",
+          "full_form": "gwış",
+          "lexeme_id": "lex-149d69b6bc4097a7a1ca"
+        }
+      ],
       "alternate_forms": [],
-      "segment_distance_eligible": false,
-      "lexical_family_comparison_allowed": false,
-      "published_audio_sha256": null
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "29e962a1ac9ac2b9f111376c36fc43b7711358bfdb5963580761fcffdf4eba40"
     },
     {
       "id": "spk06:egg",
       "speaker_id": "spk06",
       "concept_id": "egg",
-      "version": 1,
+      "version": 2,
       "orthography": "hak",
       "ipa": "hɑkʰ",
       "eligibility": "core",
@@ -6970,13 +6998,13 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "ffd4d80b4a700a62528b762d8d718c17a808b23981eab0575ffef6e7295b6ee3"
+      "published_audio_sha256": "0d51e611f8defed14328b741f400ea49c187f57cee767a4ef7523714adf0c5fd"
     },
     {
       "id": "spk06:eye",
       "speaker_id": "spk06",
       "concept_id": "eye",
-      "version": 1,
+      "version": 2,
       "orthography": "çım",
       "ipa": "t̪͡ʃɪm",
       "eligibility": "core",
@@ -7001,7 +7029,7 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "049182af2955f6f1a23cda6d1696a9da6974aa3cca0624a2a82039e5dc3518f8"
+      "published_audio_sha256": "bc69760e44e2382ffd794a295bcd3f55888e6798b82c5960a33bca292364babc"
     },
     {
       "id": "spk06:feather",
@@ -7024,9 +7052,9 @@
       "id": "spk06:fire",
       "speaker_id": "spk06",
       "concept_id": "fire",
-      "version": 1,
+      "version": 2,
       "orthography": "adır",
-      "ipa": "ɑd̪ɨɾ",
+      "ipa": "ɑd̪ɨɾ̥",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -7034,7 +7062,7 @@
         {
           "role": "primary",
           "orthography": "adır",
-          "ipa": "ɑd̪ɨɾ",
+          "ipa": "ɑd̪ɨɾ̥",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
@@ -7049,38 +7077,114 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "9522eb91b1ad85db60372f53adf53314a2ce7b53b2da169d9d00e64b02ca3cb3"
+      "published_audio_sha256": "c01cc07ed1f0b2147f28530b9947a92cc6f7c86c4ecc99386924ccef1248a307"
     },
     {
       "id": "spk06:fish",
       "speaker_id": "spk06",
       "concept_id": "fish",
-      "version": 1,
-      "orthography": "mase",
-      "ipa": "mɑsɛ",
+      "version": 2,
+      "orthography": "ması",
+      "ipa": "mɑsɨ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
       "display_forms": [
         {
           "role": "primary",
+          "orthography": "ması",
+          "ipa": "mɑsɨ",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        },
+        {
+          "role": "alternate",
           "orthography": "mase",
           "ipa": "mɑsɛ",
+          "audio_scope": "none",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "ması",
+          "full_form": "ması",
+          "lexeme_id": "lex-b05f013e000f8ffd94ef"
+        }
+      ],
+      "alternate_forms": [
+        {
+          "form": "mase",
+          "full_form": "mase",
+          "accepted": true,
+          "lexeme_id": "lex-b05f013e000f8ffd94ef"
+        }
+      ],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "2474ab24d441af0ceac1f83dc966d578b93cc6889f83b892df0708d2d917d744"
+    },
+    {
+      "id": "spk06:five",
+      "speaker_id": "spk06",
+      "concept_id": "five",
+      "version": 1,
+      "orthography": "punc",
+      "ipa": "pʰũnd̪͡ʒ",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "punc",
+          "ipa": "pʰũnd̪͡ʒ",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
       ],
       "forms": [
         {
-          "form": "mase",
-          "full_form": "mase",
-          "lexeme_id": "lex-b05f013e000f8ffd94ef"
+          "form": "punc",
+          "full_form": "punc",
+          "lexeme_id": "lex-dec4cb126f347bad38c2"
         }
       ],
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "e08d2c1dae972e5e20254481c35e38576dc3a521c30c4cd7c36290196ed62376"
+      "published_audio_sha256": "5142a0710068733a098d11ae1324a72c0de44ce855f713a15d348b4e9af2601a"
+    },
+    {
+      "id": "spk06:fly-insect",
+      "speaker_id": "spk06",
+      "concept_id": "fly-insect",
+      "version": 1,
+      "orthography": "miyız",
+      "ipa": "mijɪz",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "miyız",
+          "ipa": "mijɪz",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "miyız",
+          "full_form": "miyız",
+          "lexeme_id": "lex-bef6327089c070ebe761"
+        }
+      ],
+      "alternate_forms": [],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "cbac5cdad8ee55969ec2a2d18b9516ab17579ecf33c51293a7200235d8e816f2"
     },
     {
       "id": "spk06:foot",
@@ -7114,6 +7218,37 @@
       "published_audio_sha256": "410e81d0b1b08b701b75b580ebd3b2dd810146fb65dfdf97bc0bb68370111703"
     },
     {
+      "id": "spk06:four",
+      "speaker_id": "spk06",
+      "concept_id": "four",
+      "version": 1,
+      "orthography": "çiyer",
+      "ipa": "t̪͡ʃijɛɾ",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "çiyer",
+          "ipa": "t̪͡ʃijɛɾ",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "çiyer",
+          "full_form": "çiyer",
+          "lexeme_id": "lex-4c3de68f7c4e977ec76d"
+        }
+      ],
+      "alternate_forms": [],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "dcaf7aef71b9392796f4915c6d55146abba270456ef363cb2a048ed74a5266f2"
+    },
+    {
       "id": "spk06:green",
       "speaker_id": "spk06",
       "concept_id": "green",
@@ -7129,6 +7264,68 @@
       "segment_distance_eligible": false,
       "lexical_family_comparison_allowed": false,
       "published_audio_sha256": null
+    },
+    {
+      "id": "spk06:hair",
+      "speaker_id": "spk06",
+      "concept_id": "hair",
+      "version": 1,
+      "orthography": "gıcık",
+      "ipa": "gɨd̪͡ʒɪkʰ",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "gıcık",
+          "ipa": "gɨd̪͡ʒɪkʰ",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "gıcık",
+          "full_form": "gıcık",
+          "lexeme_id": "lex-adb6954be8b2b3e3b8ef"
+        }
+      ],
+      "alternate_forms": [],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "fcc4adc09ef2c46889049362d9f1b814d552e3cd59e1e9378e83a532b54cceb9"
+    },
+    {
+      "id": "spk06:hand",
+      "speaker_id": "spk06",
+      "concept_id": "hand",
+      "version": 1,
+      "orthography": "dest",
+      "ipa": "d̪ɛst̪",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "dest",
+          "ipa": "d̪ɛst̪",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "dest",
+          "full_form": "dest",
+          "lexeme_id": "lex-9d89695fdb8690991829"
+        }
+      ],
+      "alternate_forms": [],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "25759d5855fa7cad7a50a80c82df8f1feb95fecb26367c16ff52d9304b22ac15"
     },
     {
       "id": "spk06:knee",
@@ -7151,9 +7348,9 @@
       "id": "spk06:leaf",
       "speaker_id": "spk06",
       "concept_id": "leaf",
-      "version": 1,
+      "version": 2,
       "orthography": "pel",
-      "ipa": "pʰɛl",
+      "ipa": "pʰɛʎ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -7161,7 +7358,7 @@
         {
           "role": "primary",
           "orthography": "pel",
-          "ipa": "pʰɛl",
+          "ipa": "pʰɛʎ",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
@@ -7176,7 +7373,7 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "fd4aef86a6e20d4457779ae8649fecd27344651ac13bcc2697f894f260d5f7af"
+      "published_audio_sha256": "b6b8fc91114440262eb6059c553a6493a340c3030c3b481c73920e3fcf772828"
     },
     {
       "id": "spk06:moon",
@@ -7199,18 +7396,32 @@
       "id": "spk06:mountain",
       "speaker_id": "spk06",
       "concept_id": "mountain",
-      "version": 2,
-      "orthography": "",
-      "ipa": null,
-      "eligibility": "excluded",
+      "version": 3,
+      "orthography": "kwı",
+      "ipa": "kʷʰɪ̞",
+      "eligibility": "core",
       "user_reviewed": true,
-      "visible": false,
-      "display_forms": [],
-      "forms": [],
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "kwı",
+          "ipa": "kʷʰɪ̞",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "kwı",
+          "full_form": "kwı",
+          "lexeme_id": "lex-849941692e15771cab81"
+        }
+      ],
       "alternate_forms": [],
-      "segment_distance_eligible": false,
-      "lexical_family_comparison_allowed": false,
-      "published_audio_sha256": null
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "9e018479478208d631b05a3a868978d7a7e5fcff470e35ebbf466470a19e6da2"
     },
     {
       "id": "spk06:mouth",
@@ -7233,55 +7444,114 @@
       "id": "spk06:neck",
       "speaker_id": "spk06",
       "concept_id": "neck",
-      "version": 1,
-      "orthography": "",
-      "ipa": null,
-      "eligibility": "excluded",
-      "user_reviewed": true,
-      "visible": false,
-      "display_forms": [],
-      "forms": [],
-      "alternate_forms": [],
-      "segment_distance_eligible": false,
-      "lexical_family_comparison_allowed": false,
-      "published_audio_sha256": null
-    },
-    {
-      "id": "spk06:nose",
-      "speaker_id": "spk06",
-      "concept_id": "nose",
-      "version": 1,
-      "orthography": "fıni",
-      "ipa": "fɪni",
+      "version": 2,
+      "orthography": "mıl",
+      "ipa": "mɪl",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
       "display_forms": [
         {
           "role": "primary",
-          "orthography": "fıni",
-          "ipa": "fɪni",
+          "orthography": "mıl",
+          "ipa": "mɪl",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
       ],
       "forms": [
         {
-          "form": "fıni",
-          "full_form": "fıni",
-          "lexeme_id": "lex-480c5cfd641289cb6275"
+          "form": "mıl",
+          "full_form": "mıl",
+          "lexeme_id": "lex-a758cdcd4073597e80ff"
         }
       ],
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "790c9830fd5105f0e7cfc00c98c2a2a864b95782931fc904aa7e2d0c692698a2"
+      "published_audio_sha256": "6b5bd03072309078e14f555ddd5d2b69cd256c98e4dcb1b09786b32106875c40"
+    },
+    {
+      "id": "spk06:nose",
+      "speaker_id": "spk06",
+      "concept_id": "nose",
+      "version": 2,
+      "orthography": "vıni",
+      "ipa": "vɪni",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "vıni",
+          "ipa": "vɪni",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        },
+        {
+          "role": "alternate",
+          "orthography": "fıni",
+          "ipa": "fɪni",
+          "audio_scope": "none",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "vıni",
+          "full_form": "vıni",
+          "lexeme_id": "lex-480c5cfd641289cb6275"
+        }
+      ],
+      "alternate_forms": [
+        {
+          "form": "fıni",
+          "full_form": "fıni",
+          "accepted": true,
+          "lexeme_id": "lex-480c5cfd641289cb6275"
+        }
+      ],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "ba9a9dd801e5fe213cdc4b177f5ce4eb277a6d76002b8d1567011d8ce2b28c53"
+    },
+    {
+      "id": "spk06:one",
+      "speaker_id": "spk06",
+      "concept_id": "one",
+      "version": 1,
+      "orthography": "yıw",
+      "ipa": "jɪ̞w",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "yıw",
+          "ipa": "jɪ̞w",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "yıw",
+          "full_form": "yıw",
+          "lexeme_id": "lex-11f26f44d07c61a2cefa"
+        }
+      ],
+      "alternate_forms": [],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "8959d135126ba18498781bbdfb78f6752464d8d06ffa80da036742f398c979f8"
     },
     {
       "id": "spk06:red",
       "speaker_id": "spk06",
       "concept_id": "red",
-      "version": 1,
+      "version": 2,
       "orthography": "swır",
       "ipa": "sʷɨɾ",
       "eligibility": "core",
@@ -7306,15 +7576,15 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "16964240c80c64b328a667fb98ae1841ae790ba26f7871a4e7a718f49a677e43"
+      "published_audio_sha256": "214f7f2e2d816428626542eca839ed2e30b4ba82316533c82e15d92fcc755eeb"
     },
     {
       "id": "spk06:snake",
       "speaker_id": "spk06",
       "concept_id": "snake",
-      "version": 1,
+      "version": 2,
       "orthography": "mar",
-      "ipa": "mɑɾ̥",
+      "ipa": "mɑɾ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -7322,7 +7592,7 @@
         {
           "role": "primary",
           "orthography": "mar",
-          "ipa": "mɑɾ̥",
+          "ipa": "mɑɾ",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
@@ -7337,7 +7607,69 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "84e0f5b6ad122149dd04234ca4635390bd022426315dae95363f4921df8b3917"
+      "published_audio_sha256": "5ae5c0bcf2c81c13740c91e981ebcd8d01ed0951d3ccbbd109800a07d189edfa"
+    },
+    {
+      "id": "spk06:snow",
+      "speaker_id": "spk06",
+      "concept_id": "snow",
+      "version": 1,
+      "orthography": "vor",
+      "ipa": "voːɾ",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "vor",
+          "ipa": "voːɾ",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "vor",
+          "full_form": "vor",
+          "lexeme_id": "lex-d1b4f2b0b5057c790ab4"
+        }
+      ],
+      "alternate_forms": [],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "0f2cb697c1f4ed879a46194392f6abc9b1c98d11378d61ab67ce8777fe851641"
+    },
+    {
+      "id": "spk06:stone",
+      "speaker_id": "spk06",
+      "concept_id": "stone",
+      "version": 1,
+      "orthography": "kera",
+      "ipa": "kʰɛrɑ",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "kera",
+          "ipa": "kʰɛrɑ",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "kera",
+          "full_form": "kera",
+          "lexeme_id": "lex-5fa5f388615bfdf36796"
+        }
+      ],
+      "alternate_forms": [],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "1b456d340086e5558c3c6e7c4fc4ebba43b1760870bd4c93b328a322abb17173"
     },
     {
       "id": "spk06:sun",
@@ -7371,6 +7703,37 @@
       "published_audio_sha256": "cd9c83dc2580b952ad399bf1351c5635925dd8787d8f632f23c8d7f0dbb533d3"
     },
     {
+      "id": "spk06:three",
+      "speaker_id": "spk06",
+      "concept_id": "three",
+      "version": 1,
+      "orthography": "hirı",
+      "ipa": "hiɾɪ",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "hirı",
+          "ipa": "hiɾɪ",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "hirı",
+          "full_form": "hirı",
+          "lexeme_id": "lex-644ca8fbc1eefc1dac7a"
+        }
+      ],
+      "alternate_forms": [],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "de8fbc17979a333860b70dde4ec60c955a0d40324a7a9b88dbe0322ef698a202"
+    },
+    {
       "id": "spk06:to-drink",
       "speaker_id": "spk06",
       "concept_id": "to-drink",
@@ -7397,24 +7760,24 @@
       "id": "spk06:to-eat",
       "speaker_id": "spk06",
       "concept_id": "to-eat",
-      "version": 3,
-      "orthography": "no wön çi wön",
-      "ipa": "no wøn t̪͡ʃi wøn",
+      "version": 4,
+      "orthography": "çi wön",
+      "ipa": "t̪͡ʃi wøn",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
       "display_forms": [
         {
           "role": "primary",
-          "orthography": "wön",
-          "ipa": "wøn",
+          "orthography": "çi wön",
+          "ipa": "t̪͡ʃi wøn",
           "audio_scope": "response",
           "certainty": "reviewed"
         },
         {
           "role": "alternate",
-          "orthography": "çi wön",
-          "ipa": "t̪͡ʃi wøn",
+          "orthography": "wön",
+          "ipa": "wøn",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
@@ -7422,45 +7785,59 @@
       "forms": [
         {
           "form": "wön",
-          "full_form": "wön",
+          "full_form": "çi wön",
           "lexeme_id": "lex-74ee00acdd926380044c"
         }
       ],
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "2e2d2f9d0c0b5c262850c49d5da164a2710b6ddcfb791d3c6bd9694d0c711b83"
+      "published_audio_sha256": "b22a8fe4f3d9710a2be8b4c3103aad01aae91d97f054f9b0c8030d283e4c703e"
     },
     {
       "id": "spk06:to-fly",
       "speaker_id": "spk06",
       "concept_id": "to-fly",
-      "version": 3,
-      "orthography": "mılçık ınka fırena",
-      "ipa": "mɪlt̪͡ʃɪkʰ ɨŋkʰa fɨrɛna",
+      "version": 4,
+      "orthography": "frena",
+      "ipa": "frɛnɑ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
       "display_forms": [
         {
           "role": "primary",
+          "orthography": "frena",
+          "ipa": "frɛnɑ",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        },
+        {
+          "role": "alternate",
           "orthography": "fırena",
           "ipa": "fɨrɛna",
-          "audio_scope": "response",
+          "audio_scope": "none",
           "certainty": "reviewed"
         }
       ],
       "forms": [
         {
-          "form": "fırena",
-          "full_form": "fırena",
+          "form": "frena",
+          "full_form": "frena",
           "lexeme_id": "lex-35fba3285e2164784c18"
         }
       ],
-      "alternate_forms": [],
+      "alternate_forms": [
+        {
+          "form": "fırena",
+          "full_form": "fırena",
+          "accepted": true,
+          "lexeme_id": "lex-35fba3285e2164784c18"
+        }
+      ],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "fa4e15605c4422fd0879460a33a8e973875f2b582ce3ab6b80e13141d5794f81"
+      "published_audio_sha256": "3a029fd3418e2bca5c5e6e7a411c8f6509669c3e4adf6fdab5cbac04e36d4438"
     },
     {
       "id": "spk06:to-hear",
@@ -7514,6 +7891,37 @@
       "published_audio_sha256": null
     },
     {
+      "id": "spk06:to-read",
+      "speaker_id": "spk06",
+      "concept_id": "to-read",
+      "version": 1,
+      "orthography": "kıtab unön",
+      "ipa": "kʰɪ̆t̪ɑb unøn",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "kıtab unön",
+          "ipa": "kʰɪ̆t̪ɑb unøn",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "unön",
+          "full_form": "kıtab unön",
+          "lexeme_id": "lex-6ee895ee52bd16e99ffc"
+        }
+      ],
+      "alternate_forms": [],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "cc0c7bef80b9e99f248f56bb54e076d9629f503e4497a7b79c08dff6887c009c"
+    },
+    {
       "id": "spk06:to-say-talk",
       "speaker_id": "spk06",
       "concept_id": "to-say-talk",
@@ -7548,7 +7956,7 @@
       "id": "spk06:to-sit",
       "speaker_id": "spk06",
       "concept_id": "to-sit",
-      "version": 2,
+      "version": 3,
       "orthography": "runışt",
       "ipa": "runɪʃt̪ʰ",
       "eligibility": "excluded",
@@ -7573,7 +7981,7 @@
       "alternate_forms": [],
       "segment_distance_eligible": false,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "f4e16d8407c20de8fac3e71700660dc1e6b518a8f571cbbbadc9c865123e13b0"
+      "published_audio_sha256": "922f6538ecdc3814b097aae782222e802d240cb4717f695c14abed4f0068caa3"
     },
     {
       "id": "spk06:to-sleep",
@@ -7610,55 +8018,114 @@
       "id": "spk06:to-swim",
       "speaker_id": "spk06",
       "concept_id": "to-swim",
-      "version": 1,
-      "orthography": "asnaw kon",
-      "ipa": "ɑsnɑw kʰon",
+      "version": 2,
+      "orthography": "asnaw kön",
+      "ipa": "ɑsnɑw kʰøn",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
       "display_forms": [
         {
           "role": "primary",
+          "orthography": "asnaw kön",
+          "ipa": "ɑsnɑw kʰøn",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        },
+        {
+          "role": "alternate",
           "orthography": "asnaw kon",
           "ipa": "ɑsnɑw kʰon",
+          "audio_scope": "none",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "asnaw kön",
+          "full_form": "asnaw kön",
+          "lexeme_id": "lex-87fd2658eca51ad59ac9"
+        }
+      ],
+      "alternate_forms": [
+        {
+          "form": "asnaw kon",
+          "full_form": "asnaw kon",
+          "accepted": true,
+          "lexeme_id": "lex-87fd2658eca51ad59ac9"
+        }
+      ],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "bc9b3ed0ac4234e279f23f3077bb5e49d13accee74fce738300f75b7a17bca11"
+    },
+    {
+      "id": "spk06:to-walk",
+      "speaker_id": "spk06",
+      "concept_id": "to-walk",
+      "version": 2,
+      "orthography": "ho şön",
+      "ipa": "ho ʃøn",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "ho şön",
+          "ipa": "ho ʃøn",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
       ],
       "forms": [
         {
-          "form": "asnaw kon",
-          "full_form": "asnaw kon",
-          "lexeme_id": "lex-87fd2658eca51ad59ac9"
+          "form": "şön",
+          "full_form": "ho şön",
+          "lexeme_id": "lex-47a92a15572b144eae66"
         }
       ],
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "3c817def0444bb0d4e582693ab8f98ecc6707baed66c4ceb9b14ce07a3d4fe65"
+      "published_audio_sha256": "238a3953e8ded9ffd6a70f27230dd050941ee10f462bb7b15b9bc06821d704ad"
     },
     {
-      "id": "spk06:to-walk",
+      "id": "spk06:to-write",
       "speaker_id": "spk06",
-      "concept_id": "to-walk",
+      "concept_id": "to-write",
       "version": 1,
-      "orthography": "",
-      "ipa": null,
-      "eligibility": "excluded",
+      "orthography": "yazı nısön",
+      "ipa": "jɑzɨ nɪsøn",
+      "eligibility": "core",
       "user_reviewed": true,
-      "visible": false,
-      "display_forms": [],
-      "forms": [],
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "yazı nısön",
+          "ipa": "jɑzɨ nɪsøn",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "nısön",
+          "full_form": "yazı nısön",
+          "lexeme_id": "lex-a2d7d6a339b601d1219a"
+        }
+      ],
       "alternate_forms": [],
-      "segment_distance_eligible": false,
-      "lexical_family_comparison_allowed": false,
-      "published_audio_sha256": null
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "2acc80c5fabb4320666498f668bf62a60ef60e326a0900f685d5de15f641d0d8"
     },
     {
       "id": "spk06:tongue",
       "speaker_id": "spk06",
       "concept_id": "tongue",
-      "version": 3,
+      "version": 4,
       "orthography": "zu",
       "ipa": "zũ",
       "eligibility": "core",
@@ -7683,13 +8150,13 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "3aae248bc92c6b63882cdd0d426c9a65e9c60bdcb158b92de8ad1a1d909e442d"
+      "published_audio_sha256": "d9383729d4a6bbbe3e40c1e1e537c09c8ae6e2153ccad07bf8d4ca34b53599da"
     },
     {
       "id": "spk06:tooth",
       "speaker_id": "spk06",
       "concept_id": "tooth",
-      "version": 2,
+      "version": 3,
       "orthography": "dındu",
       "ipa": "d̪ɪnd̪u",
       "eligibility": "core",
@@ -7714,15 +8181,15 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "fd16841b06954251456ad565df9e56a7eee306d1e35493eb69dccc8395ed83dc"
+      "published_audio_sha256": "164c9fdb2b18682ae01350c9fcd98dff66136f7ec4f9553fdcf1fdb9ce7c0ffc"
     },
     {
       "id": "spk06:tree",
       "speaker_id": "spk06",
       "concept_id": "tree",
-      "version": 1,
+      "version": 2,
       "orthography": "dar",
-      "ipa": "d̪ɑɾ̥",
+      "ipa": "d̪aɾ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -7730,7 +8197,7 @@
         {
           "role": "primary",
           "orthography": "dar",
-          "ipa": "d̪ɑɾ̥",
+          "ipa": "d̪aɾ",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
@@ -7745,13 +8212,75 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "2831960b771ef02fdd0a1294d2fafe1d4ac97f6016ec773c21dd4b16c8eb158b"
+      "published_audio_sha256": "7a62ed0d9fabbd00ff775bf9df6d5d24eb5101a2a077aa1fd602ae28c1b14e6a"
+    },
+    {
+      "id": "spk06:two",
+      "speaker_id": "spk06",
+      "concept_id": "two",
+      "version": 1,
+      "orthography": "dı",
+      "ipa": "d̪ɪ",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "dı",
+          "ipa": "d̪ɪ",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "dı",
+          "full_form": "dı",
+          "lexeme_id": "lex-f2ea77973dea0398deb3"
+        }
+      ],
+      "alternate_forms": [],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "5bf0e131753ee62e20e7d03981a69feecf57cf641b09497e3395d8398bc2883a"
+    },
+    {
+      "id": "spk06:walnut",
+      "speaker_id": "spk06",
+      "concept_id": "walnut",
+      "version": 1,
+      "orthography": "gwız",
+      "ipa": "gwɨz",
+      "eligibility": "core",
+      "user_reviewed": true,
+      "visible": true,
+      "display_forms": [
+        {
+          "role": "primary",
+          "orthography": "gwız",
+          "ipa": "gwɨz",
+          "audio_scope": "response",
+          "certainty": "reviewed"
+        }
+      ],
+      "forms": [
+        {
+          "form": "gwız",
+          "full_form": "gwız",
+          "lexeme_id": "lex-c9b49586cd3d78e9edf3"
+        }
+      ],
+      "alternate_forms": [],
+      "segment_distance_eligible": true,
+      "lexical_family_comparison_allowed": true,
+      "published_audio_sha256": "17f5d0e63e0f4971a55aa06ed9fa4831aeeeff2b2a93dff228c50110e180099a"
     },
     {
       "id": "spk06:white",
       "speaker_id": "spk06",
       "concept_id": "white",
-      "version": 1,
+      "version": 2,
       "orthography": "sıpi",
       "ipa": "sɨpʰi",
       "eligibility": "core",
@@ -7776,7 +8305,7 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "a45a56d06157d94f49c8d5aed8b3954caa44f5e67245ee0eae090d66f8221dcf"
+      "published_audio_sha256": "9b1c71b03a91d6d25231f6e873990acc144095dec620f28b96f94ec4231cb5b3"
     },
     {
       "id": "spk06:worm",
@@ -7799,9 +8328,9 @@
       "id": "spk06:yellow",
       "speaker_id": "spk06",
       "concept_id": "yellow",
-      "version": 1,
+      "version": 2,
       "orthography": "zerd",
-      "ipa": "zɛɾd̪̥",
+      "ipa": "zɛɹd̪",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -7809,7 +8338,7 @@
         {
           "role": "primary",
           "orthography": "zerd",
-          "ipa": "zɛɾd̪̥",
+          "ipa": "zɛɹd̪",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
@@ -7824,7 +8353,7 @@
       "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
-      "published_audio_sha256": "6a119aefdfbb863051b2265ea0d123e2263f8a6a56366a81ace52dc446a78aec"
+      "published_audio_sha256": "7b8cb2386dc0e6244e5f432b27fe9470c90ec55f6260e19489a839d24b48a940"
     },
     {
       "id": "spk07:belly",

@@ -202,81 +202,103 @@ ID	CONCEPT	DOCULECT	IPA	FORM	AUDIO	ROLE	CERTAINTY	COGID	TOKENS	BORROWING
 201	white	spk05	sɨpʲʰɪ	sıpyı	audio/spk05/spk05-r026.wav	primary	reviewed			
 202	worm	spk05	lʷɛlɪkʰ	lwelık	audio/spk05/spk05-r022.wav	primary	reviewed			
 203	yellow	spk05	zɛɾ	zer	audio/spk05/spk05-r025.wav	primary	reviewed			
-204	bird	spk06	mɨlt̪͡ʃɪkʰ	mılçık	audio/spk06/spk06-r014.wav	primary	reviewed			
-205	black	spk06	sijɑ	siya	audio/spk06/spk06-r020.wav	primary	reviewed			
-206	bone	spk06	kʰɑt̪ʰɛ	kate	audio/spk06/spk06-r011.wav	primary	reviewed			
-207	bread-from-eating	spk06	no	no	audio/spk06/spk06-r022.wav	primary	reviewed			
-208	cloud	spk06	howɾ	howr	audio/spk06/spk06-r007.wav	primary	reviewed			
-209	dog	spk06	kʷʰɨt̪ʰɪkʰ	kwıtık	audio/spk06/spk06-r013.wav	primary	reviewed			
-210	egg	spk06	hɑkʰ	hak	audio/spk06/spk06-r012.wav	primary	reviewed			
-211	eye	spk06	t̪͡ʃɪm	çım	audio/spk06/spk06-r001.wav	primary	reviewed			
-212	fire	spk06	ɑd̪ɨɾ	adır	audio/spk06/spk06-r008.wav	primary	reviewed			
-213	fish	spk06	mɑsɛ	mase	audio/spk06/spk06-r016.wav	primary	reviewed			
-214	foot	spk06	lɨŋg̥ʰ	lıng	audio/spk06/spk06-r005.wav	primary	reviewed			
-215	leaf	spk06	pʰɛl	pel	audio/spk06/spk06-r010.wav	primary	reviewed			
-216	nose	spk06	fɪni	fıni	audio/spk06/spk06-r002.wav	primary	reviewed			
-217	red	spk06	sʷɨɾ	swır	audio/spk06/spk06-r017.wav	primary	reviewed			
-218	snake	spk06	mɑɾ̥	mar	audio/spk06/spk06-r015.wav	primary	reviewed			
-219	sun	spk06	t̪ʰind͡ʒ	tinc	audio/spk06/spk06-r006.wav	primary	reviewed			
-220	to-drink	spk06	ɑwkʰ won	awk won	audio/spk06/spk06-r021.wav	primary	reviewed			
-221	to-eat	spk06	wøn	wön	audio/spk06/spk06-r022.wav	primary	reviewed			
-222	to-eat	spk06	t̪͡ʃi wøn	çi wön	audio/spk06/spk06-r022.wav	alternate	reviewed			
-223	to-fly	spk06	fɨrɛna	fırena	audio/spk06/spk06-r025.wav	primary	reviewed			
-224	to-say-talk	spk06	qʰɑl kʰøn	qal kön	audio/spk06/spk06-r027.wav	primary	reviewed			
-225	to-sit	spk06	runɪʃt̪ʰ	runışt	audio/spk06/spk06-r026.wav	primary	reviewed			
-226	to-sleep	spk06	rɑ kʷʰøn	ra kwön	audio/spk06/spk06-r023.wav	primary	reviewed			
-227	to-swim	spk06	ɑsnɑw kʰon	asnaw kon	audio/spk06/spk06-r024.wav	primary	reviewed			
-228	tongue	spk06	zũ	zu	audio/spk06/spk06-r004.wav	primary	reviewed			
-229	tooth	spk06	d̪ɪnd̪u	dındu	audio/spk06/spk06-r003.wav	primary	reviewed			
-230	tree	spk06	d̪ɑɾ̥	dar	audio/spk06/spk06-r009.wav	primary	reviewed			
-231	white	spk06	sɨpʰi	sıpi	audio/spk06/spk06-r019.wav	primary	reviewed			
-232	yellow	spk06	zɛɾd̪̥	zerd	audio/spk06/spk06-r018.wav	primary	reviewed			
-233	belly	spk07	mɛʃkʰ	meşk	audio/spk07/spk07-r050.wav	primary	reviewed			
-234	bird	spk07	mɨlt̪͡ʃɪkʰ	mılçık	audio/spk07/spk07-r020.wav	primary	reviewed			
-235	black	spk07	sijɑ	siya	audio/spk07/spk07-r026.wav	primary	reviewed			
-236	bone	spk07	kʰɑt̪ʰɛ	kate	audio/spk07/spk07-r017.wav	primary	reviewed			
-237	cloud	spk07	howɾ	howr	audio/spk07/spk07-r012.wav	primary	reviewed			
-238	dog	spk07	kʷʰɨt̪ʰɪkʰ	kwıtık	audio/spk07/spk07-r019.wav	primary	reviewed			
-239	ear	spk07	gʷɛʃ	gweş	audio/spk07/spk07-r001.wav	primary	reviewed			
-240	egg	spk07	hɑkʰ	hak	audio/spk07/spk07-r018.wav	primary	reviewed			
-241	eye	spk07	t̪͡ʃɪm	çım	audio/spk07/spk07-r002.wav	primary	reviewed			
-242	fire	spk07	ɑd̪ɨɾ͉	adır	audio/spk07/spk07-r013.wav	primary	reviewed			
-243	fish	spk07	mɑsɛ	mase	audio/spk07/spk07-r022.wav	primary	reviewed			
-244	five	spk07	pʰɑnd̪͡ʒ	panc	audio/spk07/spk07-r049.wav	primary	reviewed			
-245	fly-insect	spk07	hiŋg	hing	audio/spk07/spk07-r037.wav	primary	reviewed			
-246	foot	spk07	nɪŋg	nıng	audio/spk07/spk07-r009.wav	primary	reviewed			
-247	four	spk07	t̪͡ʃɛːɾ	çeer	audio/spk07/spk07-r048.wav	primary	reviewed			
-248	hair	spk07	gɨ̆ʒɪkʰ	gıjık	audio/spk07/spk07-r036.wav	primary	reviewed			
-249	hand	spk07	d̪ɛst̪ʰ	dest	audio/spk07/spk07-r035.wav	primary	reviewed			
-250	head	spk07	sɛɾɛ	sere	audio/spk07/spk07-r041.wav	primary	reviewed			
-251	leaf	spk07	pʰɛl	pel	audio/spk07/spk07-r016.wav	primary	reviewed			
-252	moon	spk07	ɑʃm̥	aşm	audio/spk07/spk07-r011.wav	primary	reviewed			
-253	mountain	spk07	kʰuwɛ	kuwe	audio/spk07/spk07-r014.wav	primary	reviewed			
-254	mouth	spk07	fɛkʰ	fek	audio/spk07/spk07-r004.wav	primary	reviewed			
-255	neck	spk07	mɨlᵊ	mıl	audio/spk07/spk07-r008.wav	primary	reviewed			
-256	nose	spk07	zɨnd̪͡ʒ	zınc	audio/spk07/spk07-r003.wav	primary	reviewed			
-257	one	spk07	jow	yow	audio/spk07/spk07-r045.wav	primary	reviewed			
-258	red	spk07	sʉɾ	sür	audio/spk07/spk07-r023.wav	primary	provisional			
-259	snake	spk07	mɑɾ	mar	audio/spk07/spk07-r021.wav	primary	reviewed			
-260	snow	spk07	vowɾ	vowr	audio/spk07/spk07-r043.wav	primary	reviewed			
-261	stone	spk07	kʰɛrɑ	kerra	audio/spk07/spk07-r040.wav	primary	reviewed			
-262	sun	spk07	t̪ʰind̪͡ʒ	tinc	audio/spk07/spk07-r010.wav	primary	provisional			
-263	three	spk07	hiɾjɛ	hirye	audio/spk07/spk07-r047.wav	primary	reviewed			
-264	to-eat	spk07	wɛn	wen	audio/spk07/spk07-r027.wav	primary	reviewed			
-265	to-fly	spk07	mɨlt̪͡ʃɨkʰ hɑ pʰɨrɨnɑ	mılçık ha pırrına	audio/spk07/spk07-r030.wav	primary	reviewed			
-266	to-lie-down	spk07	rɑkʰot̪ʰ	rakot	audio/spk07/spk07-r032.wav	primary	reviewed			
-267	to-read	spk07	kʰɨt̪ʰɑb wanɛn	kıtab wanen	audio/spk07/spk07-r039.wav	primary	reviewed			
-268	to-say-talk	spk07	qʰɑl kʰøn	qal kön	audio/spk07/spk07-r034.wav	primary	reviewed			
-269	to-sit	spk07	rʷɨniʃt̪ʰ	rwınişt	audio/spk07/spk07-r033.wav	primary	reviewed			
-270	to-sleep	spk07	rɑkʰot̪ʰ	rakot	audio/spk07/spk07-r028.wav	primary	reviewed			
-271	to-swim	spk07	ɑsnɔw kʰøn	asnaw kön	audio/spk07/spk07-r029.wav	primary	reviewed			
-272	to-walk	spk07	ʃwønᵊ	şwön	audio/spk07/spk07-r031.wav	primary	reviewed			
-273	to-write	spk07	d̪ɛɹs nusᵊn	Ders nusn	audio/spk07/spk07-r038.wav	primary	reviewed			
-274	tongue	spk07	zu	zu	audio/spk07/spk07-r006.wav	primary	reviewed			
-275	tooth	spk07	d̪ɨnd̪u	dındu	audio/spk07/spk07-r005.wav	primary	reviewed			
-276	tree	spk07	d̪ɑɾ	dar	audio/spk07/spk07-r015.wav	primary	reviewed			
-277	two	spk07	d̪ɨ	dı	audio/spk07/spk07-r046.wav	primary	reviewed			
-278	walnut	spk07	gʷoz	gwoz	audio/spk07/spk07-r044.wav	primary	reviewed			
-279	water	spk07	awkʰ	awk	audio/spk07/spk07-r042.wav	primary	reviewed			
-280	white	spk07	sɨpʰjɛ	sıpye	audio/spk07/spk07-r025.wav	primary	reviewed			
-281	yellow	spk07	zɛɹd̪͉	zerd	audio/spk07/spk07-r024.wav	primary	reviewed			
+204	belly	spk06	mɛʃkʰ	meşk	audio/spk06/spk06-r029.wav	primary	reviewed			
+205	bird	spk06	mɪlt̪͡ʃɪkʰ	mılçık	audio/spk06/spk06-r030.wav	primary	reviewed			
+206	black	spk06	sijɑ	siya	audio/spk06/spk06-r031.wav	primary	reviewed			
+207	bone	spk06	kʰɑt̪ʰɛ	kate	audio/spk06/spk06-r032.wav	primary	reviewed			
+208	bread-from-eating	spk06	no	no	audio/spk06/spk06-r022.wav	primary	reviewed			
+209	cloud	spk06	howɾ	howr	audio/spk06/spk06-r007.wav	primary	reviewed			
+210	dog	spk06	kʷʰɨt̪ʰɪkʰ	kwıtık	audio/spk06/spk06-r013.wav	primary	reviewed			
+211	ear	spk06	gʷɨʃ	gwış	audio/spk06/spk06-r033.wav	primary	reviewed			
+212	egg	spk06	hɑkʰ	hak	audio/spk06/spk06-r034.wav	primary	reviewed			
+213	eye	spk06	t̪͡ʃɪm	çım	audio/spk06/spk06-r035.wav	primary	reviewed			
+214	fire	spk06	ɑd̪ɨɾ̥	adır	audio/spk06/spk06-r036.wav	primary	reviewed			
+215	fish	spk06	mɑsɨ	ması	audio/spk06/spk06-r037.wav	primary	reviewed			
+216	fish	spk06	mɑsɛ	mase		alternate	reviewed			
+217	five	spk06	pʰũnd̪͡ʒ	punc	audio/spk06/spk06-r038.wav	primary	reviewed			
+218	fly-insect	spk06	mijɪz	miyız	audio/spk06/spk06-r039.wav	primary	reviewed			
+219	foot	spk06	lɨŋg̥ʰ	lıng	audio/spk06/spk06-r005.wav	primary	reviewed			
+220	four	spk06	t̪͡ʃijɛɾ	çiyer	audio/spk06/spk06-r040.wav	primary	reviewed			
+221	hair	spk06	gɨd̪͡ʒɪkʰ	gıcık	audio/spk06/spk06-r041.wav	primary	reviewed			
+222	hand	spk06	d̪ɛst̪	dest	audio/spk06/spk06-r042.wav	primary	reviewed			
+223	leaf	spk06	pʰɛʎ	pel	audio/spk06/spk06-r043.wav	primary	reviewed			
+224	mountain	spk06	kʷʰɪ̞	kwı	audio/spk06/spk06-r044.wav	primary	reviewed			
+225	neck	spk06	mɪl	mıl	audio/spk06/spk06-r045.wav	primary	reviewed			
+226	nose	spk06	vɪni	vıni	audio/spk06/spk06-r046.wav	primary	reviewed			
+227	nose	spk06	fɪni	fıni		alternate	reviewed			
+228	one	spk06	jɪ̞w	yıw	audio/spk06/spk06-r047.wav	primary	reviewed			
+229	red	spk06	sʷɨɾ	swır	audio/spk06/spk06-r048.wav	primary	reviewed			
+230	snake	spk06	mɑɾ	mar	audio/spk06/spk06-r049.wav	primary	reviewed			
+231	snow	spk06	voːɾ	vor	audio/spk06/spk06-r050.wav	primary	reviewed			
+232	stone	spk06	kʰɛrɑ	kera	audio/spk06/spk06-r051.wav	primary	reviewed			
+233	sun	spk06	t̪ʰind͡ʒ	tinc	audio/spk06/spk06-r006.wav	primary	reviewed			
+234	three	spk06	hiɾɪ	hirı	audio/spk06/spk06-r052.wav	primary	reviewed			
+235	to-drink	spk06	ɑwkʰ won	awk won	audio/spk06/spk06-r021.wav	primary	reviewed			
+236	to-eat	spk06	t̪͡ʃi wøn	çi wön	audio/spk06/spk06-r053.wav	primary	reviewed			
+237	to-eat	spk06	wøn	wön	audio/spk06/spk06-r053.wav	alternate	reviewed			
+238	to-fly	spk06	frɛnɑ	frena	audio/spk06/spk06-r054.wav	primary	reviewed			
+239	to-fly	spk06	fɨrɛna	fırena		alternate	reviewed			
+240	to-read	spk06	kʰɪ̆t̪ɑb unøn	kıtab unön	audio/spk06/spk06-r055.wav	primary	reviewed			
+241	to-say-talk	spk06	qʰɑl kʰøn	qal kön	audio/spk06/spk06-r027.wav	primary	reviewed			
+242	to-sit	spk06	runɪʃt̪ʰ	runışt	audio/spk06/spk06-r056.wav	primary	reviewed			
+243	to-sleep	spk06	rɑ kʷʰøn	ra kwön	audio/spk06/spk06-r023.wav	primary	reviewed			
+244	to-swim	spk06	ɑsnɑw kʰøn	asnaw kön	audio/spk06/spk06-r057.wav	primary	reviewed			
+245	to-swim	spk06	ɑsnɑw kʰon	asnaw kon		alternate	reviewed			
+246	to-walk	spk06	ho ʃøn	ho şön	audio/spk06/spk06-r058.wav	primary	reviewed			
+247	to-write	spk06	jɑzɨ nɪsøn	yazı nısön	audio/spk06/spk06-r059.wav	primary	reviewed			
+248	tongue	spk06	zũ	zu	audio/spk06/spk06-r060.wav	primary	reviewed			
+249	tooth	spk06	d̪ɪnd̪u	dındu	audio/spk06/spk06-r061.wav	primary	reviewed			
+250	tree	spk06	d̪aɾ	dar	audio/spk06/spk06-r062.wav	primary	reviewed			
+251	two	spk06	d̪ɪ	dı	audio/spk06/spk06-r063.wav	primary	reviewed			
+252	walnut	spk06	gwɨz	gwız	audio/spk06/spk06-r064.wav	primary	reviewed			
+253	white	spk06	sɨpʰi	sıpi	audio/spk06/spk06-r065.wav	primary	reviewed			
+254	yellow	spk06	zɛɹd̪	zerd	audio/spk06/spk06-r066.wav	primary	reviewed			
+255	belly	spk07	mɛʃkʰ	meşk	audio/spk07/spk07-r050.wav	primary	reviewed			
+256	bird	spk07	mɨlt̪͡ʃɪkʰ	mılçık	audio/spk07/spk07-r020.wav	primary	reviewed			
+257	black	spk07	sijɑ	siya	audio/spk07/spk07-r026.wav	primary	reviewed			
+258	bone	spk07	kʰɑt̪ʰɛ	kate	audio/spk07/spk07-r017.wav	primary	reviewed			
+259	cloud	spk07	howɾ	howr	audio/spk07/spk07-r012.wav	primary	reviewed			
+260	dog	spk07	kʷʰɨt̪ʰɪkʰ	kwıtık	audio/spk07/spk07-r019.wav	primary	reviewed			
+261	ear	spk07	gʷɛʃ	gweş	audio/spk07/spk07-r001.wav	primary	reviewed			
+262	egg	spk07	hɑkʰ	hak	audio/spk07/spk07-r018.wav	primary	reviewed			
+263	eye	spk07	t̪͡ʃɪm	çım	audio/spk07/spk07-r002.wav	primary	reviewed			
+264	fire	spk07	ɑd̪ɨɾ͉	adır	audio/spk07/spk07-r013.wav	primary	reviewed			
+265	fish	spk07	mɑsɛ	mase	audio/spk07/spk07-r022.wav	primary	reviewed			
+266	five	spk07	pʰɑnd̪͡ʒ	panc	audio/spk07/spk07-r049.wav	primary	reviewed			
+267	fly-insect	spk07	hiŋg	hing	audio/spk07/spk07-r037.wav	primary	reviewed			
+268	foot	spk07	nɪŋg	nıng	audio/spk07/spk07-r009.wav	primary	reviewed			
+269	four	spk07	t̪͡ʃɛːɾ	çeer	audio/spk07/spk07-r048.wav	primary	reviewed			
+270	hair	spk07	gɨ̆ʒɪkʰ	gıjık	audio/spk07/spk07-r036.wav	primary	reviewed			
+271	hand	spk07	d̪ɛst̪ʰ	dest	audio/spk07/spk07-r035.wav	primary	reviewed			
+272	head	spk07	sɛɾɛ	sere	audio/spk07/spk07-r041.wav	primary	reviewed			
+273	leaf	spk07	pʰɛl	pel	audio/spk07/spk07-r016.wav	primary	reviewed			
+274	moon	spk07	ɑʃm̥	aşm	audio/spk07/spk07-r011.wav	primary	reviewed			
+275	mountain	spk07	kʰuwɛ	kuwe	audio/spk07/spk07-r014.wav	primary	reviewed			
+276	mouth	spk07	fɛkʰ	fek	audio/spk07/spk07-r004.wav	primary	reviewed			
+277	neck	spk07	mɨlᵊ	mıl	audio/spk07/spk07-r008.wav	primary	reviewed			
+278	nose	spk07	zɨnd̪͡ʒ	zınc	audio/spk07/spk07-r003.wav	primary	reviewed			
+279	one	spk07	jow	yow	audio/spk07/spk07-r045.wav	primary	reviewed			
+280	red	spk07	sʉɾ	sür	audio/spk07/spk07-r023.wav	primary	provisional			
+281	snake	spk07	mɑɾ	mar	audio/spk07/spk07-r021.wav	primary	reviewed			
+282	snow	spk07	vowɾ	vowr	audio/spk07/spk07-r043.wav	primary	reviewed			
+283	stone	spk07	kʰɛrɑ	kerra	audio/spk07/spk07-r040.wav	primary	reviewed			
+284	sun	spk07	t̪ʰind̪͡ʒ	tinc	audio/spk07/spk07-r010.wav	primary	provisional			
+285	three	spk07	hiɾjɛ	hirye	audio/spk07/spk07-r047.wav	primary	reviewed			
+286	to-eat	spk07	wɛn	wen	audio/spk07/spk07-r027.wav	primary	reviewed			
+287	to-fly	spk07	mɨlt̪͡ʃɨkʰ hɑ pʰɨrɨnɑ	mılçık ha pırrına	audio/spk07/spk07-r030.wav	primary	reviewed			
+288	to-lie-down	spk07	rɑkʰot̪ʰ	rakot	audio/spk07/spk07-r032.wav	primary	reviewed			
+289	to-read	spk07	kʰɨt̪ʰɑb wanɛn	kıtab wanen	audio/spk07/spk07-r039.wav	primary	reviewed			
+290	to-say-talk	spk07	qʰɑl kʰøn	qal kön	audio/spk07/spk07-r034.wav	primary	reviewed			
+291	to-sit	spk07	rʷɨniʃt̪ʰ	rwınişt	audio/spk07/spk07-r033.wav	primary	reviewed			
+292	to-sleep	spk07	rɑkʰot̪ʰ	rakot	audio/spk07/spk07-r028.wav	primary	reviewed			
+293	to-swim	spk07	ɑsnɔw kʰøn	asnaw kön	audio/spk07/spk07-r029.wav	primary	reviewed			
+294	to-walk	spk07	ʃwønᵊ	şwön	audio/spk07/spk07-r031.wav	primary	reviewed			
+295	to-write	spk07	d̪ɛɹs nusᵊn	Ders nusn	audio/spk07/spk07-r038.wav	primary	reviewed			
+296	tongue	spk07	zu	zu	audio/spk07/spk07-r006.wav	primary	reviewed			
+297	tooth	spk07	d̪ɨnd̪u	dındu	audio/spk07/spk07-r005.wav	primary	reviewed			
+298	tree	spk07	d̪ɑɾ	dar	audio/spk07/spk07-r015.wav	primary	reviewed			
+299	two	spk07	d̪ɨ	dı	audio/spk07/spk07-r046.wav	primary	reviewed			
+300	walnut	spk07	gʷoz	gwoz	audio/spk07/spk07-r044.wav	primary	reviewed			
+301	water	spk07	awkʰ	awk	audio/spk07/spk07-r042.wav	primary	reviewed			
+302	white	spk07	sɨpʰjɛ	sıpye	audio/spk07/spk07-r025.wav	primary	reviewed			
+303	yellow	spk07	zɛɹd̪͉	zerd	audio/spk07/spk07-r024.wav	primary	reviewed			

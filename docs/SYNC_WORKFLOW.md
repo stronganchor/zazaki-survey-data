@@ -48,8 +48,11 @@ Recompute `SHA256SUMS` after any file changes; all text files use UTF-8 and LF.
 ## Current and historical data
 
 `data/atlas-current.json` contains public codes, current curation, response versions
-and published-media hashes. The private capture's fingerprint is recorded without
+and published-media hashes. The source fingerprint identifies the eligible anonymous projection, without
 embedding private IDs, names, initials, contacts, questionnaires, notes or feedback.
+When the website also contains speakers without dataset-release permission, exclude
+those speakers and any aggregates containing them before computing the export hash.
+Keep the full-site fingerprint only in the private reconciliation evidence.
 
 Current accepted website data feeds active `responses`, `forms`, `annotations` and
 their TSV projections. Full response text stays separate from selected display forms.
