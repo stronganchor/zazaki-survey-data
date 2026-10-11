@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "https://zazacaogren.com/atlas/",
-  "source_content_sha256": "eb218cb8c577cdec8be4c1ba90ed932738ee4b69b8ba6f464391ffe48b4ac74d",
+  "source_content_sha256": "1a9f3a6dce8c651e92e4b161170238a38421eb23f352a919ecda728cf8f60dcc",
   "concepts": [
     {
       "id": "ear",
@@ -7520,25 +7520,25 @@
       "id": "spk06:one",
       "speaker_id": "spk06",
       "concept_id": "one",
-      "version": 1,
-      "orthography": "yıw",
-      "ipa": "jɪ̞w",
+      "version": 2,
+      "orthography": "yow",
+      "ipa": "jow",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
       "display_forms": [
         {
           "role": "primary",
-          "orthography": "yıw",
-          "ipa": "jɪ̞w",
+          "orthography": "yow",
+          "ipa": "jow",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
       ],
       "forms": [
         {
-          "form": "yıw",
-          "full_form": "yıw",
+          "form": "yow",
+          "full_form": "yow",
           "lexeme_id": "lex-11f26f44d07c61a2cefa"
         }
       ],
@@ -7644,8 +7644,8 @@
       "id": "spk06:stone",
       "speaker_id": "spk06",
       "concept_id": "stone",
-      "version": 1,
-      "orthography": "kera",
+      "version": 2,
+      "orthography": "kerra",
       "ipa": "kʰɛrɑ",
       "eligibility": "core",
       "user_reviewed": true,
@@ -7653,7 +7653,7 @@
       "display_forms": [
         {
           "role": "primary",
-          "orthography": "kera",
+          "orthography": "kerra",
           "ipa": "kʰɛrɑ",
           "audio_scope": "response",
           "certainty": "reviewed"
@@ -7661,8 +7661,8 @@
       ],
       "forms": [
         {
-          "form": "kera",
-          "full_form": "kera",
+          "form": "kerra",
+          "full_form": "kerra",
           "lexeme_id": "lex-5fa5f388615bfdf36796"
         }
       ],
