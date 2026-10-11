@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "https://zazacaogren.com/atlas/",
-  "source_content_sha256": "eae34ba389c6f0b62fe80552353a589b8d39c52d045added52b6faf0c1e481ae",
+  "source_content_sha256": "998a161d850b2a7ee02efff9a8eaa040251e70bc585bf54d2f3dbd754bfc1d85",
   "concepts": [
     {
       "id": "ear",
@@ -452,10 +452,10 @@
       "language_iso639_3": "zza",
       "sex": "male",
       "location": {
-        "village_tr": "",
-        "village_zz": "",
-        "district_tr": "",
-        "district_zz": "",
+        "village_tr": "Çobançeşmesi",
+        "village_zz": "Dıri",
+        "district_tr": "Genç",
+        "district_zz": "Darê yêni",
         "province_tr": "Bingöl",
         "province_zz": "Çowlig"
       },
