@@ -12,8 +12,13 @@ spk01:eye:1	spk01	eye	çım	t̪͡ʃɪm	primary	reviewed	response
 spk01:feather:1	spk01	feather	pêl miçkû	pʰel mit̪ʃkʰu	primary	reviewed	response
 spk01:fire:1	spk01	fire	adır	ad̪ɨɾ̥	primary	reviewed	response
 spk01:fish:1	spk01	fish	ması	masɪ	primary	reviewed	response
+spk01:five:1	spk01	five	punc	pʰund̪͡ʒ	primary	reviewed	response
+spk01:fly-insect:1	spk01	fly-insect	miyes	mijɛs	primary	reviewed	response
 spk01:foot:1	spk01	foot	lıng	lɪŋg	primary	reviewed	response
+spk01:four:1	spk01	four	çeer	t̪͡ʃɛːɾ	primary	reviewed	response
 spk01:green:1	spk01	green	kwıhe	kʷʰɨhɛ	primary	reviewed	response
+spk01:hair:1	spk01	hair	gıcık	gɨd̪͡ʒɪkʰ	primary	reviewed	response
+spk01:hand:1	spk01	hand	dest	d̪ɛst̪ʰ	primary	reviewed	response
 spk01:knee:1	spk01	knee	qapwêt lingû	qʰapʷʰet̪ʰ lɪŋgu	primary	reviewed	response
 spk01:leaf:1	spk01	leaf	pel	pʰɛl	primary	reviewed	response
 spk01:moon:1	spk01	moon	aşm	aʃm̥	primary	reviewed	response
@@ -21,24 +26,33 @@ spk01:mountain:1	spk01	mountain	kwı	kʷʰɪ	primary	reviewed	response
 spk01:mouth:1	spk01	mouth	fâk	fækʰ	primary	reviewed	response
 spk01:neck:1	spk01	neck	mıl	mɪl	primary	reviewed	response
 spk01:nose:1	spk01	nose	pırnık	pʰɨɾnɪkʰ	primary	reviewed	response
+spk01:one:1	spk01	one	yo	jo	primary	reviewed	response
 spk01:red:1	spk01	red	swır	sʷɨɾ	primary	reviewed	response
 spk01:snake:1	spk01	snake	mar	maɾ̥	primary	reviewed	response
+spk01:snow:1	spk01	snow	vor	voɾ	primary	reviewed	response
+spk01:stone:1	spk01	stone	kerra	c͡çɛrɑ	primary	reviewed	response
 spk01:sun:1	spk01	sun	tic	t̪ʰid̪͡ʒ	primary	reviewed	response
+spk01:three:1	spk01	three	hiryı	hiɾjɪ	primary	reviewed	response
 spk01:to-drink:1	spk01	to-drink	şımen	ʃɪmɛn	primary	reviewed	response
 spk01:to-eat:1	spk01	to-eat	wen	wɛn	primary	reviewed	response
 spk01:to-fly:1	spk01	to-fly	perrena	pʰɛrɛna	primary	reviewed	response
 spk01:to-hear:1	spk01	to-hear	heşnıwıt	hɛʃnɨwɨt̪ʰ	primary	reviewed	response
 spk01:to-lie-down:1	spk01	to-lie-down	qeldayı	qʰæld̪ajɪ	primary	provisional	response
 spk01:to-listen:1	spk01	to-listen	gweştâri ken	gʷɛʃt̪ʰæɾi kʰɛn	primary	reviewed	response
+spk01:to-read:1	spk01	to-read	mwerık ho hunen	mʷɛɾɪkʰ ho hunɛn	primary	reviewed	response
 spk01:to-say-talk:1	spk01	to-say-talk	xâbêr dun	χæbeɾ dun	primary	reviewed	response
 spk01:to-say-talk:2	spk01	to-say-talk	qal ken		alternate	reviewed	none
 spk01:to-sit:1	spk01	to-sit	rınıştayı	rɨnɪʃt̪ʰajɪ	primary	reviewed	response
 spk01:to-sleep:1	spk01	to-sleep	kwen	kʷɛn	primary	reviewed	response
 spk01:to-swim:1	spk01	to-swim	asnow ken	asnow kʰɛn	primary	reviewed	response
 spk01:to-walk:1	spk01	to-walk	rahar ra şın	rahara ʃɪn	primary	reviewed	response
+spk01:to-write:1	spk01	to-write	mwerık ho nışen	mʷɛɾɪkʰ ho nɪʃɛn	primary	reviewed	response
 spk01:tongue:1	spk01	tongue	zun	zun	primary	reviewed	response
 spk01:tooth:1	spk01	tooth	dınun	d̪ɨnun	primary	reviewed	response
 spk01:tree:1	spk01	tree	dar	d̪aɾ	primary	reviewed	response
+spk01:two:1	spk01	two	dı	d̪ɨ	primary	reviewed	response
+spk01:walnut:1	spk01	walnut	gwaz	gʷɑz	primary	reviewed	response
+spk01:water:1	spk01	water	awk	ɑwkʰ	primary	reviewed	response
 spk01:white:1	spk01	white	sıpyê	sɨpʰje	primary	reviewed	response
 spk01:worm:1	spk01	worm	karm	kʰaɹm	primary	reviewed	response
 spk01:yellow:1	spk01	yellow	zerd	zɛɹd̪	primary	reviewed	response

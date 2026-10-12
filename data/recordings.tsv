@@ -48,6 +48,20 @@ spk01-r046	spk01	spk01-atlas		audio/spk01/spk01-r046.wav	129cd39e7223b282bf5caa4
 spk01-r047	spk01	spk01-atlas		audio/spk01/spk01-r047.wav	d493f1f3cfb235f40e4b7790acd285dcf3ea52eb5a959d807d2aa62ac20b9505	2.616	selected_response									not_verified
 spk01-r048	spk01	spk01-atlas		audio/spk01/spk01-r048.wav	1eb467a18766a453cb07138b02ae0ef64b8ce3255d8f613062b01329457d8264	0.938	selected_response									not_verified
 spk01-r049	spk01	spk01-atlas		audio/spk01/spk01-r049.wav	5376b0ddf6868ada10d4f3cd6ee95c0f4f677662b295d440b9f263591165df22	0.727	selected_response									not_verified
+spk01-r050	spk01	spk01-atlas		audio/spk01/spk01-r050.wav	4484ec1533e6a2f4aaa6f6fb0af0fc82b2dcc50482ad481403ba5a4dab6477cd	0.748	selected_response									not_verified
+spk01-r051	spk01	spk01-atlas		audio/spk01/spk01-r051.wav	a241752f4724c9297e81394992f76cf2a769c0e88658b4f953b85d65db42b7df	0.92	selected_response									not_verified
+spk01-r052	spk01	spk01-atlas		audio/spk01/spk01-r052.wav	291bf765bc5b77f3a92982a39634f2d38604a28d2b30c0843464c09705473571	1.03	selected_response									not_verified
+spk01-r053	spk01	spk01-atlas		audio/spk01/spk01-r053.wav	02b13f3f68a8014d2e930eba626c3d76545e55432bb8b4bdaec4e34f499ae084	0.93	selected_response									not_verified
+spk01-r054	spk01	spk01-atlas		audio/spk01/spk01-r054.wav	24e7ddaa8d98d7a039343eab9254d33dc055f41a03f6104e5da1424e874f7a64	0.93	selected_response									not_verified
+spk01-r055	spk01	spk01-atlas		audio/spk01/spk01-r055.wav	f265a111d86f93ce3f5d7f2cc3e43aedae4d6c4636987556420247cdceeb8210	0.662	selected_response									not_verified
+spk01-r056	spk01	spk01-atlas		audio/spk01/spk01-r056.wav	2f3bdd71c516a0c3e9a3b5b7bf1aafb07c30a08bbdd098417e50230c8efa77e3	0.93	selected_response									not_verified
+spk01-r057	spk01	spk01-atlas		audio/spk01/spk01-r057.wav	c6f3ecc2508f19c82e4353292dba1e525fef462b75274c8044e6880ca7b93b50	1.04	selected_response									not_verified
+spk01-r058	spk01	spk01-atlas		audio/spk01/spk01-r058.wav	f8c5c91ec83cb4205eae45a7b264c7ef1b0c8d8f5383e1ff4e8ee8694a1b8466	0.89	selected_response									not_verified
+spk01-r059	spk01	spk01-atlas		audio/spk01/spk01-r059.wav	ef72295b0b6fab40a0ed8aa8e1d80e5a6de9fdba90c33fd2d5aede65251042f7	1.81	selected_response									not_verified
+spk01-r060	spk01	spk01-atlas		audio/spk01/spk01-r060.wav	1e66f0f328c3f480d2a910cc7400b0adf22346330de359ae53e817f5c1342bab	2.02	selected_response									not_verified
+spk01-r061	spk01	spk01-atlas		audio/spk01/spk01-r061.wav	a43a753b64a94211497e34327786d9401ab16f9125bdb1566ec4a5998aa0f426	0.759	selected_response									not_verified
+spk01-r062	spk01	spk01-atlas		audio/spk01/spk01-r062.wav	c99686d5ab6c7f4d66cd7ab5681c364dc78462b6af326fc58e0f314ccdb530e3	0.96	selected_response									not_verified
+spk01-r063	spk01	spk01-atlas		audio/spk01/spk01-r063.wav	5974d59925fa0e475c62467155740ccd9d333fcf94e898c95c8a45ccd8d6794f	0.79	selected_response									not_verified
 spk02-r001	spk02	spk02-s01	2026-09-23-v1-40	audio/spk02/spk02-r001.wav	b30ccb1cfd5c72dba7228e3c60cabec508d6adda2d3e05740f64a75b96f60e5f	1.318	selected_response	gweş	owner_approved_as_spoken	gʷɛʃ	source_transcription_not_separately_approved					complete_reviewed_utterance
 spk02-r002	spk02	spk02-s01	2026-09-23-v1-40	audio/spk02/spk02-r002.wav	3e0aae69d14cd8dc7d7477b97176f7f9107addb7c080b0c30c7be22dbb27c11a	0.617	selected_response	çım	owner_approved_as_spoken	t̪͡ʃɪm	source_transcription_not_separately_approved					complete_reviewed_utterance
 spk02-r003	spk02	spk02-s01	2026-09-23-v1-40	audio/spk02/spk02-r003.wav	eef0317f0bd345e732fb5dd325b7171bd0a4a13b2bb0b16b7d8bf54101e101b1	0.884	selected_response	vıni	owner_approved_as_spoken	vɪni	source_transcription_not_separately_approved					complete_reviewed_utterance

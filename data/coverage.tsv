@@ -12,13 +12,13 @@ spk01:eye	spk01	eye	True	available	True	çım	t̪͡ʃɪm	core	True
 spk01:feather	spk01	feather	False	available	True	pêl miçkû	pʰel mit̪ʃkʰu	core	True
 spk01:fire	spk01	fire	True	available	True	adır	ad̪ɨɾ̥	core	True
 spk01:fish	spk01	fish	True	available	True	ması	masɪ	core	True
-spk01:five	spk01	five	True	not_elicited	False			missing	False
-spk01:fly-insect	spk01	fly-insect	True	not_elicited	False			missing	False
+spk01:five	spk01	five	True	available	True	punc	pʰund̪͡ʒ	core	True
+spk01:fly-insect	spk01	fly-insect	True	available	True	miyes	mijɛs	core	True
 spk01:foot	spk01	foot	True	available	True	lıng	lɪŋg	core	True
-spk01:four	spk01	four	True	not_elicited	False			missing	False
+spk01:four	spk01	four	True	available	True	çeer	t̪͡ʃɛːɾ	core	True
 spk01:green	spk01	green	True	available	True	kwıhe	kʷʰɨhɛ	core	True
-spk01:hair	spk01	hair	True	not_elicited	False			missing	False
-spk01:hand	spk01	hand	True	not_elicited	False			missing	False
+spk01:hair	spk01	hair	True	available	True	gıcık	gɨd̪͡ʒɪkʰ	core	True
+spk01:hand	spk01	hand	True	available	True	dest	d̪ɛst̪ʰ	core	True
 spk01:head	spk01	head	True	not_elicited	False			missing	False
 spk01:knee	spk01	knee	False	available	True	qapwêt lingû	qʰapʷʰet̪ʰ lɪŋgu	core	True
 spk01:leaf	spk01	leaf	True	available	True	pel	pʰɛl	core	True
@@ -27,32 +27,32 @@ spk01:mountain	spk01	mountain	True	available	True	kwı	kʷʰɪ	core	True
 spk01:mouth	spk01	mouth	True	available	True	fâk	fækʰ	core	True
 spk01:neck	spk01	neck	True	available	True	mıl	mɪl	core	True
 spk01:nose	spk01	nose	True	available	True	pırnık	pʰɨɾnɪkʰ	core	True
-spk01:one	spk01	one	True	not_elicited	False			missing	False
+spk01:one	spk01	one	True	available	True	yo	jo	core	True
 spk01:red	spk01	red	True	available	True	swır	sʷɨɾ	core	True
 spk01:snake	spk01	snake	True	available	True	mar	maɾ̥	core	True
-spk01:snow	spk01	snow	True	not_elicited	False			missing	False
-spk01:stone	spk01	stone	True	not_elicited	False			missing	False
+spk01:snow	spk01	snow	True	available	True	vor	voɾ	core	True
+spk01:stone	spk01	stone	True	available	True	kerra	c͡çɛrɑ	core	True
 spk01:sun	spk01	sun	True	available	True	tic	t̪ʰid̪͡ʒ	core	True
-spk01:three	spk01	three	True	not_elicited	False			missing	False
+spk01:three	spk01	three	True	available	True	hiryı	hiɾjɪ	core	True
 spk01:to-drink	spk01	to-drink	False	available	True	ho howk şımen	ho howk ʃɪmɛn	excluded	True
 spk01:to-eat	spk01	to-eat	True	available	True	ho nun wen	ho nun wɛn	core	True
 spk01:to-fly	spk01	to-fly	True	available	True	ha perrena	ha pʰɛrɛna	core	True
 spk01:to-hear	spk01	to-hear	False	available	True	heşnıwıt	hɛʃnɨwɨt̪ʰ	core	True
 spk01:to-lie-down	spk01	to-lie-down	True	available	True	ho qeldayı	ho qʰæld̪ajɪ	core	True
 spk01:to-listen	spk01	to-listen	False	available	True	ho gweştâri ken	ho gʷɛʃt̪ʰæɾi kʰɛn	core	True
-spk01:to-read	spk01	to-read	True	not_elicited	False			missing	False
+spk01:to-read	spk01	to-read	True	available	True	mwerık ho hunen	mʷɛɾɪkʰ ho hunɛn	core	True
 spk01:to-say-talk	spk01	to-say-talk	True	available	True	xâbêr dun	χæbeɾ dun	core	True
 spk01:to-sit	spk01	to-sit	True	available	True	ho rınıştayı	ho rɨnɪʃt̪ʰajɪ	excluded	True
 spk01:to-sleep	spk01	to-sleep	True	available	True	ho kwen	ho kʷɛn	core	True
 spk01:to-swim	spk01	to-swim	True	available	True	ho asnow ken	ho asnow kʰɛn	core	True
 spk01:to-walk	spk01	to-walk	True	available	True	ho rahar ra şın	ho rahaɾ ɾa ʃɪn	core	True
-spk01:to-write	spk01	to-write	True	not_elicited	False			missing	False
+spk01:to-write	spk01	to-write	True	available	True	mwerık ho nışen	mʷɛɾɪkʰ ho nɪʃɛn	core	True
 spk01:tongue	spk01	tongue	True	available	True	zun	zun	core	True
 spk01:tooth	spk01	tooth	True	available	True	dınun	d̪ɨnun	core	True
 spk01:tree	spk01	tree	True	available	True	dar	d̪aɾ	core	True
-spk01:two	spk01	two	True	not_elicited	False			missing	False
-spk01:walnut	spk01	walnut	True	not_elicited	False			missing	False
-spk01:water	spk01	water	True	not_elicited	False			missing	False
+spk01:two	spk01	two	True	available	True	dı	d̪ɨ	core	True
+spk01:walnut	spk01	walnut	True	available	True	gwaz	gʷɑz	core	True
+spk01:water	spk01	water	True	available	True	awk	ɑwkʰ	core	True
 spk01:white	spk01	white	True	available	True	sıpyê	sɨpʰje	core	True
 spk01:worm	spk01	worm	False	available	True	karm	kʰaɹm	core	True
 spk01:yellow	spk01	yellow	True	available	True	zerd	zɛɹd̪	core	True

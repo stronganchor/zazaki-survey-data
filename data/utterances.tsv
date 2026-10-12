@@ -48,6 +48,20 @@ spk01-r046	spk01	audio/spk01/spk01-r046.wav	1.566	red	swır	sʷɨɾ	owner_review
 spk01-r047	spk01	audio/spk01/spk01-r047.wav	2.616	to-eat	ho nun wen	ho nun wɛn	owner_reviewed_working_transcription								wen				not_verified	updated_clip_requires_separate_training_alignment
 spk01-r048	spk01	audio/spk01/spk01-r048.wav	0.938	to-sleep	ho kwen	ho kʷɛn	owner_reviewed_working_transcription								kwen				not_verified	updated_clip_requires_separate_training_alignment
 spk01-r049	spk01	audio/spk01/spk01-r049.wav	0.727	yellow	zerd	zɛɹd̪	owner_reviewed_working_transcription								zerd				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r050	spk01	audio/spk01/spk01-r050.wav	0.748	five	punc	pʰund̪͡ʒ	owner_reviewed_working_transcription								punc				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r051	spk01	audio/spk01/spk01-r051.wav	0.92	fly-insect	miyes	mijɛs	owner_reviewed_working_transcription								miyes				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r052	spk01	audio/spk01/spk01-r052.wav	1.03	four	çeer	t̪͡ʃɛːɾ	owner_reviewed_working_transcription								çeer				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r053	spk01	audio/spk01/spk01-r053.wav	0.93	hair	gıcık	gɨd̪͡ʒɪkʰ	owner_reviewed_working_transcription								gıcık				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r054	spk01	audio/spk01/spk01-r054.wav	0.93	hand	dest	d̪ɛst̪ʰ	owner_reviewed_working_transcription								dest				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r055	spk01	audio/spk01/spk01-r055.wav	0.662	one	yo	jo	owner_reviewed_working_transcription								yo				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r056	spk01	audio/spk01/spk01-r056.wav	0.93	snow	vor	voɾ	owner_reviewed_working_transcription								vor				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r057	spk01	audio/spk01/spk01-r057.wav	1.04	stone	kerra	c͡çɛrɑ	owner_reviewed_working_transcription								kerra				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r058	spk01	audio/spk01/spk01-r058.wav	0.89	three	hiryı	hiɾjɪ	owner_reviewed_working_transcription								hiryı				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r059	spk01	audio/spk01/spk01-r059.wav	1.81	to-read	mwerık ho hunen	mʷɛɾɪkʰ ho hunɛn	owner_reviewed_working_transcription								mwerık ho hunen				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r060	spk01	audio/spk01/spk01-r060.wav	2.02	to-write	mwerık ho nışen	mʷɛɾɪkʰ ho nɪʃɛn	owner_reviewed_working_transcription								mwerık ho nışen				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r061	spk01	audio/spk01/spk01-r061.wav	0.759	two	dı	d̪ɨ	owner_reviewed_working_transcription								dı				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r062	spk01	audio/spk01/spk01-r062.wav	0.96	walnut	gwaz	gʷɑz	owner_reviewed_working_transcription								gwaz				not_verified	updated_clip_requires_separate_training_alignment
+spk01-r063	spk01	audio/spk01/spk01-r063.wav	0.79	water	awk	ɑwkʰ	owner_reviewed_working_transcription								awk				not_verified	updated_clip_requires_separate_training_alignment
 spk02-r001	spk02	audio/spk02/spk02-r001.wav	1.318	ear	gweş	gʷɛʃ	owner_reviewed_working_transcription	gweş	owner_approved_as_spoken	gʷɛʃ	source_transcription_not_separately_approved				gweş				complete_reviewed_utterance	
 spk02-r002	spk02	audio/spk02/spk02-r002.wav	0.617	eye	çım	t̪͡ʃɪm	owner_reviewed_working_transcription	çım	owner_approved_as_spoken	t̪͡ʃɪm	source_transcription_not_separately_approved				çım				complete_reviewed_utterance	
 spk02-r003	spk02	audio/spk02/spk02-r003.wav	0.884	nose	vıni	vɪni	owner_reviewed_working_transcription	vıni	owner_approved_as_spoken	vɪni	source_transcription_not_separately_approved				vıni				complete_reviewed_utterance	
