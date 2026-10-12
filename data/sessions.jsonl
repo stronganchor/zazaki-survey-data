@@ -10,3 +10,4 @@
 {"id": "spk06-s01", "speaker_id": "spk06", "roster_id": "2026-09-23-v1-40", "session_kind": "picture_survey", "source_capture_format": "WebM/Opus", "source_audio_in_repository": false}
 {"id": "spk07-atlas", "speaker_id": "spk07", "roster_id": null, "session_kind": "reviewed_atlas_clip_updates", "source_capture_format": "see_original_session", "source_audio_in_repository": false}
 {"id": "spk07-s01", "speaker_id": "spk07", "roster_id": "2026-10-08-v2-50", "session_kind": "picture_survey", "source_capture_format": "WebM/Opus", "source_audio_in_repository": false}
+{"id": "spk09-atlas", "speaker_id": "spk09", "roster_id": "2026-10-10-v3-50", "session_kind": "reviewed_picture_survey", "source_capture_format": "WebM/Opus", "source_audio_in_repository": false}

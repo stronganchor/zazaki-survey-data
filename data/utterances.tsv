@@ -335,3 +335,49 @@ spk07-r047	spk07	audio/spk07/spk07-r047.wav	0.711	three	hirye	hiɾjɛ	owner_revi
 spk07-r048	spk07	audio/spk07/spk07-r048.wav	0.749	four	çeer	t̪͡ʃɛːɾ	owner_reviewed_working_transcription	çeer	owner_publication_reviewed	t̪͡ʃɛːɾ	owner_publication_reviewed_not_training_approved				çeer				complete_reviewed_utterance	documented_clip_boundary_caveat
 spk07-r049	spk07	audio/spk07/spk07-r049.wav	0.733	five	panc	pʰɑnd̪͡ʒ	owner_reviewed_working_transcription	panc	owner_publication_reviewed	pʰɑnd̪͡ʒ	owner_publication_reviewed_not_training_approved				panc				complete_reviewed_utterance	documented_clip_boundary_caveat
 spk07-r050	spk07	audio/spk07/spk07-r050.wav	0.6	belly	meşk	mɛʃkʰ	owner_reviewed_working_transcription								meşk				not_verified	updated_clip_requires_separate_training_alignment
+spk09-r001	spk09	audio/spk09/spk09-r001.wav	1.29	belly	pizı	pʰizɪ	owner_reviewed_working_transcription								pizı				not_verified	publication_release_requires_separate_training_alignment
+spk09-r002	spk09	audio/spk09/spk09-r002.wav	1.33	bird	mirçık	miɾt̪͡ʃɪkʰ	owner_reviewed_working_transcription								mirçık				not_verified	publication_release_requires_separate_training_alignment
+spk09-r003	spk09	audio/spk09/spk09-r003.wav	1.3	black	sya	sjɑ	owner_reviewed_working_transcription								sya				not_verified	publication_release_requires_separate_training_alignment
+spk09-r004	spk09	audio/spk09/spk09-r004.wav	1.104	bone	estı	ʔɛst̪ʰɪ	owner_reviewed_working_transcription								estı				not_verified	publication_release_requires_separate_training_alignment
+spk09-r005	spk09	audio/spk09/spk09-r005.wav	1.004	cloud	hevr	hɛvr	owner_reviewed_working_transcription								hevr				not_verified	publication_release_requires_separate_training_alignment
+spk09-r006	spk09	audio/spk09/spk09-r006.wav	1.14	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	owner_reviewed_working_transcription								kwıtık				not_verified	publication_release_requires_separate_training_alignment
+spk09-r007	spk09	audio/spk09/spk09-r007.wav	1.151	ear	gweş	gʷɛʃ	owner_reviewed_working_transcription								gweş				not_verified	publication_release_requires_separate_training_alignment
+spk09-r008	spk09	audio/spk09/spk09-r008.wav	0.97	egg	hak	hɑkʰ	owner_reviewed_working_transcription								hak				not_verified	publication_release_requires_separate_training_alignment
+spk09-r009	spk09	audio/spk09/spk09-r009.wav	1.13	eye	çım	t̪͡ʃɪm	owner_reviewed_working_transcription								çım				not_verified	publication_release_requires_separate_training_alignment
+spk09-r010	spk09	audio/spk09/spk09-r010.wav	1.26	fire	adır	ɑːd̪ɨɾ	owner_reviewed_working_transcription								adır				not_verified	publication_release_requires_separate_training_alignment
+spk09-r011	spk09	audio/spk09/spk09-r011.wav	1.48	fish	ması	mɑsɪ	owner_reviewed_working_transcription								ması				not_verified	publication_release_requires_separate_training_alignment
+spk09-r012	spk09	audio/spk09/spk09-r012.wav	1.08	five	ponc	pʰond̪͡ʒ	owner_reviewed_working_transcription								ponc				not_verified	publication_release_requires_separate_training_alignment
+spk09-r013	spk09	audio/spk09/spk09-r013.wav	1.24	fly-insect	mêyes	mejɛs	owner_reviewed_working_transcription								mêyes				not_verified	publication_release_requires_separate_training_alignment
+spk09-r014	spk09	audio/spk09/spk09-r014.wav	1.26	foot	lıng	lɪŋg	owner_reviewed_working_transcription								lıng				not_verified	publication_release_requires_separate_training_alignment
+spk09-r015	spk09	audio/spk09/spk09-r015.wav	1.22	four	çeher	t̪͡ʃɛhɛɾ	owner_reviewed_working_transcription								çeher				not_verified	publication_release_requires_separate_training_alignment
+spk09-r016	spk09	audio/spk09/spk09-r016.wav	1.19	hair	gıjık	gɨʒɪkʰ	owner_reviewed_working_transcription								gıjık				not_verified	publication_release_requires_separate_training_alignment
+spk09-r017	spk09	audio/spk09/spk09-r017.wav	1.11	hand	dest	d̪ɛstʰ	owner_reviewed_working_transcription								dest				not_verified	publication_release_requires_separate_training_alignment
+spk09-r018	spk09	audio/spk09/spk09-r018.wav	1.09	leaf	pel	pʰɛl	owner_reviewed_working_transcription								pel				not_verified	publication_release_requires_separate_training_alignment
+spk09-r019	spk09	audio/spk09/spk09-r019.wav	1.16	moon	aşm	ɑʃm̥	owner_reviewed_working_transcription								aşm				not_verified	publication_release_requires_separate_training_alignment
+spk09-r020	spk09	audio/spk09/spk09-r020.wav	1.06	mountain	kwe	kʷʰɛ	owner_reviewed_working_transcription								kwe				not_verified	publication_release_requires_separate_training_alignment
+spk09-r021	spk09	audio/spk09/spk09-r021.wav	0.97	mouth	fek	fɛkʰ	owner_reviewed_working_transcription								fek				not_verified	publication_release_requires_separate_training_alignment
+spk09-r022	spk09	audio/spk09/spk09-r022.wav	1.2	nose	pırnık	pʰɨɾnɪkʰ	owner_reviewed_working_transcription								pırnık				not_verified	publication_release_requires_separate_training_alignment
+spk09-r023	spk09	audio/spk09/spk09-r023.wav	1.1	one	yo	jo	owner_reviewed_working_transcription								yo				not_verified	publication_release_requires_separate_training_alignment
+spk09-r024	spk09	audio/spk09/spk09-r024.wav	1.15	red	swır	sʷɨɾ	owner_reviewed_working_transcription								swır				not_verified	publication_release_requires_separate_training_alignment
+spk09-r025	spk09	audio/spk09/spk09-r025.wav	1.23	snake	mar	mɑɾ	owner_reviewed_working_transcription								mar				not_verified	publication_release_requires_separate_training_alignment
+spk09-r026	spk09	audio/spk09/spk09-r026.wav	1.19	snow	vor	voɾ	owner_reviewed_working_transcription								vor				not_verified	publication_release_requires_separate_training_alignment
+spk09-r027	spk09	audio/spk09/spk09-r027.wav	1.25	stone	kera	c͡çɛrɑ	owner_reviewed_working_transcription								kera				not_verified	publication_release_requires_separate_training_alignment
+spk09-r028	spk09	audio/spk09/spk09-r028.wav	1.08	sun	tic	t̪ʰid̪͡ʒ	owner_reviewed_working_transcription								tic				not_verified	publication_release_requires_separate_training_alignment
+spk09-r029	spk09	audio/spk09/spk09-r029.wav	1.2	three	hirı	hiɾɪ	owner_reviewed_working_transcription								hirı				not_verified	publication_release_requires_separate_training_alignment
+spk09-r030	spk09	audio/spk09/spk09-r030.wav	1.58	to-eat	ho wen	ho wɛn	owner_reviewed_working_transcription								ho wen				not_verified	publication_release_requires_separate_training_alignment
+spk09-r031	spk09	audio/spk09/spk09-r031.wav	2.19	to-fly	mirçik ha perrena	miɾt̪ʃikʰ hɑ pʰɛrɛnɑ	owner_reviewed_working_transcription								mirçik ha perrena				not_verified	publication_release_requires_separate_training_alignment
+spk09-r032	spk09	audio/spk09/spk09-r032.wav	1.44	to-lie-down	byu derg	bʲu d̪ɛɾg	owner_reviewed_working_transcription								byu derg				not_verified	publication_release_requires_separate_training_alignment
+spk09-r033	spk09	audio/spk09/spk09-r033.wav	1.97	to-read	ho onen	ho onɛn	owner_reviewed_working_transcription								ho onen				not_verified	publication_release_requires_separate_training_alignment
+spk09-r034	spk09	audio/spk09/spk09-r034.wav	1.33	to-say-talk	qal ken	qʰɑl kʰɛn	owner_reviewed_working_transcription								qal ken				not_verified	publication_release_requires_separate_training_alignment
+spk09-r035	spk09	audio/spk09/spk09-r035.wav	1.58	to-sit	nışt rwı	nɪʃt̪ʰ rʷɨ	owner_reviewed_working_transcription								nışt rwı				not_verified	publication_release_requires_separate_training_alignment
+spk09-r036	spk09	audio/spk09/spk09-r036.wav	1.8	to-sleep	ho kwen ra	ho kʷɛn rɑ	owner_reviewed_working_transcription								ho kwen ra				not_verified	publication_release_requires_separate_training_alignment
+spk09-r037	spk09	audio/spk09/spk09-r037.wav	1.98	to-swim	ho asnaw ken	ho ɑsnɑw kʰɛn	owner_reviewed_working_transcription								ho asnaw ken				not_verified	publication_release_requires_separate_training_alignment
+spk09-r038	spk09	audio/spk09/spk09-r038.wav	1.57	to-write	ho nusen	ho nusɛn	owner_reviewed_working_transcription								ho nusen				not_verified	publication_release_requires_separate_training_alignment
+spk09-r039	spk09	audio/spk09/spk09-r039.wav	1.28	tongue	zon	zon	owner_reviewed_working_transcription								zon				not_verified	publication_release_requires_separate_training_alignment
+spk09-r040	spk09	audio/spk09/spk09-r040.wav	1.3	tooth	dındon	d̪ɨnd̪on	owner_reviewed_working_transcription								dındon				not_verified	publication_release_requires_separate_training_alignment
+spk09-r041	spk09	audio/spk09/spk09-r041.wav	1.13	tree	dar	d̪ɑɾ	owner_reviewed_working_transcription								dar				not_verified	publication_release_requires_separate_training_alignment
+spk09-r042	spk09	audio/spk09/spk09-r042.wav	1.29	two	dı	d̪ɪ	owner_reviewed_working_transcription								dı				not_verified	publication_release_requires_separate_training_alignment
+spk09-r043	spk09	audio/spk09/spk09-r043.wav	1.23	walnut	gwaz	gʷɑz	owner_reviewed_working_transcription								gwaz				not_verified	publication_release_requires_separate_training_alignment
+spk09-r044	spk09	audio/spk09/spk09-r044.wav	1.11	water	awk	ɑwkʰ	owner_reviewed_working_transcription								awk				not_verified	publication_release_requires_separate_training_alignment
+spk09-r045	spk09	audio/spk09/spk09-r045.wav	1.37	white	sıpyı	sɨpʰjɪ	owner_reviewed_working_transcription								sıpyı				not_verified	publication_release_requires_separate_training_alignment
+spk09-r046	spk09	audio/spk09/spk09-r046.wav	1.19	yellow	zerd	zɛɹd̪	owner_reviewed_working_transcription								zerd				not_verified	publication_release_requires_separate_training_alignment

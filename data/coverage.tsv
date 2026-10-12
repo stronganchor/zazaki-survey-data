@@ -398,3 +398,60 @@ spk07:water	spk07	water	True	available	True	awk	awkʰ	core	True
 spk07:white	spk07	white	True	available	True	sıpye	sɨpʰjɛ	core	True
 spk07:worm	spk07	worm	False	not_elicited	False			missing	False
 spk07:yellow	spk07	yellow	True	available	True	zerd	zɛɹd̪͉	core	True
+spk09:belly	spk09	belly	True	available	True	pizı	pʰizɪ	core	True
+spk09:bird	spk09	bird	True	available	True	mirçık	miɾt̪͡ʃɪkʰ	core	True
+spk09:black	spk09	black	True	available	True	sya	sjɑ	core	True
+spk09:bone	spk09	bone	True	available	True	estı	ʔɛst̪ʰɪ	core	True
+spk09:bread-from-eating	spk09	bread-from-eating	False	not_elicited	False			missing	False
+spk09:cloud	spk09	cloud	True	available	True	hevr	hɛvr	core	True
+spk09:dog	spk09	dog	True	available	True	kwıtık	kʷʰɨt̪ʰɪkʰ	core	True
+spk09:ear	spk09	ear	True	available	True	gweş	gʷɛʃ	core	True
+spk09:egg	spk09	egg	True	available	True	hak	hɑkʰ	core	True
+spk09:eye	spk09	eye	True	available	True	çım	t̪͡ʃɪm	core	True
+spk09:feather	spk09	feather	False	not_elicited	False			missing	False
+spk09:fire	spk09	fire	True	available	True	adır	ɑːd̪ɨɾ	core	True
+spk09:fish	spk09	fish	True	available	True	ması	mɑsɪ	core	True
+spk09:five	spk09	five	True	available	True	ponc	pʰond̪͡ʒ	core	True
+spk09:fly-insect	spk09	fly-insect	True	available	True	mêyes	mejɛs	core	True
+spk09:foot	spk09	foot	True	available	True	lıng	lɪŋg	core	True
+spk09:four	spk09	four	True	available	True	çeher	t̪͡ʃɛhɛɾ	core	True
+spk09:green	spk09	green	True	withheld	False			missing	False
+spk09:hair	spk09	hair	True	available	True	gıjık	gɨʒɪkʰ	core	True
+spk09:hand	spk09	hand	True	available	True	dest	d̪ɛstʰ	core	True
+spk09:head	spk09	head	True	withheld	False			missing	False
+spk09:knee	spk09	knee	False	not_elicited	False			missing	False
+spk09:leaf	spk09	leaf	True	available	True	pel	pʰɛl	core	True
+spk09:moon	spk09	moon	True	available	True	aşm	ɑʃm̥	core	True
+spk09:mountain	spk09	mountain	True	available	True	kwe	kʷʰɛ	core	True
+spk09:mouth	spk09	mouth	True	available	True	fek	fɛkʰ	core	True
+spk09:neck	spk09	neck	True	withheld	False			missing	False
+spk09:nose	spk09	nose	True	available	True	pırnık	pʰɨɾnɪkʰ	core	True
+spk09:one	spk09	one	True	available	True	yo	jo	core	True
+spk09:red	spk09	red	True	available	True	swır	sʷɨɾ	core	True
+spk09:snake	spk09	snake	True	available	True	mar	mɑɾ	core	True
+spk09:snow	spk09	snow	True	available	True	vor	voɾ	core	True
+spk09:stone	spk09	stone	True	available	True	kera	c͡çɛrɑ	core	True
+spk09:sun	spk09	sun	True	available	True	tic	t̪ʰid̪͡ʒ	core	True
+spk09:three	spk09	three	True	available	True	hirı	hiɾɪ	core	True
+spk09:to-drink	spk09	to-drink	False	not_elicited	False			missing	False
+spk09:to-eat	spk09	to-eat	True	available	True	ho wen	ho wɛn	core	True
+spk09:to-fly	spk09	to-fly	True	available	True	mirçik ha perrena	miɾt̪ʃikʰ hɑ pʰɛrɛnɑ	core	True
+spk09:to-hear	spk09	to-hear	False	not_elicited	False			missing	False
+spk09:to-lie-down	spk09	to-lie-down	True	available	True	byu derg	bʲu d̪ɛɾg	excluded	True
+spk09:to-listen	spk09	to-listen	False	not_elicited	False			missing	False
+spk09:to-read	spk09	to-read	True	available	True	ho onen	ho onɛn	core	True
+spk09:to-say-talk	spk09	to-say-talk	True	available	True	qal ken	qʰɑl kʰɛn	core	True
+spk09:to-sit	spk09	to-sit	True	available	True	nışt rwı	nɪʃt̪ʰ rʷɨ	excluded	True
+spk09:to-sleep	spk09	to-sleep	True	available	True	ho kwen ra	ho kʷɛn rɑ	core	True
+spk09:to-swim	spk09	to-swim	True	available	True	ho asnaw ken	ho ɑsnɑw kʰɛn	core	True
+spk09:to-walk	spk09	to-walk	True	not_elicited	False			excluded	False
+spk09:to-write	spk09	to-write	True	available	True	ho nusen	ho nusɛn	core	True
+spk09:tongue	spk09	tongue	True	available	True	zon	zon	core	True
+spk09:tooth	spk09	tooth	True	available	True	dındon	d̪ɨnd̪on	core	True
+spk09:tree	spk09	tree	True	available	True	dar	d̪ɑɾ	core	True
+spk09:two	spk09	two	True	available	True	dı	d̪ɪ	core	True
+spk09:walnut	spk09	walnut	True	available	True	gwaz	gʷɑz	core	True
+spk09:water	spk09	water	True	available	True	awk	ɑwkʰ	core	True
+spk09:white	spk09	white	True	available	True	sıpyı	sɨpʰjɪ	core	True
+spk09:worm	spk09	worm	False	not_elicited	False			missing	False
+spk09:yellow	spk09	yellow	True	available	True	zerd	zɛɹd̪	core	True
