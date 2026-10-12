@@ -3,10 +3,13 @@ spk01:belly:1	spk01	belly	pizı	pʰizɪ	primary	reviewed	response
 spk01:bird:1	spk01	bird	mirçık	miɹt̪͡ʃɪkʰ	primary	reviewed	response
 spk01:black:1	spk01	black	sya	sja	primary	reviewed	response
 spk01:bone:1	spk01	bone	estı	ʔɛst̪ʰɪ	primary	reviewed	response
+spk01:bone:2	spk01	bone	este	ʔɛst̪ʰɛ	alternate	reviewed	none
 spk01:bread-from-eating:1	spk01	bread-from-eating	nûn	nun	primary	reviewed	response
 spk01:cloud:1	spk01	cloud	hewır	hɛwɨɾ	primary	reviewed	response
+spk01:cloud:2	spk01	cloud	'hewır	ħɛwɨɾ	alternate	reviewed	none
 spk01:dog:1	spk01	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
 spk01:ear:1	spk01	ear	gweş	gʷɛʃ	primary	reviewed	response
+spk01:ear:2	spk01	ear	gwêş	gʷeʃ	alternate	reviewed	none
 spk01:egg:1	spk01	egg	hak	hakʰ	primary	reviewed	response
 spk01:eye:1	spk01	eye	çım	t̪͡ʃɪm	primary	reviewed	response
 spk01:feather:1	spk01	feather	pêl miçkû	pʰel mit̪ʃkʰu	primary	reviewed	response
@@ -19,6 +22,8 @@ spk01:four:1	spk01	four	çeer	t̪͡ʃɛːɾ	primary	reviewed	response
 spk01:green:1	spk01	green	kwıhe	kʷʰɨhɛ	primary	reviewed	response
 spk01:hair:1	spk01	hair	gıcık	gɨd̪͡ʒɪkʰ	primary	reviewed	response
 spk01:hand:1	spk01	hand	dest	d̪ɛst̪ʰ	primary	reviewed	response
+spk01:hand:2	spk01	hand	dâst	d̪æst̪ʰ	alternate	reviewed	none
+spk01:head:1	spk01	head	sarı	saɾɪ	primary	reviewed	response
 spk01:knee:1	spk01	knee	qapwêt lingû	qʰapʷʰet̪ʰ lɪŋgu	primary	reviewed	response
 spk01:leaf:1	spk01	leaf	pel	pʰɛl	primary	reviewed	response
 spk01:moon:1	spk01	moon	aşm	aʃm̥	primary	reviewed	response
@@ -26,6 +31,7 @@ spk01:mountain:1	spk01	mountain	kwı	kʷʰɪ	primary	reviewed	response
 spk01:mouth:1	spk01	mouth	fâk	fækʰ	primary	reviewed	response
 spk01:neck:1	spk01	neck	mıl	mɪl	primary	reviewed	response
 spk01:nose:1	spk01	nose	pırnık	pʰɨɾnɪkʰ	primary	reviewed	response
+spk01:nose:2	spk01	nose	zinc	zind̪͡ʒ	alternate	reviewed	none
 spk01:one:1	spk01	one	yo	jo	primary	reviewed	response
 spk01:red:1	spk01	red	swır	sʷɨɾ	primary	reviewed	response
 spk01:snake:1	spk01	snake	mar	maɾ̥	primary	reviewed	response
@@ -38,6 +44,7 @@ spk01:to-eat:1	spk01	to-eat	wen	wɛn	primary	reviewed	response
 spk01:to-fly:1	spk01	to-fly	perrena	pʰɛrɛna	primary	reviewed	response
 spk01:to-hear:1	spk01	to-hear	heşnıwıt	hɛʃnɨwɨt̪ʰ	primary	reviewed	response
 spk01:to-lie-down:1	spk01	to-lie-down	qeldayı	qʰæld̪ajɪ	primary	provisional	response
+spk01:to-lie-down:2	spk01	to-lie-down	bi derg	bi d̪ɛɾg	alternate	reviewed	none
 spk01:to-listen:1	spk01	to-listen	gweştâri ken	gʷɛʃt̪ʰæɾi kʰɛn	primary	reviewed	response
 spk01:to-read:1	spk01	to-read	mwerık ho hunen	mʷɛɾɪkʰ ho hunɛn	primary	reviewed	response
 spk01:to-say-talk:1	spk01	to-say-talk	xâbêr dun	χæbeɾ dun	primary	reviewed	response

@@ -19,7 +19,7 @@ spk01:four	spk01	four	True	available	True	çeer	t̪͡ʃɛːɾ	core	True
 spk01:green	spk01	green	True	available	True	kwıhe	kʷʰɨhɛ	core	True
 spk01:hair	spk01	hair	True	available	True	gıcık	gɨd̪͡ʒɪkʰ	core	True
 spk01:hand	spk01	hand	True	available	True	dest	d̪ɛst̪ʰ	core	True
-spk01:head	spk01	head	True	not_elicited	False			missing	False
+spk01:head	spk01	head	True	available	True	sarı	saɾɪ	core	True
 spk01:knee	spk01	knee	False	available	True	qapwêt lingû	qʰapʷʰet̪ʰ lɪŋgu	core	True
 spk01:leaf	spk01	leaf	True	available	True	pel	pʰɛl	core	True
 spk01:moon	spk01	moon	True	available	True	aşm	aʃm̥	core	True
