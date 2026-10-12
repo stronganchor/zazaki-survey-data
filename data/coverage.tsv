@@ -85,7 +85,7 @@ spk02:mouth	spk02	mouth	True	available	True	fek	fɛkʰ	core	True
 spk02:neck	spk02	neck	True	available	True	mıl	mɪl	core	True
 spk02:nose	spk02	nose	True	available	True	vıni	vɪni	core	True
 spk02:one	spk02	one	True	not_elicited	False			missing	False
-spk02:red	spk02	red	True	available	True	swır	sʷɨɾ	core	True
+spk02:red	spk02	red	True	available	True	swır	swɨɾ	core	True
 spk02:snake	spk02	snake	True	available	True	mar	maɾ	core	True
 spk02:snow	spk02	snow	True	not_elicited	False			missing	False
 spk02:stone	spk02	stone	True	not_elicited	False			missing	False
@@ -296,7 +296,7 @@ spk06:egg	spk06	egg	True	available	True	hak	hɑkʰ	core	True
 spk06:eye	spk06	eye	True	available	True	çım	t̪͡ʃɪm	core	True
 spk06:feather	spk06	feather	False	unresolved_or_different_meaning	False			missing	False
 spk06:fire	spk06	fire	True	available	True	adır	ɑd̪ɨɾ̥	core	True
-spk06:fish	spk06	fish	True	available	True	ması	mɑsɨ	core	True
+spk06:fish	spk06	fish	True	available	True	mase	mɑsɛ	core	True
 spk06:five	spk06	five	True	available	True	punc	pʰũnd̪͡ʒ	core	True
 spk06:fly-insect	spk06	fly-insect	True	available	True	miyız	mijɪz	core	True
 spk06:foot	spk06	foot	True	available	True	lıng	lɨŋg̥ʰ	core	True

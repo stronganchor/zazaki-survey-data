@@ -71,7 +71,7 @@ spk02-r020	spk02	audio/spk02/spk02-r020.wav	0.815	dog	kwıtık	kʷʰɨt̪ʰɪkʰ
 spk02-r021	spk02	audio/spk02/spk02-r021.wav	0.953	bird	mılçık	mɪlt̪͡ʃɪkʰ	owner_reviewed_working_transcription	mılçık	owner_approved_as_spoken	mɪlt̪͡ʃɪkʰ	source_transcription_not_separately_approved				mılçık				complete_reviewed_utterance	
 spk02-r022	spk02	audio/spk02/spk02-r022.wav	0.758	snake	mar	maɾ	owner_reviewed_working_transcription	mar	owner_approved_as_spoken	maɾ	source_transcription_not_separately_approved				mar				complete_reviewed_utterance	
 spk02-r023	spk02	audio/spk02/spk02-r023.wav	0.963	fish	mase	masɛ	owner_reviewed_working_transcription	mase	owner_approved_as_spoken	masɛ	source_transcription_not_separately_approved				mase				complete_reviewed_utterance	
-spk02-r024	spk02	audio/spk02/spk02-r024.wav	1.03	red	swır	sʷɨɾ	owner_reviewed_working_transcription	swır	owner_approved_as_spoken	sʷɨɾ	source_transcription_not_separately_approved				swır				complete_reviewed_utterance	
+spk02-r024	spk02	audio/spk02/spk02-r024.wav	1.03	red	swır	swɨɾ	owner_reviewed_working_transcription	swır	owner_approved_as_spoken	sʷɨɾ	source_transcription_not_separately_approved				swır				complete_reviewed_utterance	
 spk02-r025	spk02	audio/spk02/spk02-r025.wav	0.918	green	kwıhe	kʷʰɨhɛ	owner_reviewed_working_transcription	kwıhe	owner_approved_as_spoken	kʷʰɨhɛ	source_transcription_not_separately_approved				kwıhe				complete_reviewed_utterance	
 spk02-r026	spk02	audio/spk02/spk02-r026.wav	0.829	yellow	zerd	zɛɹd̪	owner_reviewed_working_transcription	zerd	owner_approved_as_spoken	zɛɹd̪	source_transcription_not_separately_approved				zerd				complete_reviewed_utterance	
 spk02-r027	spk02	audio/spk02/spk02-r027.wav	1.188	white	sıpi	sɨpʰi	owner_reviewed_working_transcription	sıpi	owner_approved_as_spoken	sɨpʰi	source_transcription_not_separately_approved				sıpi				complete_reviewed_utterance	
@@ -240,7 +240,7 @@ spk06-r033	spk06	audio/spk06/spk06-r033.wav	1.11	ear	gwış	gʷɨʃ	owner_review
 spk06-r034	spk06	audio/spk06/spk06-r034.wav	0.84	egg	hak	hɑkʰ	owner_reviewed_working_transcription								hak				not_verified	updated_clip_requires_separate_training_alignment
 spk06-r035	spk06	audio/spk06/spk06-r035.wav	1.13	eye	çım	t̪͡ʃɪm	owner_reviewed_working_transcription								çım				not_verified	updated_clip_requires_separate_training_alignment
 spk06-r036	spk06	audio/spk06/spk06-r036.wav	1.28	fire	adır	ɑd̪ɨɾ̥	owner_reviewed_working_transcription								adır				not_verified	updated_clip_requires_separate_training_alignment
-spk06-r037	spk06	audio/spk06/spk06-r037.wav	1.21	fish	ması	mɑsɨ	owner_reviewed_working_transcription								ması				not_verified	updated_clip_requires_separate_training_alignment
+spk06-r037	spk06	audio/spk06/spk06-r037.wav	1.21	fish	mase	mɑsɛ	owner_reviewed_working_transcription								mase				not_verified	updated_clip_requires_separate_training_alignment
 spk06-r038	spk06	audio/spk06/spk06-r038.wav	0.99	five	punc	pʰũnd̪͡ʒ	owner_reviewed_working_transcription								punc				not_verified	updated_clip_requires_separate_training_alignment
 spk06-r039	spk06	audio/spk06/spk06-r039.wav	1.45	fly-insect	miyız	mijɪz	owner_reviewed_working_transcription								miyız				not_verified	updated_clip_requires_separate_training_alignment
 spk06-r040	spk06	audio/spk06/spk06-r040.wav	0.97	four	çiyer	t̪͡ʃijɛɾ	owner_reviewed_working_transcription								çiyer				not_verified	updated_clip_requires_separate_training_alignment

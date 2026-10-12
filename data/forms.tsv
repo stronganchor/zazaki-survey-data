@@ -64,7 +64,7 @@ spk02:mountain:1	spk02	mountain	kwı	kʷʰɪ	primary	reviewed	response
 spk02:mouth:1	spk02	mouth	fek	fɛkʰ	primary	reviewed	response
 spk02:neck:1	spk02	neck	mıl	mɪl	primary	reviewed	response
 spk02:nose:1	spk02	nose	vıni	vɪni	primary	reviewed	response
-spk02:red:1	spk02	red	swır	sʷɨɾ	primary	reviewed	response
+spk02:red:1	spk02	red	swır	swɨɾ	primary	reviewed	response
 spk02:snake:1	spk02	snake	mar	maɾ	primary	reviewed	response
 spk02:to-drink:1	spk02	to-drink	wön	wøn	primary	reviewed	response
 spk02:to-eat:1	spk02	to-eat	wön	wøn	primary	reviewed	response
@@ -213,8 +213,7 @@ spk06:ear:1	spk06	ear	gwış	gʷɨʃ	primary	reviewed	response
 spk06:egg:1	spk06	egg	hak	hɑkʰ	primary	reviewed	response
 spk06:eye:1	spk06	eye	çım	t̪͡ʃɪm	primary	reviewed	response
 spk06:fire:1	spk06	fire	adır	ɑd̪ɨɾ̥	primary	reviewed	response
-spk06:fish:1	spk06	fish	ması	mɑsɨ	primary	reviewed	response
-spk06:fish:2	spk06	fish	mase	mɑsɛ	alternate	reviewed	none
+spk06:fish:1	spk06	fish	mase	mɑsɛ	primary	reviewed	response
 spk06:five:1	spk06	five	punc	pʰũnd̪͡ʒ	primary	reviewed	response
 spk06:fly-insect:1	spk06	fly-insect	miyız	mijɪz	primary	reviewed	response
 spk06:foot:1	spk06	foot	lıng	lɨŋg̥ʰ	primary	reviewed	response

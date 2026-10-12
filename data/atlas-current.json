@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "https://zazacaogren.com/atlas/",
-  "source_content_sha256": "1a9f3a6dce8c651e92e4b161170238a38421eb23f352a919ecda728cf8f60dcc",
+  "source_content_sha256": "c9a2ef1bd06ea594d2693f45659876116c029c7a79be56d2a20a1f1f1f8f254e",
   "concepts": [
     {
       "id": "ear",
@@ -441,8 +441,8 @@
         "province_tr": "Bingöl",
         "province_zz": "Çowlig"
       },
-      "location_precision": "district-unspecified",
-      "location_note": "Köy bilgisi henüz belirtilmedi; haritada kesin konum gösterilmez.",
+      "location_precision": "region-approximate",
+      "location_note": "Konum, Bingöl–Palu–Genç arasındaki bölge için yaklaşık bir referans noktasıdır; köy henüz bilinmiyor.",
       "release_license": "CC0-1.0"
     },
     {
@@ -2402,9 +2402,9 @@
       "id": "spk02:red",
       "speaker_id": "spk02",
       "concept_id": "red",
-      "version": 3,
+      "version": 4,
       "orthography": "swır",
-      "ipa": "sʷɨɾ",
+      "ipa": "swɨɾ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -2412,7 +2412,7 @@
         {
           "role": "primary",
           "orthography": "swır",
-          "ipa": "sʷɨɾ",
+          "ipa": "swɨɾ",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
@@ -7083,43 +7083,29 @@
       "id": "spk06:fish",
       "speaker_id": "spk06",
       "concept_id": "fish",
-      "version": 2,
-      "orthography": "ması",
-      "ipa": "mɑsɨ",
+      "version": 3,
+      "orthography": "mase",
+      "ipa": "mɑsɛ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
       "display_forms": [
         {
           "role": "primary",
-          "orthography": "ması",
-          "ipa": "mɑsɨ",
-          "audio_scope": "response",
-          "certainty": "reviewed"
-        },
-        {
-          "role": "alternate",
           "orthography": "mase",
           "ipa": "mɑsɛ",
-          "audio_scope": "none",
+          "audio_scope": "response",
           "certainty": "reviewed"
         }
       ],
       "forms": [
         {
-          "form": "ması",
-          "full_form": "ması",
-          "lexeme_id": "lex-b05f013e000f8ffd94ef"
-        }
-      ],
-      "alternate_forms": [
-        {
           "form": "mase",
           "full_form": "mase",
-          "accepted": true,
           "lexeme_id": "lex-b05f013e000f8ffd94ef"
         }
       ],
+      "alternate_forms": [],
       "segment_distance_eligible": true,
       "lexical_family_comparison_allowed": true,
       "published_audio_sha256": "2474ab24d441af0ceac1f83dc966d578b93cc6889f83b892df0708d2d917d744"
