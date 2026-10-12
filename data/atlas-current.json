@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "https://zazacaogren.com/atlas/",
-  "source_content_sha256": "d97aba0c087634837ab7e7b98c7ae8a335b7c4697fb13b449b576f776b185d65",
+  "source_content_sha256": "bb9133144b484cbb89fe530df8c154684927c8d5c6525f7c32a51eb2a75150ee",
   "concepts": [
     {
       "id": "ear",
@@ -11371,8 +11371,8 @@
       "id": "spk09:stone",
       "speaker_id": "spk09",
       "concept_id": "stone",
-      "version": 1,
-      "orthography": "kera",
+      "version": 2,
+      "orthography": "kerra",
       "ipa": "c͡çɛrɑ",
       "eligibility": "core",
       "user_reviewed": true,
@@ -11380,7 +11380,7 @@
       "display_forms": [
         {
           "role": "primary",
-          "orthography": "kera",
+          "orthography": "kerra",
           "ipa": "c͡çɛrɑ",
           "audio_scope": "response",
           "certainty": "reviewed"
@@ -11388,8 +11388,8 @@
       ],
       "forms": [
         {
-          "form": "kera",
-          "full_form": "kera",
+          "form": "kerra",
+          "full_form": "kerra",
           "lexeme_id": "lex-5fa5f388615bfdf36796"
         }
       ],
