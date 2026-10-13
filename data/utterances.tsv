@@ -178,6 +178,18 @@ spk04-r034	spk04	audio/spk04/spk04-r034.wav	1.3	to-walk	ho girenû	ho giɾɛnu	o
 spk04-r035	spk04	audio/spk04/spk04-r035.wav	0.36	cloud	hor	hoɾ	owner_reviewed_working_transcription					hor	hoɾ	historically_reviewed	hor				not_verified	archival_isolation_decoded_mp3_cache
 spk04-r036	spk04	audio/spk04/spk04-r036.wav	1.04	stone	kwuçı	kʷʰut̪͡ʃɪ	owner_reviewed_working_transcription					kwûçe	kʷʰut̪͡ʃɪ	historically_reviewed	kwuçı				not_verified	archival_isolation_decoded_mp3_cache
 spk04-r037	spk04	audio/spk04/spk04-r037.wav	0.744	snow	vorı	voɾɪ	owner_reviewed_working_transcription					vore	voɾɪ	historically_reviewed	vorı				not_verified	archival_isolation_decoded_mp3_cache
+spk04-r038	spk04	audio/spk04/spk04-r038.wav	0.877	eye	çım	t̪͡ʃɪm	owner_reviewed_working_transcription								çım				not_verified	updated_clip_requires_separate_training_alignment
+spk04-r039	spk04	audio/spk04/spk04-r039.wav	1.02	five	punş	pʰũnʃ	owner_reviewed_working_transcription								punş				not_verified	updated_clip_requires_separate_training_alignment
+spk04-r040	spk04	audio/spk04/spk04-r040.wav	1.26	fly-insect	miyısı	mijɪsɪ	owner_reviewed_working_transcription								miyısı				not_verified	updated_clip_requires_separate_training_alignment
+spk04-r041	spk04	audio/spk04/spk04-r041.wav	1.19	four	çeer	t̪͡ʃɛ̈ːɾ	owner_reviewed_working_transcription								çeer				not_verified	updated_clip_requires_separate_training_alignment;narrow_ipa_centralization_requires_training_review
+spk04-r042	spk04	audio/spk04/spk04-r042.wav	1.059	hair	pwır	pʷʰɨɾ	owner_reviewed_working_transcription								pwır				not_verified	updated_clip_requires_separate_training_alignment
+spk04-r043	spk04	audio/spk04/spk04-r043.wav	1.18	hand	dest	d̪ɛst̪ʰ	owner_reviewed_working_transcription								dest				not_verified	updated_clip_requires_separate_training_alignment
+spk04-r044	spk04	audio/spk04/spk04-r044.wav	0.93	one	yuw	jʊw	owner_reviewed_working_transcription								yuw				not_verified	updated_clip_requires_separate_training_alignment
+spk04-r045	spk04	audio/spk04/spk04-r045.wav	1.26	three	hiryê	hiɾje	owner_reviewed_working_transcription								hiryê				not_verified	updated_clip_requires_separate_training_alignment
+spk04-r046	spk04	audio/spk04/spk04-r046.wav	1.97	to-read	ho kıtabı huneno	ho kʰɨt̪ʰɑbɨ hunɛno	owner_reviewed_working_transcription								ho kıtabı huneno				not_verified	updated_clip_requires_separate_training_alignment
+spk04-r047	spk04	audio/spk04/spk04-r047.wav	1.117	two	dı	d̪ɨ	owner_reviewed_working_transcription								dı				not_verified	updated_clip_requires_separate_training_alignment
+spk04-r048	spk04	audio/spk04/spk04-r048.wav	1.26	walnut	gowzı	gowzɨ	owner_reviewed_working_transcription								gowzı				not_verified	updated_clip_requires_separate_training_alignment
+spk04-r049	spk04	audio/spk04/spk04-r049.wav	1.381	water	owkı	owkʰɪ	owner_reviewed_working_transcription								owkı				not_verified	updated_clip_requires_separate_training_alignment
 spk05-r001	spk05	audio/spk05/spk05-r001.wav	0.9	ear	gweş	gʷɛʃ	owner_reviewed_working_transcription	gweş	owner_approved_as_spoken	gʷɛʃ	source_transcription_not_separately_approved				gweş				complete_reviewed_utterance	documented_clip_boundary_caveat
 spk05-r002	spk05	audio/spk05/spk05-r002.wav	0.79	eye	çım	t̪͡ʃɪm	owner_reviewed_working_transcription	çım	owner_approved_as_spoken	t̪͡ʃɪm	source_transcription_not_separately_approved				çım				complete_reviewed_utterance	documented_clip_boundary_caveat
 spk05-r003	spk05	audio/spk05/spk05-r003.wav	0.93	nose	zınc	zɨnd̪͡ʒ	owner_reviewed_working_transcription	zınc	owner_approved_as_spoken	zɨnd̪͡ʒ	source_transcription_not_separately_approved				zınc				complete_reviewed_utterance	documented_clip_boundary_caveat

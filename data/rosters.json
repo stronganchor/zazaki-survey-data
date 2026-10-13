@@ -200,5 +200,28 @@
     ],
     "mapping_basis": "archived_reviewed_recovery_prompt_mapping",
     "mapping_note": "The recovered Speaker 01 review maps q11 to sun and q13 to cloud. This is a preserved review mapping, not a claim of a surviving original questionnaire roster export."
+  },
+  {
+    "id": "2026-10-13-spk04-followup-16",
+    "concept_ids": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "cloud",
+      "fish",
+      "fly-insect",
+      "water",
+      "walnut",
+      "eye",
+      "hand",
+      "hair",
+      "head",
+      "to-write",
+      "to-read"
+    ],
+    "source_roster_version": "2026-10-09-v1-followup",
+    "base_roster_version": "2026-10-10-v3-50"
   }
 ]

@@ -155,9 +155,15 @@ spk04:cloud:1	spk04	cloud	hor	hoɾ	primary	reviewed	response
 spk04:dog:1	spk04	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
 spk04:ear:1	spk04	ear	gwış	gʷɨʃ	primary	reviewed	response
 spk04:egg:1	spk04	egg	hak	hɑ̆kʰ	primary	provisional	response
+spk04:eye:1	spk04	eye	çım	t̪͡ʃɪm	primary	reviewed	response
 spk04:fire:1	spk04	fire	adır	ad̪ɨɾ̥	primary	reviewed	response
+spk04:five:1	spk04	five	punş	pʰũnʃ	primary	reviewed	response
+spk04:fly-insect:1	spk04	fly-insect	miyısı	mijɪsɪ	primary	reviewed	response
 spk04:foot:1	spk04	foot	nıngı	nɨŋgɪ	primary	provisional	response
+spk04:four:1	spk04	four	çeer	t̪͡ʃɛ̈ːɾ	primary	reviewed	response
 spk04:green:1	spk04	green	kuwı	kʰuwɪ	primary	reviewed	response
+spk04:hair:1	spk04	hair	pwır	pʷʰɨɾ	primary	reviewed	response
+spk04:hand:1	spk04	hand	dest	d̪ɛst̪ʰ	primary	reviewed	response
 spk04:leaf:1	spk04	leaf	pel	pʰɛl	primary	reviewed	response
 spk04:leaf:2	spk04	leaf	pele	pʰɛlɛ	alternate	provisional	response
 spk04:moon:1	spk04	moon	aşmı	aʃmɨ	primary	provisional	response
@@ -165,16 +171,19 @@ spk04:mountain:1	spk04	mountain	kuwı	kʰuwɪ	primary	provisional	response
 spk04:mouth:1	spk04	mouth	fek	fɛkʰ	primary	reviewed	response
 spk04:neck:1	spk04	neck	mıl	mɨl	primary	reviewed	response
 spk04:nose:1	spk04	nose	zıngê	zɪŋge	primary	provisional	response
+spk04:one:1	spk04	one	yuw	jʊw	primary	reviewed	response
 spk04:red:1	spk04	red	sur	suɾ	primary	reviewed	response
 spk04:snake:1	spk04	snake	mâr	mæ̃ɾ	primary	provisional	response
 spk04:snow:1	spk04	snow	vorı	voɾɪ	primary	reviewed	response
 spk04:stone:1	spk04	stone	kwuçı	kʷʰut̪͡ʃɪ	primary	reviewed	response
 spk04:sun:1	spk04	sun	çicı	t̪͡ʃid̪͡ʒɪ	primary	provisional	response
+spk04:three:1	spk04	three	hiryê	hiɾje	primary	reviewed	response
 spk04:to-drink:1	spk04	to-drink	wenû	wɛnu	primary	provisional	response
 spk04:to-eat:1	spk04	to-eat	wınü	wɪnʏ	primary	provisional	response
 spk04:to-fly:1	spk04	to-fly	fır dona	fɨɾ d̪ona	primary	provisional	response
 spk04:to-lie-down:1	spk04	to-lie-down	derkerdaye	d̪ɛɾkʰɛɹd̪ajɛ	primary	provisional	response
 spk04:to-listen:1	spk04	to-listen	gwış nownû ra ser	gʷɨʃ nownu ɾa sɛɾ	primary	provisional	response
+spk04:to-read:1	spk04	to-read	ho kıtabı huneno	ho kʰɨt̪ʰɑbɨ hunɛno	primary	reviewed	response
 spk04:to-say-talk:1	spk04	to-say-talk	qali kenu	qʰali kʰɛnu	primary	provisional	response
 spk04:to-sit:1	spk04	to-sit	rınıştaye	rɨnɨʃt̪ʰajɛ	primary	reviewed	response
 spk04:to-sleep:1	spk04	to-sleep	rakutyo	rakʰut̪ʰjo	primary	provisional	response
@@ -183,6 +192,9 @@ spk04:to-walk:1	spk04	to-walk	girenu	giɾɛnu	primary	provisional	response
 spk04:tongue:1	spk04	tongue	zung	zũŋ	primary	reviewed	response
 spk04:tooth:1	spk04	tooth	dodong	d̪od̪õŋ	primary	reviewed	response
 spk04:tree:1	spk04	tree	darı	d̪aɾɪ	primary	provisional	response
+spk04:two:1	spk04	two	dı	d̪ɨ	primary	reviewed	response
+spk04:walnut:1	spk04	walnut	gowzı	gowzɨ	primary	reviewed	response
+spk04:water:1	spk04	water	owkı	owkʰɪ	primary	reviewed	response
 spk04:white:1	spk04	white	sıpi	sɨpʰi	primary	reviewed	response
 spk04:yellow:1	spk04	yellow	tutık	t̪ʰut̪ʰɪkʰ	primary	provisional	response
 spk05:bird:1	spk05	bird	mirçık	miɾt̪͡ʃɪkʰ	primary	reviewed	response
