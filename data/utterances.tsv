@@ -393,3 +393,40 @@ spk09-r043	spk09	audio/spk09/spk09-r043.wav	1.23	walnut	gwaz	gʷɑz	owner_review
 spk09-r044	spk09	audio/spk09/spk09-r044.wav	1.11	water	awk	ɑwkʰ	owner_reviewed_working_transcription								awk				not_verified	publication_release_requires_separate_training_alignment
 spk09-r045	spk09	audio/spk09/spk09-r045.wav	1.37	white	sıpyı	sɨpʰjɪ	owner_reviewed_working_transcription								sıpyı				not_verified	publication_release_requires_separate_training_alignment
 spk09-r046	spk09	audio/spk09/spk09-r046.wav	1.19	yellow	zerd	zɛɹd̪	owner_reviewed_working_transcription								zerd				not_verified	publication_release_requires_separate_training_alignment
+spk10-r001	spk10	audio/spk10/spk10-r001.wav	0.67	belly	pizı	pʰizɨ	owner_reviewed_working_transcription								pizı				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r002	spk10	audio/spk10/spk10-r002.wav	0.65	bird	mırçık	mɨɾt̪͡ʃɨkʰ	owner_reviewed_working_transcription								mırçık				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r003	spk10	audio/spk10/spk10-r003.wav	0.53	black	sya	sʲa	owner_reviewed_working_transcription								sya				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r004	spk10	audio/spk10/spk10-r004.wav	0.8	bone	estı	ɛst̪ʰɨ	owner_reviewed_working_transcription								estı				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r005	spk10	audio/spk10/spk10-r005.wav	0.7	cloud	hewır van		owner_reviewed_working_transcription								hewır				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r006	spk10	audio/spk10/spk10-r006.wav	0.645	ear	gweş	gʷɛʃ	owner_reviewed_working_transcription								gweş				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r007	spk10	audio/spk10/spk10-r007.wav	0.49	egg	hak	hakʰ	owner_reviewed_working_transcription								hak				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r008	spk10	audio/spk10/spk10-r008.wav	0.74	eye	çım	t͡ʃɪm	owner_reviewed_working_transcription								çım				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r009	spk10	audio/spk10/spk10-r009.wav	0.63	fire	adır	ad̪ɨɾ	owner_reviewed_working_transcription								adır				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r010	spk10	audio/spk10/spk10-r010.wav	0.7	fish	ması	masɨ	owner_reviewed_working_transcription								ması				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r011	spk10	audio/spk10/spk10-r011.wav	0.72	five	ponc	pond͡ʒ	owner_reviewed_working_transcription								ponc				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r012	spk10	audio/spk10/spk10-r012.wav	0.533	fly-insect	miyes	mijɛs	owner_reviewed_working_transcription								miyes				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r013	spk10	audio/spk10/spk10-r013.wav	0.73	foot	lıng	lɨŋg	owner_reviewed_working_transcription								lıng				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r014	spk10	audio/spk10/spk10-r014.wav	0.7	four	çahar	t͡ʃahaɾ	owner_reviewed_working_transcription								çahar				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r015	spk10	audio/spk10/spk10-r015.wav	0.534	green	aşıl	aʃɨl	owner_reviewed_working_transcription								aşıl				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r016	spk10	audio/spk10/spk10-r016.wav	0.44	hair	gıcık	gɨd̪͡ʒɨkʰ	owner_reviewed_working_transcription								gıcık				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r017	spk10	audio/spk10/spk10-r017.wav	0.76	hand	dest	d̪ɛst̪	owner_reviewed_working_transcription								dest				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r018	spk10	audio/spk10/spk10-r018.wav	0.58	leaf	pel	pʰɛʎ	owner_reviewed_working_transcription								pel				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r019	spk10	audio/spk10/spk10-r019.wav	0.48	moon	aşm	aʃm̥	owner_reviewed_working_transcription								aşm				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r020	spk10	audio/spk10/spk10-r020.wav	0.41	mouth	fek	fɛkʰ	owner_reviewed_working_transcription								fek				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r021	spk10	audio/spk10/spk10-r021.wav	0.76	nose	pırnık	pʰɨrnɪcʰ	owner_reviewed_working_transcription								pırnık				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r022	spk10	audio/spk10/spk10-r022.wav	0.56	one	yo	jo	owner_reviewed_working_transcription								yo				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r023	spk10	audio/spk10/spk10-r023.wav	0.38	red	swır	sʷɨɾ	owner_reviewed_working_transcription								swır				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r024	spk10	audio/spk10/spk10-r024.wav	0.66	snake	mar	maɾ	owner_reviewed_working_transcription								mar				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r025	spk10	audio/spk10/spk10-r025.wav	0.7	stone	kerra	cʰɛ̠ra	owner_reviewed_working_transcription								kerra				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r026	spk10	audio/spk10/spk10-r026.wav	0.428	sun	tij	t̪iʒ̥	owner_reviewed_working_transcription								tij				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r027	spk10	audio/spk10/spk10-r027.wav	0.64	three	hirı	hiɾɪ	owner_reviewed_working_transcription								hirı				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r028	spk10	audio/spk10/spk10-r028.wav	1.15	to-eat	ho non wen	ho non wɛn	owner_reviewed_working_transcription								ho non wen				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r029	spk10	audio/spk10/spk10-r029.wav	0.63	to-say-talk	ho qal kön	ho qʰal cʰøn	owner_reviewed_working_transcription								ho qal kön				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r030	spk10	audio/spk10/spk10-r030.wav	1.097	to-walk	pê lıng şın	pe lɪŋg ʃɨn	owner_reviewed_working_transcription								pê lıng şın				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r031	spk10	audio/spk10/spk10-r031.wav	0.583	tongue	zon	zõn	owner_reviewed_working_transcription								zon				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r032	spk10	audio/spk10/spk10-r032.wav	0.495	tooth	dınun	dɨnũ	owner_reviewed_working_transcription								dınun				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r033	spk10	audio/spk10/spk10-r033.wav	0.534	tree	dar	d̪aɾ	owner_reviewed_working_transcription								dar				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r034	spk10	audio/spk10/spk10-r034.wav	0.491	two	dı	d̪ɨ	owner_reviewed_working_transcription								dı				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r035	spk10	audio/spk10/spk10-r035.wav	0.479	walnut	gwaz		owner_reviewed_working_transcription								gwaz				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r036	spk10	audio/spk10/spk10-r036.wav	0.642	white	sıpi	sɨpʰi	owner_reviewed_working_transcription								sıpi				not_verified	updated_clip_requires_separate_training_alignment;lower_quality
+spk10-r037	spk10	audio/spk10/spk10-r037.wav	0.469	yellow	zerd	zɛɹd̪͉	owner_reviewed_working_transcription								zerd				not_verified	updated_clip_requires_separate_training_alignment;lower_quality

@@ -455,3 +455,60 @@ spk09:water	spk09	water	True	available	True	awk	ɑwkʰ	core	True
 spk09:white	spk09	white	True	available	True	sıpyı	sɨpʰjɪ	core	True
 spk09:worm	spk09	worm	False	not_elicited	False			missing	False
 spk09:yellow	spk09	yellow	True	available	True	zerd	zɛɹd̪	core	True
+spk10:belly	spk10	belly	True	available	True	pizı	pʰizɨ	core	True
+spk10:bird	spk10	bird	True	available	True	mırçık	mɨɾt̪͡ʃɨkʰ	core	True
+spk10:black	spk10	black	True	available	True	sya	sʲa	core	True
+spk10:bone	spk10	bone	True	available	True	estı	ɛst̪ʰɨ	core	True
+spk10:bread-from-eating	spk10	bread-from-eating	False	not_elicited	False			missing	False
+spk10:cloud	spk10	cloud	True	available	True	hewır van		core	True
+spk10:dog	spk10	dog	True	withheld	False			excluded	False
+spk10:ear	spk10	ear	True	available	True	gweş	gʷɛʃ	core	True
+spk10:egg	spk10	egg	True	available	True	hak	hakʰ	core	True
+spk10:eye	spk10	eye	True	available	True	çım	t͡ʃɪm	core	True
+spk10:feather	spk10	feather	False	not_elicited	False			missing	False
+spk10:fire	spk10	fire	True	available	True	adır	ad̪ɨɾ	core	True
+spk10:fish	spk10	fish	True	available	True	ması	masɨ	core	True
+spk10:five	spk10	five	True	available	True	ponc	pond͡ʒ	core	True
+spk10:fly-insect	spk10	fly-insect	True	available	True	miyes	mijɛs	core	True
+spk10:foot	spk10	foot	True	available	True	lıng	lɨŋg	core	True
+spk10:four	spk10	four	True	available	True	çahar	t͡ʃahaɾ	core	True
+spk10:green	spk10	green	True	available	True	aşıl	aʃɨl	core	True
+spk10:hair	spk10	hair	True	available	True	gıcık	gɨd̪͡ʒɨkʰ	core	True
+spk10:hand	spk10	hand	True	available	True	dest	d̪ɛst̪	core	True
+spk10:head	spk10	head	True	withheld	False			excluded	False
+spk10:knee	spk10	knee	False	not_elicited	False			missing	False
+spk10:leaf	spk10	leaf	True	available	True	pel	pʰɛʎ	core	True
+spk10:moon	spk10	moon	True	available	True	aşm	aʃm̥	core	True
+spk10:mountain	spk10	mountain	True	withheld	False			pending	True
+spk10:mouth	spk10	mouth	True	available	True	fek	fɛkʰ	core	True
+spk10:neck	spk10	neck	True	withheld	False			excluded	False
+spk10:nose	spk10	nose	True	available	True	pırnık	pʰɨrnɪcʰ	core	True
+spk10:one	spk10	one	True	available	True	yo	jo	core	True
+spk10:red	spk10	red	True	available	True	swır	sʷɨɾ	core	True
+spk10:snake	spk10	snake	True	available	True	mar	maɾ	core	True
+spk10:snow	spk10	snow	True	withheld	False			excluded	False
+spk10:stone	spk10	stone	True	available	True	kerra	cʰɛ̠ra	core	True
+spk10:sun	spk10	sun	True	available	True	tij	t̪iʒ̥	core	True
+spk10:three	spk10	three	True	available	True	hirı	hiɾɪ	core	True
+spk10:to-drink	spk10	to-drink	False	not_elicited	False			missing	False
+spk10:to-eat	spk10	to-eat	True	available	True	ho non wen	ho non wɛn	core	True
+spk10:to-fly	spk10	to-fly	True	withheld	False			excluded	False
+spk10:to-hear	spk10	to-hear	False	not_elicited	False			missing	False
+spk10:to-lie-down	spk10	to-lie-down	True	withheld	False			excluded	False
+spk10:to-listen	spk10	to-listen	False	not_elicited	False			missing	False
+spk10:to-read	spk10	to-read	True	withheld	False			pending	False
+spk10:to-say-talk	spk10	to-say-talk	True	available	True	ho qal kön	ho qʰal cʰøn	core	True
+spk10:to-sit	spk10	to-sit	True	withheld	False			excluded	False
+spk10:to-sleep	spk10	to-sleep	True	withheld	False			pending	False
+spk10:to-swim	spk10	to-swim	True	withheld	False			excluded	False
+spk10:to-walk	spk10	to-walk	True	available	True	pê lıng şın	pe lɪŋg ʃɨn	core	True
+spk10:to-write	spk10	to-write	True	withheld	False			pending	True
+spk10:tongue	spk10	tongue	True	available	True	zon	zõn	core	True
+spk10:tooth	spk10	tooth	True	available	True	dınun	dɨnũ	core	True
+spk10:tree	spk10	tree	True	available	True	dar	d̪aɾ	core	True
+spk10:two	spk10	two	True	available	True	dı	d̪ɨ	core	True
+spk10:walnut	spk10	walnut	True	available	True	gwaz		core	True
+spk10:water	spk10	water	True	withheld	False			excluded	False
+spk10:white	spk10	white	True	available	True	sıpi	sɨpʰi	core	True
+spk10:worm	spk10	worm	False	not_elicited	False			missing	False
+spk10:yellow	spk10	yellow	True	available	True	zerd	zɛɹd̪͉	core	True

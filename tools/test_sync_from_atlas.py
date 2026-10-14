@@ -68,7 +68,7 @@ class SyncTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,'disposition'):self.run_build()
 
     def test_hold_cannot_be_released_implicitly(self):
-        live=next(r for r in self.snapshot['responses'] if r['id']=='spk06:ear')
+        live=next(r for r in self.snapshot['responses'] if self.responses[r['id']]['response_status']=='withheld')
         live['visible']=True
         with self.assertRaisesRegex(AssertionError,'Explicit hold'):self.run_build()
 

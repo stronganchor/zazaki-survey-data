@@ -1,6 +1,6 @@
 # Zazaki survey recordings and transcriptions
 
-Public-domain audio and working transcriptions from a picture-based Zazaki lexical survey. The current release contains **394 clips from eight speakers**, including superseded/historical evidence, totaling approximately **7 minutes**, with orthographic transcriptions, research IPA, selected comparison forms, and speaker location metadata.
+Public-domain audio and working transcriptions from a picture-based Zazaki lexical survey. The current release contains **431 clips from nine speakers**, including superseded/historical evidence, totaling approximately **8 minutes**, with orthographic transcriptions, research IPA, selected comparison forms, and speaker location metadata.
 
 Current published transcriptions follow the live Atlas, synchronized on 2026-10-14. This is a versioned snapshot, with earlier evidence explicitly preserved. It combines responses to the earlier 40-item survey, the expanded 50-item survey, and selected supplementary elicitation. It preserves additional responses and lexical variants rather than forcing one recording per concept. It is incomplete: a missing response does not establish that a speaker lacks a word.
 
@@ -21,7 +21,7 @@ Current published transcriptions follow the live Atlas, synchronized on 2026-10-
 | [data/atlas-current.json](data/atlas-current.json) | Current anonymous website curation and version/hash provenance |
 | [data/rosters.json](data/rosters.json) | The three survey versions with their original item orders |
 
-Audio lives in `audio/spk01/` through `audio/spk07/`, and `audio/spk09/`. All clips are **16 kHz mono PCM16 WAV**. The export preserves the selected PCM exactly, without another codec conversion or loudness adjustment. Original survey captures were compressed WebM/Opus; the supplementary session used AAC/M4A. Three Speaker 04 archival isolation backfills (cloud, stone, snow) preserve pre-existing PCM caches decoded from original MP3 files. WAV does not make those original captures lossless.
+Audio lives in `audio/spk01/` through `audio/spk07/`, `audio/spk09/`, and `audio/spk10/`. All clips are **16 kHz mono PCM16 WAV**. The export preserves the selected PCM exactly, without another codec conversion or loudness adjustment. Original survey captures were compressed WebM/Opus; the supplementary session used AAC/M4A. Three Speaker 04 archival isolation backfills (cloud, stone, snow) preserve pre-existing PCM caches decoded from original MP3 files. WAV does not make those original captures lossless.
 
 Download with GitHub's **Code → Download ZIP**, or clone:
 
@@ -82,3 +82,5 @@ Speaker 09 adds 46 owner-reviewed recordings from the 2026-10-10 reordered 50-it
 The 2026-10-13 update adds 12 reviewed follow-up recordings for Speaker 04, bringing current coverage to 47/50. The prior cloud recording remains selected; fish, head and writing still lack accepted recordings. Publication approval does not make these acoustic training targets automatically eligible.
 
 The 2026-10-14 Atlas checkpoint synchronizes five reviewed transcription/display-form corrections for leaf and bone. Audio and recording IDs are unchanged. Speaker 08 and the three restricted Speaker 09 supplements remain excluded.
+
+Speaker 10 adds 37 owner-reviewed recordings from the 2026-10-10 reordered 50-item roster. All carry a lower-quality recording flag. Thirteen current responses remain withheld with no released audio, transcription, or forms. Reviewed source intervals are retained; publication does not grant acoustic-training eligibility. Names, contact details, questionnaires, and full recordings remain private.

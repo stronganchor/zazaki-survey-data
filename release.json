@@ -1,18 +1,18 @@
 {
   "release_date": "2026-10-14",
   "license": "CC0-1.0",
-  "speakers": 8,
+  "speakers": 9,
   "current_survey_concepts": 50,
   "historical_concept_registry": 57,
-  "unique_recording_clips": 394,
-  "audio_duration_seconds": 445.5781875,
-  "audio_bytes": 14275838,
-  "curated_form_rows": 381,
-  "annotation_rows": 401,
-  "speaker_concept_slots": 456,
+  "unique_recording_clips": 431,
+  "audio_duration_seconds": 468.7181875,
+  "audio_bytes": 15017946,
+  "curated_form_rows": 418,
+  "annotation_rows": 438,
+  "speaker_concept_slots": 513,
   "additional_approved_utterances": 6,
   "additional_historical_recoveries": 2,
-  "explicit_withheld_slots": 4,
+  "explicit_withheld_slots": 17,
   "current_parse_list_overlap": 38,
   "counts_by_speaker": {
     "spk01": 64,
@@ -22,7 +22,8 @@
     "spk05": 41,
     "spk06": 66,
     "spk07": 50,
-    "spk09": 46
+    "spk09": 46,
+    "spk10": 37
   },
   "raw_questionnaires_included": false,
   "full_session_recordings_included": false,
@@ -37,9 +38,10 @@
     34,
     44,
     49,
-    46
+    46,
+    37
   ],
   "superseded_publication_clips": 25,
-  "current_selected_unique_clips": 339,
-  "website_source_content_sha256": "35b89f36c7a9aaa6199a100bdd05fc3f5572b96a91227c567187f3fc83fe1eb4"
+  "current_selected_unique_clips": 376,
+  "website_source_content_sha256": "f388e9dfb15d5f85a53cdf0b7190df2b59fc3d778777d5747759d2aaad8bf47e"
 }
