@@ -2,7 +2,7 @@
 
 Public-domain audio and working transcriptions from a picture-based Zazaki lexical survey. The current release contains **394 clips from eight speakers**, including superseded/historical evidence, totaling approximately **7 minutes**, with orthographic transcriptions, research IPA, selected comparison forms, and speaker location metadata.
 
-Current published transcriptions follow the live Atlas, synchronized on 2026-10-13. This is a versioned snapshot, with earlier evidence explicitly preserved. It combines responses to the earlier 40-item survey, the expanded 50-item survey, and selected supplementary elicitation. It preserves additional responses and lexical variants rather than forcing one recording per concept. It is incomplete: a missing response does not establish that a speaker lacks a word.
+Current published transcriptions follow the live Atlas, synchronized on 2026-10-14. This is a versioned snapshot, with earlier evidence explicitly preserved. It combines responses to the earlier 40-item survey, the expanded 50-item survey, and selected supplementary elicitation. It preserves additional responses and lexical variants rather than forcing one recording per concept. It is incomplete: a missing response does not establish that a speaker lacks a word.
 
 ## Start here
 
@@ -80,3 +80,5 @@ The Speaker 06 follow-up adds 38 selected recordings: 20 replace previous primar
 Speaker 09 adds 46 owner-reviewed recordings from the 2026-10-10 reordered 50-item roster. Walking is excluded pending a matching masculine present form. The public regional label is Palu, Elazığ; the speaker also lived in central Genç during childhood. No village name or private relationship information is released. This addition does not change the previous speakers' recordings or transcriptions.
 
 The 2026-10-13 update adds 12 reviewed follow-up recordings for Speaker 04, bringing current coverage to 47/50. The prior cloud recording remains selected; fish, head and writing still lack accepted recordings. Publication approval does not make these acoustic training targets automatically eligible.
+
+The 2026-10-14 Atlas checkpoint synchronizes five reviewed transcription/display-form corrections for leaf and bone. Audio and recording IDs are unchanged. Speaker 08 and the three restricted Speaker 09 supplements remain excluded.

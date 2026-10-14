@@ -164,7 +164,7 @@ ID	CONCEPT	DOCULECT	IPA	FORM	AUDIO	ROLE	CERTAINTY	COGID	TOKENS	BORROWING
 163	green	spk04	kʰuwɪ	kuwı	audio/spk04/spk04-r021.wav	primary	reviewed			
 164	hair	spk04	pʷʰɨɾ	pwır	audio/spk04/spk04-r042.wav	primary	reviewed			
 165	hand	spk04	d̪ɛst̪ʰ	dest	audio/spk04/spk04-r043.wav	primary	reviewed			
-166	leaf	spk04	pʰɛl	pel	audio/spk04/spk04-r014.wav	primary	reviewed			
+166	leaf	spk04	pʰɛʎ	pel	audio/spk04/spk04-r014.wav	primary	reviewed			
 167	leaf	spk04	pʰɛlɛ	pele	audio/spk04/spk04-r014.wav	alternate	provisional			
 168	moon	spk04	aʃmɨ	aşmı	audio/spk04/spk04-r010.wav	primary	provisional			
 169	mountain	spk04	kʰuwɪ	kuwı	audio/spk04/spk04-r012.wav	primary	provisional			
@@ -199,7 +199,7 @@ ID	CONCEPT	DOCULECT	IPA	FORM	AUDIO	ROLE	CERTAINTY	COGID	TOKENS	BORROWING
 198	yellow	spk04	t̪ʰut̪ʰɪkʰ	tutık	audio/spk04/spk04-r022.wav	primary	provisional			
 199	bird	spk05	miɾt̪͡ʃɪkʰ	mirçık	audio/spk05/spk05-r019.wav	primary	reviewed			
 200	black	spk05	sjɑ	sya	audio/spk05/spk05-r027.wav	primary	reviewed			
-201	bone	spk05	ʔɛst̪ʰɪ	estı	audio/spk05/spk05-r016.wav	primary	reviewed			
+201	bone	spk05	ʔɛst̪ʰɨ	estı	audio/spk05/spk05-r016.wav	primary	reviewed			
 202	bread-from-eating	spk05	no	no	audio/spk05/spk05-r029.wav	primary	reviewed			
 203	cloud	spk05	hoɾɑ	hora	audio/spk05/spk05-r011.wav	primary	reviewed			
 204	dog	spk05	kʷʰɨt̪ʰɪkʰ	kwıtık	audio/spk05/spk05-r018.wav	primary	reviewed			
@@ -210,7 +210,7 @@ ID	CONCEPT	DOCULECT	IPA	FORM	AUDIO	ROLE	CERTAINTY	COGID	TOKENS	BORROWING
 209	fish	spk05	mɑsɨ	ması	audio/spk05/spk05-r021.wav	primary	reviewed			
 210	foot	spk05	lɨŋg	lıng	audio/spk05/spk05-r008.wav	primary	reviewed			
 211	green	spk05	ɑʃɨl	aşıl	audio/spk05/spk05-r024.wav	primary	reviewed			
-212	leaf	spk05	pʰɛl	pel	audio/spk05/spk05-r015.wav	primary	reviewed			
+212	leaf	spk05	pʰɛ̞ʎ	pel	audio/spk05/spk05-r015.wav	primary	reviewed			
 213	moon	spk05	ɑʃm̥͉	aşm	audio/spk05/spk05-r010.wav	primary	reviewed			
 214	mountain	spk05	kʷʰɨ	kwı	audio/spk05/spk05-r013.wav	primary	reviewed			
 215	mouth	spk05	fɛkʰ	fek	audio/spk05/spk05-r004.wav	primary	reviewed			
@@ -303,7 +303,7 @@ ID	CONCEPT	DOCULECT	IPA	FORM	AUDIO	ROLE	CERTAINTY	COGID	TOKENS	BORROWING
 302	hair	spk07	gɨ̆ʒɪkʰ	gıjık	audio/spk07/spk07-r036.wav	primary	reviewed			
 303	hand	spk07	d̪ɛst̪ʰ	dest	audio/spk07/spk07-r035.wav	primary	reviewed			
 304	head	spk07	sɛɾɛ	sere	audio/spk07/spk07-r041.wav	primary	reviewed			
-305	leaf	spk07	pʰɛl	pel	audio/spk07/spk07-r016.wav	primary	reviewed			
+305	leaf	spk07	pʰɛ̞ʎ	pel	audio/spk07/spk07-r016.wav	primary	reviewed			
 306	moon	spk07	ɑʃm̥	aşm	audio/spk07/spk07-r011.wav	primary	reviewed			
 307	mountain	spk07	kʰuwɛ	kuwe	audio/spk07/spk07-r014.wav	primary	reviewed			
 308	mouth	spk07	fɛkʰ	fek	audio/spk07/spk07-r004.wav	primary	reviewed			
@@ -351,7 +351,7 @@ ID	CONCEPT	DOCULECT	IPA	FORM	AUDIO	ROLE	CERTAINTY	COGID	TOKENS	BORROWING
 350	four	spk09	t̪͡ʃɛhɛɾ	çeher	audio/spk09/spk09-r015.wav	primary	reviewed			
 351	hair	spk09	gɨʒɪkʰ	gıjık	audio/spk09/spk09-r016.wav	primary	reviewed			
 352	hand	spk09	d̪ɛstʰ	dest	audio/spk09/spk09-r017.wav	primary	reviewed			
-353	leaf	spk09	pʰɛl	pel	audio/spk09/spk09-r018.wav	primary	reviewed			
+353	leaf	spk09	pʰɛʎ	pel	audio/spk09/spk09-r018.wav	primary	reviewed			
 354	moon	spk09	ɑʃm̥	aşm	audio/spk09/spk09-r019.wav	primary	reviewed			
 355	mountain	spk09	kʷʰɛ	kwe	audio/spk09/spk09-r020.wav	primary	reviewed			
 356	mouth	spk09	fɛkʰ	fek	audio/spk09/spk09-r021.wav	primary	reviewed			

@@ -230,7 +230,7 @@ spk04:yellow	spk04	yellow	True	available	True	tutık	t̪ʰut̪ʰɪkʰ	core	True
 spk05:belly	spk05	belly	True	unresolved_or_different_meaning	True	fınali	fɨnɑli	pending	True
 spk05:bird	spk05	bird	True	available	True	mirçık	miɾt̪͡ʃɪkʰ	core	True
 spk05:black	spk05	black	True	available	True	sya	sjɑ	core	True
-spk05:bone	spk05	bone	True	available	True	estı	ʔɛst̪ʰɪ	core	True
+spk05:bone	spk05	bone	True	available	True	estı	ʔɛst̪ʰɨ	core	True
 spk05:bread-from-eating	spk05	bread-from-eating	False	available	True	ın merdım ho no wen	ɨn mɛɹd̪ɪm ho no wɛn	core	True
 spk05:cloud	spk05	cloud	True	available	True	hora	hoɾɑ	core	True
 spk05:dog	spk05	dog	True	available	True	kwıtık	kʷʰɨt̪ʰɪkʰ	core	True
@@ -249,7 +249,7 @@ spk05:hair	spk05	hair	True	not_elicited	False			missing	False
 spk05:hand	spk05	hand	True	not_elicited	False			missing	False
 spk05:head	spk05	head	True	not_elicited	False			missing	False
 spk05:knee	spk05	knee	False	unresolved_or_different_meaning	True	tımon	t̪ʰɪmon	excluded	True
-spk05:leaf	spk05	leaf	True	available	True	pel	pʰɛl	core	True
+spk05:leaf	spk05	leaf	True	available	True	pel	pʰɛ̞ʎ	core	True
 spk05:moon	spk05	moon	True	available	True	aşm	ɑʃm̥͉	core	True
 spk05:mountain	spk05	mountain	True	available	True	kwı	kʷʰɨ	core	True
 spk05:mouth	spk05	mouth	True	available	True	fek	fɛkʰ	core	True
@@ -363,7 +363,7 @@ spk07:hair	spk07	hair	True	available	True	gıjık	gɨ̆ʒɪkʰ	core	True
 spk07:hand	spk07	hand	True	available	True	dest	d̪ɛst̪ʰ	core	True
 spk07:head	spk07	head	True	available	True	sere	sɛɾɛ	core	True
 spk07:knee	spk07	knee	False	not_elicited	False			missing	False
-spk07:leaf	spk07	leaf	True	available	True	pel	pʰɛl	core	True
+spk07:leaf	spk07	leaf	True	available	True	pel	pʰɛ̞ʎ	core	True
 spk07:moon	spk07	moon	True	available	True	aşm	ɑʃm̥	core	True
 spk07:mountain	spk07	mountain	True	available	True	kuwe	kʰuwɛ	core	True
 spk07:mouth	spk07	mouth	True	available	True	fek	fɛkʰ	core	True
@@ -420,7 +420,7 @@ spk09:hair	spk09	hair	True	available	True	gıjık	gɨʒɪkʰ	core	True
 spk09:hand	spk09	hand	True	available	True	dest	d̪ɛstʰ	core	True
 spk09:head	spk09	head	True	withheld	False			missing	False
 spk09:knee	spk09	knee	False	not_elicited	False			missing	False
-spk09:leaf	spk09	leaf	True	available	True	pel	pʰɛl	core	True
+spk09:leaf	spk09	leaf	True	available	True	pel	pʰɛʎ	core	True
 spk09:moon	spk09	moon	True	available	True	aşm	ɑʃm̥	core	True
 spk09:mountain	spk09	mountain	True	available	True	kwe	kʷʰɛ	core	True
 spk09:mouth	spk09	mouth	True	available	True	fek	fɛkʰ	core	True

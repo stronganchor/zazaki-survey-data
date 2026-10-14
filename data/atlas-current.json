@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "https://zazacaogren.com/atlas/",
-  "source_content_sha256": "4d04c82a019a487aaab4571033c72689393ad0277d336224376035459fa579d7",
+  "source_content_sha256": "35b89f36c7a9aaa6199a100bdd05fc3f5572b96a91227c567187f3fc83fe1eb4",
   "concepts": [
     {
       "id": "ear",
@@ -5415,7 +5415,7 @@
       "id": "spk04:leaf",
       "speaker_id": "spk04",
       "concept_id": "leaf",
-      "version": 5,
+      "version": 6,
       "orthography": "pel pele pel pelu",
       "ipa": "pʰɛl pʰɛlɛ pʰɛl pʰɛlu",
       "eligibility": "core",
@@ -5425,7 +5425,7 @@
         {
           "role": "primary",
           "orthography": "pel",
-          "ipa": "pʰɛl",
+          "ipa": "pʰɛʎ",
           "audio_scope": "response",
           "certainty": "reviewed"
         },
@@ -6518,9 +6518,9 @@
       "id": "spk05:bone",
       "speaker_id": "spk05",
       "concept_id": "bone",
-      "version": 1,
+      "version": 2,
       "orthography": "estı",
-      "ipa": "ʔɛst̪ʰɪ",
+      "ipa": "ʔɛst̪ʰɨ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -6528,7 +6528,7 @@
         {
           "role": "primary",
           "orthography": "estı",
-          "ipa": "ʔɛst̪ʰɪ",
+          "ipa": "ʔɛst̪ʰɨ",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
@@ -6885,9 +6885,9 @@
       "id": "spk05:leaf",
       "speaker_id": "spk05",
       "concept_id": "leaf",
-      "version": 1,
+      "version": 3,
       "orthography": "pel",
-      "ipa": "pʰɛl",
+      "ipa": "pʰɛ̞ʎ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -6895,7 +6895,7 @@
         {
           "role": "primary",
           "orthography": "pel",
-          "ipa": "pʰɛl",
+          "ipa": "pʰɛ̞ʎ",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
@@ -9891,9 +9891,9 @@
       "id": "spk07:leaf",
       "speaker_id": "spk07",
       "concept_id": "leaf",
-      "version": 1,
+      "version": 2,
       "orthography": "pel",
-      "ipa": "pʰɛl",
+      "ipa": "pʰɛ̞ʎ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -9901,7 +9901,7 @@
         {
           "role": "primary",
           "orthography": "pel",
-          "ipa": "pʰɛl",
+          "ipa": "pʰɛ̞ʎ",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
@@ -11447,9 +11447,9 @@
       "id": "spk09:leaf",
       "speaker_id": "spk09",
       "concept_id": "leaf",
-      "version": 1,
+      "version": 2,
       "orthography": "pel",
-      "ipa": "pʰɛl",
+      "ipa": "pʰɛʎ",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -11457,7 +11457,7 @@
         {
           "role": "primary",
           "orthography": "pel",
-          "ipa": "pʰɛl",
+          "ipa": "pʰɛʎ",
           "audio_scope": "response",
           "certainty": "reviewed"
         }

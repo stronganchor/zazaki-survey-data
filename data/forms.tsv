@@ -164,7 +164,7 @@ spk04:four:1	spk04	four	çeer	t̪͡ʃɛ̈ːɾ	primary	reviewed	response
 spk04:green:1	spk04	green	kuwı	kʰuwɪ	primary	reviewed	response
 spk04:hair:1	spk04	hair	pwır	pʷʰɨɾ	primary	reviewed	response
 spk04:hand:1	spk04	hand	dest	d̪ɛst̪ʰ	primary	reviewed	response
-spk04:leaf:1	spk04	leaf	pel	pʰɛl	primary	reviewed	response
+spk04:leaf:1	spk04	leaf	pel	pʰɛʎ	primary	reviewed	response
 spk04:leaf:2	spk04	leaf	pele	pʰɛlɛ	alternate	provisional	response
 spk04:moon:1	spk04	moon	aşmı	aʃmɨ	primary	provisional	response
 spk04:mountain:1	spk04	mountain	kuwı	kʰuwɪ	primary	provisional	response
@@ -199,7 +199,7 @@ spk04:white:1	spk04	white	sıpi	sɨpʰi	primary	reviewed	response
 spk04:yellow:1	spk04	yellow	tutık	t̪ʰut̪ʰɪkʰ	primary	provisional	response
 spk05:bird:1	spk05	bird	mirçık	miɾt̪͡ʃɪkʰ	primary	reviewed	response
 spk05:black:1	spk05	black	sya	sjɑ	primary	reviewed	response
-spk05:bone:1	spk05	bone	estı	ʔɛst̪ʰɪ	primary	reviewed	response
+spk05:bone:1	spk05	bone	estı	ʔɛst̪ʰɨ	primary	reviewed	response
 spk05:bread-from-eating:1	spk05	bread-from-eating	no	no	primary	reviewed	response
 spk05:cloud:1	spk05	cloud	hora	hoɾɑ	primary	reviewed	response
 spk05:dog:1	spk05	dog	kwıtık	kʷʰɨt̪ʰɪkʰ	primary	reviewed	response
@@ -210,7 +210,7 @@ spk05:fire:1	spk05	fire	adır	ɑːd̪ɨɾ	primary	reviewed	response
 spk05:fish:1	spk05	fish	ması	mɑsɨ	primary	reviewed	response
 spk05:foot:1	spk05	foot	lıng	lɨŋg	primary	reviewed	response
 spk05:green:1	spk05	green	aşıl	ɑʃɨl	primary	reviewed	response
-spk05:leaf:1	spk05	leaf	pel	pʰɛl	primary	reviewed	response
+spk05:leaf:1	spk05	leaf	pel	pʰɛ̞ʎ	primary	reviewed	response
 spk05:moon:1	spk05	moon	aşm	ɑʃm̥͉	primary	reviewed	response
 spk05:mountain:1	spk05	mountain	kwı	kʷʰɨ	primary	reviewed	response
 spk05:mouth:1	spk05	mouth	fek	fɛkʰ	primary	reviewed	response
@@ -303,7 +303,7 @@ spk07:four:1	spk07	four	çeer	t̪͡ʃɛːɾ	primary	reviewed	response
 spk07:hair:1	spk07	hair	gıjık	gɨ̆ʒɪkʰ	primary	reviewed	response
 spk07:hand:1	spk07	hand	dest	d̪ɛst̪ʰ	primary	reviewed	response
 spk07:head:1	spk07	head	sere	sɛɾɛ	primary	reviewed	response
-spk07:leaf:1	spk07	leaf	pel	pʰɛl	primary	reviewed	response
+spk07:leaf:1	spk07	leaf	pel	pʰɛ̞ʎ	primary	reviewed	response
 spk07:moon:1	spk07	moon	aşm	ɑʃm̥	primary	reviewed	response
 spk07:mountain:1	spk07	mountain	kuwe	kʰuwɛ	primary	reviewed	response
 spk07:mouth:1	spk07	mouth	fek	fɛkʰ	primary	reviewed	response
@@ -351,7 +351,7 @@ spk09:foot:1	spk09	foot	lıng	lɪŋg	primary	reviewed	response
 spk09:four:1	spk09	four	çeher	t̪͡ʃɛhɛɾ	primary	reviewed	response
 spk09:hair:1	spk09	hair	gıjık	gɨʒɪkʰ	primary	reviewed	response
 spk09:hand:1	spk09	hand	dest	d̪ɛstʰ	primary	reviewed	response
-spk09:leaf:1	spk09	leaf	pel	pʰɛl	primary	reviewed	response
+spk09:leaf:1	spk09	leaf	pel	pʰɛʎ	primary	reviewed	response
 spk09:moon:1	spk09	moon	aşm	ɑʃm̥	primary	reviewed	response
 spk09:mountain:1	spk09	mountain	kwe	kʷʰɛ	primary	reviewed	response
 spk09:mouth:1	spk09	mouth	fek	fɛkʰ	primary	reviewed	response
