@@ -95,7 +95,7 @@ spk02:to-drink	spk02	to-drink	False	available	True	awk wön	awkʰ wøn	excluded	
 spk02:to-eat	spk02	to-eat	True	available	True	no wön	no wøn	core	True
 spk02:to-fly	spk02	to-fly	True	available	True	mılçık ha fırena	mɪlt̪͡ʃɪkʰ ha fɨrɛna	core	True
 spk02:to-hear	spk02	to-hear	False	unresolved_or_different_meaning	False	gweştari kön	gʷɛʃt̪ʰaɾi kʰøn	missing	True
-spk02:to-lie-down	spk02	to-lie-down	True	available	True	mêrdım xwe kyow derg	meɾd̪ɨm χʷɨ kʰʲow d̪ɛɾg	core	True
+spk02:to-lie-down	spk02	to-lie-down	True	available	True	mêrdım xwı kyow derg	meɾd̪ɨm χʷɨ kʰʲow d̪ɛɾg	core	True
 spk02:to-listen	spk02	to-listen	False	available	True	gweştari kön	gʷɛʃt̪ʰaɾi kʰøn	core	True
 spk02:to-read	spk02	to-read	True	not_elicited	False			missing	False
 spk02:to-say-talk	spk02	to-say-talk	True	available	True	mêrdım ha qal kön	meɹd̪ɨm ha qʰal kʰøn	core	True
@@ -353,7 +353,7 @@ spk07:egg	spk07	egg	True	available	True	hak	hɑkʰ	core	True
 spk07:eye	spk07	eye	True	available	True	çım	t̪͡ʃɪm	core	True
 spk07:feather	spk07	feather	False	not_elicited	False			missing	False
 spk07:fire	spk07	fire	True	available	True	adır	ɑd̪ɨɾ͉	core	True
-spk07:fish	spk07	fish	True	available	True	mase	mɑsɛ	core	True
+spk07:fish	spk07	fish	True	available	True	mase	mɑsɛ̈	core	True
 spk07:five	spk07	five	True	available	True	panc	pʰɑnd̪͡ʒ	core	True
 spk07:fly-insect	spk07	fly-insect	True	available	True	hing	hiŋg	core	True
 spk07:foot	spk07	foot	True	available	True	nıng	nɪŋg	core	True

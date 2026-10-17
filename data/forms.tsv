@@ -90,7 +90,7 @@ spk02:snake:1	spk02	snake	mar	maɾ	primary	reviewed	response
 spk02:to-drink:1	spk02	to-drink	wön	wøn	primary	reviewed	response
 spk02:to-eat:1	spk02	to-eat	wön	wøn	primary	reviewed	response
 spk02:to-fly:1	spk02	to-fly	fırena	fɨrɛna	primary	provisional	response
-spk02:to-lie-down:1	spk02	to-lie-down	xwe kyow derg	χʷɨ kʰʲow d̪ɛɾg	primary	provisional	response
+spk02:to-lie-down:1	spk02	to-lie-down	xwı kyow derg	χʷɨ kʰʲow d̪ɛɾg	primary	provisional	response
 spk02:to-listen:1	spk02	to-listen	gweştari kön	gʷɛʃt̪ʰaɾi kʰøn	primary	reviewed	response
 spk02:to-say-talk:1	spk02	to-say-talk	qal kön	qʰal kʰøn	primary	reviewed	response
 spk02:to-say-talk:2	spk02	to-say-talk	xâbêr dun		alternate	provisional	none
@@ -295,7 +295,7 @@ spk07:ear:1	spk07	ear	gweş	gʷɛʃ	primary	reviewed	response
 spk07:egg:1	spk07	egg	hak	hɑkʰ	primary	reviewed	response
 spk07:eye:1	spk07	eye	çım	t̪͡ʃɪm	primary	reviewed	response
 spk07:fire:1	spk07	fire	adır	ɑd̪ɨɾ͉	primary	reviewed	response
-spk07:fish:1	spk07	fish	mase	mɑsɛ	primary	reviewed	response
+spk07:fish:1	spk07	fish	mase	mɑsɛ̈	primary	reviewed	response
 spk07:five:1	spk07	five	panc	pʰɑnd̪͡ʒ	primary	reviewed	response
 spk07:fly-insect:1	spk07	fly-insect	hing	hiŋg	primary	reviewed	response
 spk07:foot:1	spk07	foot	nıng	nɪŋg	primary	reviewed	response

@@ -90,7 +90,7 @@ ID	CONCEPT	DOCULECT	IPA	FORM	AUDIO	ROLE	CERTAINTY	COGID	TOKENS	BORROWING
 89	to-drink	spk02	wøn	wön	audio/spk02/spk02-r029.wav	primary	reviewed			
 90	to-eat	spk02	wøn	wön	audio/spk02/spk02-r030.wav	primary	reviewed			
 91	to-fly	spk02	fɨrɛna	fırena	audio/spk02/spk02-r033.wav	primary	provisional			
-92	to-lie-down	spk02	χʷɨ kʰʲow d̪ɛɾg	xwe kyow derg	audio/spk02/spk02-r035.wav	primary	provisional			
+92	to-lie-down	spk02	χʷɨ kʰʲow d̪ɛɾg	xwı kyow derg	audio/spk02/spk02-r035.wav	primary	provisional			
 93	to-listen	spk02	gʷɛʃt̪ʰaɾi kʰøn	gweştari kön	audio/spk02/spk02-r038.wav	primary	reviewed			
 94	to-say-talk	spk02	qʰal kʰøn	qal kön	audio/spk02/spk02-r037.wav	primary	reviewed			
 95	to-say-talk	spk02		xâbêr dun		alternate	provisional			
@@ -295,7 +295,7 @@ ID	CONCEPT	DOCULECT	IPA	FORM	AUDIO	ROLE	CERTAINTY	COGID	TOKENS	BORROWING
 294	egg	spk07	hɑkʰ	hak	audio/spk07/spk07-r018.wav	primary	reviewed			
 295	eye	spk07	t̪͡ʃɪm	çım	audio/spk07/spk07-r002.wav	primary	reviewed			
 296	fire	spk07	ɑd̪ɨɾ͉	adır	audio/spk07/spk07-r013.wav	primary	reviewed			
-297	fish	spk07	mɑsɛ	mase	audio/spk07/spk07-r022.wav	primary	reviewed			
+297	fish	spk07	mɑsɛ̈	mase	audio/spk07/spk07-r022.wav	primary	reviewed			
 298	five	spk07	pʰɑnd̪͡ʒ	panc	audio/spk07/spk07-r049.wav	primary	reviewed			
 299	fly-insect	spk07	hiŋg	hing	audio/spk07/spk07-r037.wav	primary	reviewed			
 300	foot	spk07	nɪŋg	nıng	audio/spk07/spk07-r009.wav	primary	reviewed			

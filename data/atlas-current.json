@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "https://zazacaogren.com/atlas/",
-  "source_content_sha256": "f388e9dfb15d5f85a53cdf0b7190df2b59fc3d778777d5747759d2aaad8bf47e",
+  "source_content_sha256": "7ae968fee1e2f4cf95a3b7145e5b650cbfbc0f8be3e055b89566fa8bb1f9ed53",
   "concepts": [
     {
       "id": "ear",
@@ -3170,8 +3170,8 @@
       "id": "spk02:to-lie-down",
       "speaker_id": "spk02",
       "concept_id": "to-lie-down",
-      "version": 4,
-      "orthography": "mêrdım xwe kyow derg",
+      "version": 5,
+      "orthography": "mêrdım xwı kyow derg",
       "ipa": "meɾd̪ɨm χʷɨ kʰʲow d̪ɛɾg",
       "eligibility": "core",
       "user_reviewed": true,
@@ -3179,7 +3179,7 @@
       "display_forms": [
         {
           "role": "primary",
-          "orthography": "xwe kyow derg",
+          "orthography": "xwı kyow derg",
           "ipa": "χʷɨ kʰʲow d̪ɛɾg",
           "audio_scope": "response",
           "certainty": "provisional"
@@ -3187,8 +3187,8 @@
       ],
       "forms": [
         {
-          "form": "xwe kyow derg",
-          "full_form": "xwe kyow derg",
+          "form": "xwı kyow derg",
+          "full_form": "xwı kyow derg",
           "lexeme_id": "lex-b9a9ed1c853b8d7b64de"
         }
       ],
@@ -9627,9 +9627,9 @@
       "id": "spk07:fish",
       "speaker_id": "spk07",
       "concept_id": "fish",
-      "version": 1,
+      "version": 2,
       "orthography": "mase",
-      "ipa": "mɑsɛ",
+      "ipa": "mɑsɛ̈",
       "eligibility": "core",
       "user_reviewed": true,
       "visible": true,
@@ -9637,7 +9637,7 @@
         {
           "role": "primary",
           "orthography": "mase",
-          "ipa": "mɑsɛ",
+          "ipa": "mɑsɛ̈",
           "audio_scope": "response",
           "certainty": "reviewed"
         }
