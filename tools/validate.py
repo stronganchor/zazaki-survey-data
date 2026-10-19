@@ -5,6 +5,7 @@ import json
 import re
 import struct
 import wave
+import zipfile
 from collections import Counter
 from pathlib import Path
 
@@ -127,7 +128,14 @@ def main():
     for relative in manifest:
         if relative.endswith('.wav') or relative.startswith('tools/'):
             continue
-        text = (ROOT / relative).read_text(encoding='utf8')
+        if relative.endswith('.xlsx'):
+            with zipfile.ZipFile(ROOT / relative) as workbook:
+                assert 'xl/workbook.xml' in workbook.namelist(), relative
+                assert not any(name.endswith('vbaProject.bin') for name in workbook.namelist()), relative
+                text = '\n'.join(workbook.read(name).decode('utf8') for name in workbook.namelist()
+                                 if name.endswith(('.xml', '.rels')))
+        else:
+            text = (ROOT / relative).read_text(encoding='utf8')
         assert not re.search(r'\b[A-Z]:[\\/]|/(?:Users|home)/|AppData|LOCALAPPDATA|private_wav_path|source_review_path|GITHUB_TOKEN|phone_number|email_address|questionnaire_answers', text, re.I), relative
         if relative.startswith('data/'):
             assert not re.search(r'[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}', text, re.I), relative

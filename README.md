@@ -20,6 +20,7 @@ Current published transcriptions follow the live Atlas, synchronized on 2026-10-
 | [data/concepts.jsonl](data/concepts.jsonl) | English/Turkish labels, historical/current status, and PARSE-list overlap |
 | [data/atlas-current.json](data/atlas-current.json) | Current anonymous website curation and version/hash provenance |
 | [data/rosters.json](data/rosters.json) | The three survey versions with their original item orders |
+| [docs/etymology/README.md](docs/etymology/README.md) | Etymology workbook, sortable research tables, sources, alternatives and qualitative confidence |
 
 Audio lives in `audio/spk01/` through `audio/spk07/`, `audio/spk09/`, and `audio/spk10/`. All clips are **16 kHz mono PCM16 WAV**. The export preserves the selected PCM exactly, without another codec conversion or loudness adjustment. Original survey captures were compressed WebM/Opus; the supplementary session used AAC/M4A. Three Speaker 04 archival isolation backfills (cloud, stone, snow) preserve pre-existing PCM caches decoded from original MP3 files. WAV does not make those original captures lossless.
 
