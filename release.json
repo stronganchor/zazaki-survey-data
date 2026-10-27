@@ -1,5 +1,5 @@
 {
-  "release_date": "2026-10-17",
+  "release_date": "2026-10-27",
   "license": "CC0-1.0",
   "speakers": 9,
   "current_survey_concepts": 50,
@@ -43,5 +43,5 @@
   ],
   "superseded_publication_clips": 25,
   "current_selected_unique_clips": 376,
-  "website_source_content_sha256": "7ae968fee1e2f4cf95a3b7145e5b650cbfbc0f8be3e055b89566fa8bb1f9ed53"
+  "website_source_content_sha256": "2ca7a649cd6d9432c581f2ceed3b7241a3334fadc64e96cc35741797c3cbb52e"
 }

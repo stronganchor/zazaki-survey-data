@@ -206,7 +206,7 @@ spk04:stone	spk04	stone	True	available	True	kwuçı	kʷʰut̪͡ʃɪ	core	True
 spk04:sun	spk04	sun	True	available	True	çicı	t̪͡ʃid̪͡ʒɪ	core	True
 spk04:three	spk04	three	True	available	True	hiryê	hiɾje	core	True
 spk04:to-drink	spk04	to-drink	False	available	True	oko ho wenû	okʰo ho wɛnu	excluded	True
-spk04:to-eat	spk04	to-eat	True	available	True	nong ho wınü	nõŋ ho wɪnʏ	core	True
+spk04:to-eat	spk04	to-eat	True	available	True	noŋ ho wınü	nõŋ ho wɪnʏ	core	True
 spk04:to-fly	spk04	to-fly	True	available	True	ha fır dona	ha fɨɾ d̪ona	core	True
 spk04:to-hear	spk04	to-hear	False	unresolved_or_different_meaning	False	ho gwış nownû ra ser	ho gʷɨʃ nownu ɾa sɛɾ	missing	True
 spk04:to-lie-down	spk04	to-lie-down	True	available	True	ho derkerdaye	ho d̪ɛɾkʰɛɹd̪ajɛ	core	True
@@ -218,8 +218,8 @@ spk04:to-sleep	spk04	to-sleep	True	available	True	ho rakutyo	ho rakʰut̪ʰjo	ex
 spk04:to-swim	spk04	to-swim	True	available	True	o howkıd ho cum kenu	o howkʰɨt̪ ho d̪͡ʒum kʰɛnu	core	True
 spk04:to-walk	spk04	to-walk	True	available	True	ho girenu	ho giɾɛnu	provisional	True
 spk04:to-write	spk04	to-write	True	not_elicited	False			missing	False
-spk04:tongue	spk04	tongue	True	available	True	zung	zũŋ	core	True
-spk04:tooth	spk04	tooth	True	available	True	dodong	d̪od̪õŋ	core	True
+spk04:tongue	spk04	tongue	True	available	True	zuŋ	zũŋ	core	True
+spk04:tooth	spk04	tooth	True	available	True	dodoŋ	d̪od̪õŋ	core	True
 spk04:tree	spk04	tree	True	available	True	darı	d̪aɾɪ	core	True
 spk04:two	spk04	two	True	available	True	dı	d̪ɨ	core	True
 spk04:walnut	spk04	walnut	True	available	True	gowzı	gowzɨ	core	True

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "https://zazacaogren.com/atlas/",
-  "source_content_sha256": "7ae968fee1e2f4cf95a3b7145e5b650cbfbc0f8be3e055b89566fa8bb1f9ed53",
+  "source_content_sha256": "2ca7a649cd6d9432c581f2ceed3b7241a3334fadc64e96cc35741797c3cbb52e",
   "concepts": [
     {
       "id": "ear",
@@ -5873,8 +5873,8 @@
       "id": "spk04:to-eat",
       "speaker_id": "spk04",
       "concept_id": "to-eat",
-      "version": 3,
-      "orthography": "nong ho wınü",
+      "version": 4,
+      "orthography": "noŋ ho wınü",
       "ipa": "nõŋ ho wɪnʏ",
       "eligibility": "core",
       "user_reviewed": true,
@@ -6192,8 +6192,8 @@
       "id": "spk04:tongue",
       "speaker_id": "spk04",
       "concept_id": "tongue",
-      "version": 4,
-      "orthography": "zung",
+      "version": 5,
+      "orthography": "zuŋ",
       "ipa": "zũŋ",
       "eligibility": "core",
       "user_reviewed": true,
@@ -6201,7 +6201,7 @@
       "display_forms": [
         {
           "role": "primary",
-          "orthography": "zung",
+          "orthography": "zuŋ",
           "ipa": "zũŋ",
           "audio_scope": "response",
           "certainty": "reviewed"
@@ -6209,8 +6209,8 @@
       ],
       "forms": [
         {
-          "form": "zung",
-          "full_form": "zung",
+          "form": "zuŋ",
+          "full_form": "zuŋ",
           "lexeme_id": "lex-cdda9099e6d691d69bb3"
         }
       ],
@@ -6223,8 +6223,8 @@
       "id": "spk04:tooth",
       "speaker_id": "spk04",
       "concept_id": "tooth",
-      "version": 3,
-      "orthography": "dodong",
+      "version": 4,
+      "orthography": "dodoŋ",
       "ipa": "d̪od̪õŋ",
       "eligibility": "core",
       "user_reviewed": true,
@@ -6232,7 +6232,7 @@
       "display_forms": [
         {
           "role": "primary",
-          "orthography": "dodong",
+          "orthography": "dodoŋ",
           "ipa": "d̪od̪õŋ",
           "audio_scope": "response",
           "certainty": "reviewed"
@@ -6240,8 +6240,8 @@
       ],
       "forms": [
         {
-          "form": "dodong",
-          "full_form": "dodong",
+          "form": "dodoŋ",
+          "full_form": "dodoŋ",
           "lexeme_id": "lex-ff7c47975b6fe5b59043"
         }
       ],

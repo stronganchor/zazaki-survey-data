@@ -2,7 +2,7 @@
 
 Public-domain audio and working transcriptions from a picture-based Zazaki lexical survey. The current release contains **431 clips from nine speakers**, including superseded/historical evidence, totaling approximately **8 minutes**, with orthographic transcriptions, research IPA, selected comparison forms, and speaker location metadata.
 
-Current published transcriptions follow the live Atlas, synchronized on 2026-10-17. This is a versioned snapshot, with earlier evidence explicitly preserved. It combines responses to the earlier 40-item survey, the expanded 50-item survey, and selected supplementary elicitation. It preserves additional responses and lexical variants rather than forcing one recording per concept. It is incomplete: a missing response does not establish that a speaker lacks a word.
+Current published transcriptions follow the live Atlas, synchronized on 2026-10-27. This is a versioned snapshot, with earlier evidence explicitly preserved. It combines responses to the earlier 40-item survey, the expanded 50-item survey, and selected supplementary elicitation. It preserves additional responses and lexical variants rather than forcing one recording per concept. It is incomplete: a missing response does not establish that a speaker lacks a word.
 
 ## Start here
 
@@ -87,3 +87,5 @@ The 2026-10-14 Atlas checkpoint synchronizes five reviewed transcription/display
 Speaker 10 adds 37 owner-reviewed recordings from the 2026-10-10 reordered 50-item roster. All carry a lower-quality recording flag. Thirteen current responses remain withheld with no released audio, transcription, or forms. Reviewed source intervals are retained; publication does not grant acoustic-training eligibility. Names, contact details, questionnaires, and full recordings remain private.
 
 The 2026-10-17 Atlas synchronization preserves two reviewed spelling/form and research-IPA corrections for Speaker 02 lying down and Speaker 07 fish. Audio bytes, recording IDs, coverage status, publication holds, and training annotations are unchanged.
+
+The 2026-10-27 update uses `ŋ` for reviewed standalone IPA [ŋ] in Speaker 04 tooth `dodoŋ`, tongue `zuŋ`, and the complete eating response `noŋ ho wınü`. This provisional spelling convention leaves actual [ŋg]/[ŋk] clusters, IPA, audio, review status, private training targets, and frozen historical evidence unchanged.
