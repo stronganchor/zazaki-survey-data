@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "speaker_id": "spk11",
+  "license": "CC0-1.0",
+  "purpose": "Research-only supplement outside the Atlas-mirrored response tables; not site publication and not an acoustic training manifest.",
+  "entries": [
+    {
+      "source_item_id": "q34",
+      "concept_id": "hand",
+      "reviewed_orthography": "dest",
+      "research_ipa": null,
+      "audio_path": "research/noisy-responses/audio/spk11-q34-hand.wav",
+      "audio_sha256": "b6280af3eac566522a0ca8d8340579208bcbb5c6ee06bdf8ab3a2713b256a24e",
+      "pcm_sha256": "d9ab90cc6bee075eedee9e4f1aad464e8e2707483b6106888f2cd6a9f71f44e7",
+      "duration_seconds": 0.944,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "quality_flags": [
+        "background_noise",
+        "constant_gain_derivative",
+        "not_site_published",
+        "not_training_approved"
+      ],
+      "audio_release_gate": "Owner-reviewed note reports background noise, while the q37 note separately identifies another person speaking. The owner subsequently authorized noisy GitHub-only release. No independent absence-of-bystander claim is made.",
+      "site_publication": false,
+      "acoustic_training_eligible": false,
+      "github_text_release_approved": true,
+      "github_audio_release_approved": true
+    },
+    {
+      "source_item_id": "q37",
+      "concept_id": "foot",
+      "reviewed_orthography": "lıng",
+      "research_ipa": null,
+      "audio_path": null,
+      "quality_flags": [
+        "third_party_voice_reported",
+        "audio_withheld",
+        "not_site_published",
+        "not_training_approved"
+      ],
+      "audio_release_gate": "Audio withheld because the owner reported another person speaking loudly in the background.",
+      "site_publication": false,
+      "acoustic_training_eligible": false,
+      "github_text_release_approved": true,
+      "github_audio_release_approved": false
+    }
+  ]
+}

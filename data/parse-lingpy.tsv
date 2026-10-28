@@ -417,3 +417,41 @@ ID	CONCEPT	DOCULECT	IPA	FORM	AUDIO	ROLE	CERTAINTY	COGID	TOKENS	BORROWING
 416	walnut	spk10		gwaz	audio/spk10/spk10-r035.wav	primary	reviewed			
 417	white	spk10	sɨpʰi	sıpi	audio/spk10/spk10-r036.wav	primary	reviewed			
 418	yellow	spk10	zɛɹd̪͉	zerd	audio/spk10/spk10-r037.wav	primary	reviewed			
+419	belly	spk11	pʰizɪ	pizı	audio/spk11/spk11-r001.wav	primary	reviewed			
+420	bird	spk11		mirıcik	audio/spk11/spk11-r002.wav	primary	reviewed			
+421	black	spk11	sija	siya	audio/spk11/spk11-r003.wav	primary	reviewed			
+422	bone	spk11		este	audio/spk11/spk11-r004.wav	primary	reviewed			
+423	dog	spk11	kʷʰɨt̪ɨkʰ	kwıtık	audio/spk11/spk11-r005.wav	primary	reviewed			
+424	eye	spk11	t̪͡ʃɪm	çım	audio/spk11/spk11-r006.wav	primary	reviewed			
+425	fire	spk11	ad̪ɨr̥	adır	audio/spk11/spk11-r007.wav	primary	reviewed			
+426	fish	spk11	masɪ	ması	audio/spk11/spk11-r008.wav	primary	reviewed			
+427	five	spk11		penç	audio/spk11/spk11-r009.wav	primary	reviewed			
+428	fly-insect	spk11		mêş	audio/spk11/spk11-r010.wav	primary	reviewed			
+429	four	spk11	t̪ʃaɾ	çar	audio/spk11/spk11-r011.wav	primary	reviewed			
+430	green	spk11	jaʃɨn	yaşın	audio/spk11/spk11-r012.wav	primary	reviewed			
+431	hair	spk11	pʰor̥	por	audio/spk11/spk11-r013.wav	primary	reviewed			
+432	head	spk11		ser	audio/spk11/spk11-r014.wav	primary	reviewed			
+433	leaf	spk11		per	audio/spk11/spk11-r015.wav	primary	reviewed			
+434	mouth	spk11		fek	audio/spk11/spk11-r016.wav	primary	reviewed			
+435	nose	spk11		zınç	audio/spk11/spk11-r017.wav	primary	reviewed			
+436	one	spk11		ju	audio/spk11/spk11-r018.wav	primary	reviewed			
+437	red	spk11	suɾ	sur	audio/spk11/spk11-r019.wav	primary	reviewed			
+438	snake	spk11	mar̥	mar	audio/spk11/spk11-r020.wav	primary	reviewed			
+439	snow	spk11	wɔɾ	wor	audio/spk11/spk11-r021.wav	primary	reviewed			
+440	stone	spk11		si	audio/spk11/spk11-r022.wav	primary	reviewed			
+441	sun	spk11		tij	audio/spk11/spk11-r023.wav	primary	reviewed			
+442	three	spk11	hiɾi	hiri	audio/spk11/spk11-r024.wav	primary	reviewed			
+443	to-eat	spk11		çi weno	audio/spk11/spk11-r025.wav	primary	reviewed			
+444	to-eat	spk11		şami weno	audio/spk11/spk11-r025.wav	alternate	reviewed			
+445	to-fly	spk11		perreno	audio/spk11/spk11-r026.wav	primary	reviewed			
+446	to-read	spk11	wanɛno	waneno	audio/spk11/spk11-r027.wav	primary	reviewed			
+447	to-sit	spk11	roʃɛno	roşeno	audio/spk11/spk11-r028.wav	primary	reviewed			
+448	to-sleep	spk11		rakono	audio/spk11/spk11-r029.wav	primary	provisional			
+449	to-sleep	spk11		hewndo	audio/spk11/spk11-r029.wav	alternate	provisional			
+450	tongue	spk11		zuwan	audio/spk11/spk11-r030.wav	primary	reviewed			
+451	tree	spk11	d̪ar̥	dar	audio/spk11/spk11-r031.wav	primary	reviewed			
+452	two	spk11	d̪ɨd̪ɨ	dıdı	audio/spk11/spk11-r032.wav	primary	reviewed			
+453	walnut	spk11	goz	goz	audio/spk11/spk11-r033.wav	primary	reviewed			
+454	water	spk11		aw	audio/spk11/spk11-r034.wav	primary	reviewed			
+455	white	spk11		sıpe	audio/spk11/spk11-r035.wav	primary	reviewed			
+456	yellow	spk11		zerd	audio/spk11/spk11-r036.wav	primary	reviewed			

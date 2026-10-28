@@ -512,3 +512,60 @@ spk10:water	spk10	water	True	withheld	False			excluded	False
 spk10:white	spk10	white	True	available	True	sıpi	sɨpʰi	core	True
 spk10:worm	spk10	worm	False	not_elicited	False			missing	False
 spk10:yellow	spk10	yellow	True	available	True	zerd	zɛɹd̪͉	core	True
+spk11:belly	spk11	belly	True	available	True	pizı	pʰizɪ	core	True
+spk11:bird	spk11	bird	True	available	True	mirıcik		core	True
+spk11:black	spk11	black	True	available	True	siya	sija	core	True
+spk11:bone	spk11	bone	True	available	True	este		core	True
+spk11:bread-from-eating	spk11	bread-from-eating	False	not_elicited	False			missing	False
+spk11:cloud	spk11	cloud	True	not_elicited	False			excluded	False
+spk11:dog	spk11	dog	True	available	True	kwıtık	kʷʰɨt̪ɨkʰ	core	True
+spk11:ear	spk11	ear	True	not_elicited	False			pending	False
+spk11:egg	spk11	egg	True	not_elicited	False			pending	False
+spk11:eye	spk11	eye	True	available	True	çım	t̪͡ʃɪm	core	True
+spk11:feather	spk11	feather	False	not_elicited	False			missing	False
+spk11:fire	spk11	fire	True	available	True	adır	ad̪ɨr̥	core	True
+spk11:fish	spk11	fish	True	available	True	ması	masɪ	core	True
+spk11:five	spk11	five	True	available	True	penç		core	True
+spk11:fly-insect	spk11	fly-insect	True	available	True	mêş		excluded	True
+spk11:foot	spk11	foot	True	not_elicited	False			excluded	True
+spk11:four	spk11	four	True	available	True	çar	t̪ʃaɾ	core	True
+spk11:green	spk11	green	True	available	True	yaşın	jaʃɨn	excluded	True
+spk11:hair	spk11	hair	True	available	True	por	pʰor̥	core	True
+spk11:hand	spk11	hand	True	not_elicited	False			excluded	True
+spk11:head	spk11	head	True	available	True	ser		core	True
+spk11:knee	spk11	knee	False	not_elicited	False			missing	False
+spk11:leaf	spk11	leaf	True	available	True	per		excluded	True
+spk11:moon	spk11	moon	True	not_elicited	False			excluded	False
+spk11:mountain	spk11	mountain	True	not_elicited	False			excluded	False
+spk11:mouth	spk11	mouth	True	available	True	fek		core	True
+spk11:neck	spk11	neck	True	not_elicited	False			excluded	False
+spk11:nose	spk11	nose	True	available	True	zınç		core	True
+spk11:one	spk11	one	True	available	True	ju		provisional	True
+spk11:red	spk11	red	True	available	True	sur	suɾ	core	True
+spk11:snake	spk11	snake	True	available	True	mar	mar̥	core	True
+spk11:snow	spk11	snow	True	available	True	wor	wɔɾ	core	True
+spk11:stone	spk11	stone	True	available	True	si		excluded	True
+spk11:sun	spk11	sun	True	available	True	tij		core	True
+spk11:three	spk11	three	True	available	True	hiri	hiɾi	core	True
+spk11:to-drink	spk11	to-drink	False	not_elicited	False			missing	False
+spk11:to-eat	spk11	to-eat	True	available	True	çi weno şami weno		core	True
+spk11:to-fly	spk11	to-fly	True	available	True	perreno		core	True
+spk11:to-hear	spk11	to-hear	False	not_elicited	False			missing	False
+spk11:to-lie-down	spk11	to-lie-down	True	not_elicited	False			excluded	False
+spk11:to-listen	spk11	to-listen	False	not_elicited	False			missing	False
+spk11:to-read	spk11	to-read	True	available	True	waneno	wanɛno	core	True
+spk11:to-say-talk	spk11	to-say-talk	True	not_elicited	False			pending	False
+spk11:to-sit	spk11	to-sit	True	available	True	roşeno	roʃɛno	excluded	True
+spk11:to-sleep	spk11	to-sleep	True	available	True	rakono hewndo		excluded	True
+spk11:to-swim	spk11	to-swim	True	not_elicited	False			excluded	False
+spk11:to-walk	spk11	to-walk	True	not_elicited	False			excluded	False
+spk11:to-write	spk11	to-write	True	not_elicited	False			pending	False
+spk11:tongue	spk11	tongue	True	available	True	zuwan		core	True
+spk11:tooth	spk11	tooth	True	not_elicited	False			pending	False
+spk11:tree	spk11	tree	True	available	True	dar	d̪ar̥	core	True
+spk11:two	spk11	two	True	available	True	dıdı	d̪ɨd̪ɨ	provisional	True
+spk11:walnut	spk11	walnut	True	available	True	goz	goz	core	True
+spk11:water	spk11	water	True	available	True	aw		provisional	True
+spk11:white	spk11	white	True	available	True	sıpe		core	True
+spk11:worm	spk11	worm	False	not_elicited	False			missing	False
+spk11:yellow	spk11	yellow	True	available	True	zerd		core	True
