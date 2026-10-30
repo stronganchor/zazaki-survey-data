@@ -519,8 +519,8 @@ spk11:bone	spk11	bone	True	available	True	este		core	True
 spk11:bread-from-eating	spk11	bread-from-eating	False	not_elicited	False			missing	False
 spk11:cloud	spk11	cloud	True	not_elicited	False			excluded	False
 spk11:dog	spk11	dog	True	available	True	kwıtık	kʷʰɨt̪ɨkʰ	core	True
-spk11:ear	spk11	ear	True	not_elicited	False			pending	False
-spk11:egg	spk11	egg	True	not_elicited	False			pending	False
+spk11:ear	spk11	ear	True	available	True	goş	goʃ	core	True
+spk11:egg	spk11	egg	True	available	True	hak	hakʰ	core	True
 spk11:eye	spk11	eye	True	available	True	çım	t̪͡ʃɪm	core	True
 spk11:feather	spk11	feather	False	not_elicited	False			missing	False
 spk11:fire	spk11	fire	True	available	True	adır	ad̪ɨr̥	core	True
@@ -554,14 +554,14 @@ spk11:to-hear	spk11	to-hear	False	not_elicited	False			missing	False
 spk11:to-lie-down	spk11	to-lie-down	True	not_elicited	False			excluded	False
 spk11:to-listen	spk11	to-listen	False	not_elicited	False			missing	False
 spk11:to-read	spk11	to-read	True	available	True	waneno	wanɛno	core	True
-spk11:to-say-talk	spk11	to-say-talk	True	not_elicited	False			pending	False
+spk11:to-say-talk	spk11	to-say-talk	True	available	True	kısêy keno	kʰɨsej kʰɛno	core	True
 spk11:to-sit	spk11	to-sit	True	available	True	roşeno	roʃɛno	excluded	True
 spk11:to-sleep	spk11	to-sleep	True	available	True	rakono hewndo		excluded	True
 spk11:to-swim	spk11	to-swim	True	not_elicited	False			excluded	False
 spk11:to-walk	spk11	to-walk	True	not_elicited	False			excluded	False
-spk11:to-write	spk11	to-write	True	not_elicited	False			pending	False
+spk11:to-write	spk11	to-write	True	withheld	False			excluded	True
 spk11:tongue	spk11	tongue	True	available	True	zuwan		core	True
-spk11:tooth	spk11	tooth	True	not_elicited	False			pending	False
+spk11:tooth	spk11	tooth	True	available	True	dıldan	d̪ɨld̪an	core	True
 spk11:tree	spk11	tree	True	available	True	dar	d̪ar̥	core	True
 spk11:two	spk11	two	True	available	True	dıdı	d̪ɨd̪ɨ	provisional	True
 spk11:walnut	spk11	walnut	True	available	True	goz	goz	core	True

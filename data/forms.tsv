@@ -422,6 +422,8 @@ spk11:bird:1	spk11	bird	mirıcik		primary	reviewed	response
 spk11:black:1	spk11	black	siya	sija	primary	reviewed	response
 spk11:bone:1	spk11	bone	este		primary	reviewed	response
 spk11:dog:1	spk11	dog	kwıtık	kʷʰɨt̪ɨkʰ	primary	reviewed	response
+spk11:ear:1	spk11	ear	goş	goʃ	primary	reviewed	response
+spk11:egg:1	spk11	egg	hak	hakʰ	primary	reviewed	response
 spk11:eye:1	spk11	eye	çım	t̪͡ʃɪm	primary	reviewed	response
 spk11:fire:1	spk11	fire	adır	ad̪ɨr̥	primary	reviewed	response
 spk11:fish:1	spk11	fish	ması	masɪ	primary	reviewed	response
@@ -445,10 +447,12 @@ spk11:to-eat:1	spk11	to-eat	çi weno		primary	reviewed	response
 spk11:to-eat:2	spk11	to-eat	şami weno		alternate	reviewed	response
 spk11:to-fly:1	spk11	to-fly	perreno		primary	reviewed	response
 spk11:to-read:1	spk11	to-read	waneno	wanɛno	primary	reviewed	response
+spk11:to-say-talk:1	spk11	to-say-talk	kısêy keno	kʰɨsej kʰɛno	primary	reviewed	response
 spk11:to-sit:1	spk11	to-sit	roşeno	roʃɛno	primary	reviewed	response
 spk11:to-sleep:1	spk11	to-sleep	rakono		primary	provisional	response
 spk11:to-sleep:2	spk11	to-sleep	hewndo		alternate	provisional	response
 spk11:tongue:1	spk11	tongue	zuwan		primary	reviewed	response
+spk11:tooth:1	spk11	tooth	dıldan	d̪ɨld̪an	primary	reviewed	response
 spk11:tree:1	spk11	tree	dar	d̪ar̥	primary	reviewed	response
 spk11:two:1	spk11	two	dıdı	d̪ɨd̪ɨ	primary	reviewed	response
 spk11:walnut:1	spk11	walnut	goz	goz	primary	reviewed	response

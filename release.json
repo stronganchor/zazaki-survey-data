@@ -4,15 +4,15 @@
   "speakers": 10,
   "current_survey_concepts": 50,
   "historical_concept_registry": 57,
-  "unique_recording_clips": 467,
-  "audio_duration_seconds": 507.8011875,
-  "audio_bytes": 16270186,
-  "curated_form_rows": 456,
-  "annotation_rows": 474,
+  "unique_recording_clips": 471,
+  "audio_duration_seconds": 511.4201875,
+  "audio_bytes": 16386170,
+  "curated_form_rows": 460,
+  "annotation_rows": 478,
   "speaker_concept_slots": 570,
   "additional_approved_utterances": 6,
   "additional_historical_recoveries": 2,
-  "explicit_withheld_slots": 17,
+  "explicit_withheld_slots": 18,
   "current_parse_list_overlap": 38,
   "counts_by_speaker": {
     "spk01": 64,
@@ -24,7 +24,7 @@
     "spk07": 50,
     "spk09": 46,
     "spk10": 37,
-    "spk11": 36
+    "spk11": 40
   },
   "raw_questionnaires_included": false,
   "full_session_recordings_included": false,
@@ -41,9 +41,9 @@
     49,
     46,
     37,
-    36
+    40
   ],
   "superseded_publication_clips": 25,
-  "current_selected_unique_clips": 412,
-  "website_source_content_sha256": "2d42d1d923af8a5a9d896a2fca8d50156184e1fd391100abf672c6fbd62796fe"
+  "current_selected_unique_clips": 416,
+  "website_source_content_sha256": "4ef690b2577b802512932ed48c9e3bf04b9f0851b242a28d90893e0c5807722c"
 }
