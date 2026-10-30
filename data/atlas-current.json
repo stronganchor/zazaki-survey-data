@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "https://zazacaogren.com/atlas/",
-  "source_content_sha256": "a3653d033657f08af93e9f4c5f90c4edb323358e3693aaf73c6434f1755d25da",
+  "source_content_sha256": "2d42d1d923af8a5a9d896a2fca8d50156184e1fd391100abf672c6fbd62796fe",
   "concepts": [
     {
       "id": "ear",
@@ -524,15 +524,15 @@
       "language_iso639_3": "zza",
       "sex": null,
       "location": {
-        "village_tr": "",
-        "village_zz": "",
-        "district_tr": "",
-        "district_zz": "",
-        "province_tr": "",
-        "province_zz": ""
+        "village_tr": "Ekecik",
+        "village_zz": "Desman",
+        "district_tr": "Siverek",
+        "district_zz": "Siverek",
+        "province_tr": "Şanlıurfa",
+        "province_zz": "Şanlıurfa"
       },
-      "location_precision": "unspecified",
-      "location_note": "",
+      "location_precision": "village-reference",
+      "location_note": "Harita, köyün yaklaşık referans noktasını gösterir; mezranın kesin konumu değildir.",
       "release_license": "CC0-1.0"
     }
   ],
